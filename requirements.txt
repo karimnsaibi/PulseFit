@@ -1,0 +1,20 @@
+# Data Preparation & ETL
+pandas
+numpy
+openpyxl
+
+# Data Modeling & Math
+scipy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Interactive Analysis (Recommended for BI)
+jupyter
+notebook
+
+# Utilities
+python-dotenv
