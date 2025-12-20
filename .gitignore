@@ -1,0 +1,17 @@
+# Data generation scripts
+generate_raw_data.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+build/
+dist/
+*.egg-info/
+
+# Data (Optional: ignore raw data if you don't want it in git)
+# data/raw/
