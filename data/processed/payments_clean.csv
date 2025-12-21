@@ -1,1485 +1,1482 @@
 payment_id,member_id,date,amount,payment_method,membership_type
-91310a4a-f,b2a7980d,2022-11-06,80,Credit Card,Monthly
-70d6c839-2,c524c36b,2024-08-19,120,Credit Card,Vip
-4700ceae-c,686c37a2,2024-12-30,800,Cash,Annual
-0cf82801-4,af9c4c58,2022-09-05,80,Bank Transfer,Monthly
-e0dc994d-4,c0bb2790,2024-01-10,60,Bank Transfer,Student
-1c57636e-1,cfcb50a1,2024-02-07,800,Bank Transfer,Annual
-4cc8b67a-c,6b5a28ad,2023-09-29,450,Cash,6-month
-09081ccf-7,c8001789,2023-05-16,80,Bank Transfer,Monthly
-ba9a6b87-1,1831601e,2024-02-18,800,Credit Card,Annual
-ec1bb91f-0,7f054674,2024-04-30,80,Bank Transfer,Monthly
-cc664efb-7,28026b39,2025-01-18,60,Credit Card,Student
-6f816a24-c,3618ad07,2023-05-19,800,Cash,Annual
-ca7e9b9b-c,4f623c79,2024-05-20,800,Cash,Annual
-d15b0f47-7,2afdc276,2025-06-02,80,Bank Transfer,Monthly
-aac64945-5,88b787e6,2025-06-27,450,Bank Transfer,6-month
-0b985c47-a,e24f64a8,2023-01-25,60,Cash,Student
-8045173a-6,485d4368,2022-10-03,80,Credit Card,Monthly
-f23ec859-8,39647ece,2024-07-27,80,Credit Card,Monthly
-39f9b778-8,f30674bc,2025-08-01,80,Bank Transfer,Monthly
-2a8a4382-2,dc476d84,2024-12-09,450,Bank Transfer,6-month
-3b2a01c0-7,bb3835b9,2025-07-20,80,Cash,Monthly
-6a2cb3ea-6,f30674bc,2025-06-13,80,Credit Card,Monthly
-2661eb6c-b,772476d0,2024-07-10,450,Bank Transfer,6-month
-52983ffc-7,444501cd,2023-01-04,1200,Cash,Vip
-2718bdad-2,86412ddf,2023-10-06,80,Cash,Monthly
-7b0a81c1-c,988c368a,2024-08-19,800,Cash,Annual
-c708f9be-b,3ba26e32,2022-07-09,120,Bank Transfer,Vip
-59ed530a-8,00522097,2025-02-18,60,Credit Card,Student
-40344e7d-6,a1b1065f,2023-06-01,120,Bank Transfer,Vip
-125ccda8-e,c524c36b,2024-03-25,120,Cash,Vip
-f65d064e-f,f3e9fe9a,2022-05-23,60,Credit Card,Student
-d231a489-5,dc620dd5,2023-06-15,120,Cash,Vip
-846a1165-8,4f3857fc,2022-12-27,60,Credit Card,Student
-248ff07c-2,d4c8a83b,2024-11-16,60,Credit Card,Student
-d981cdc4-1,58584a73,2023-06-07,450,Bank Transfer,6-month
-9f5da166-0,c92631ae,2023-12-17,800,Bank Transfer,Annual
-2ed1bd83-a,f0dbcb64,2023-08-12,60,Cash,Student
-d71d013e-a,d90985f3,2024-05-21,800,Bank Transfer,Annual
-960f5313-8,9cb4a24c,2023-02-15,60,Bank Transfer,Student
-71cb9cc7-a,cf31f7c9,2023-05-16,60,Bank Transfer,Student
-8f48f219-3,a399a0cb,2024-03-01,60,Cash,Student
-a998cdaa-c,d62de34d,2023-02-21,800,Cash,Annual
-82099a43-b,0ac63ef2,2023-08-15,120,Bank Transfer,Vip
-9a7ceceb-f,f2aed77e,2024-11-29,800,Credit Card,Annual
-6c508a7d-5,15464931,2024-10-02,80,Credit Card,Monthly
-25d93f9a-5,f51e5826,2025-02-19,80,Credit Card,Monthly
-fc28b572-9,c8934a8f,2023-07-16,800,Credit Card,Annual
-4f472185-e,00d41ba1,2023-10-26,120,Bank Transfer,Vip
-78b3fa36-1,191a4062,2024-03-07,120,Bank Transfer,Vip
-4bb757ad-e,6bd3758d,2022-12-22,60,Credit Card,Student
-82a099cb-e,8012c754,2024-10-23,60,Credit Card,Student
-6ba445a7-e,cb1cd12e,2023-07-17,1200,Cash,Vip
-9eab8e0a-a,b2fc2ac3,2024-10-03,80,Credit Card,Monthly
-a0ae10ff-3,efc594de,2024-02-03,120,Credit Card,Vip
-2a4e61a9-f,1fd35ab1,2023-02-09,800,Credit Card,Annual
-ff4d7bdc-c,42b2fc72,2023-12-24,80,Credit Card,Monthly
-ddb32baa-b,6d01d723,2023-09-27,800,Bank Transfer,Annual
-ed59e4da-7,09323bb6,2023-08-28,80,Bank Transfer,Monthly
-978eeaaf-c,cf31f7c9,2022-07-06,60,Cash,Student
-c336837b-9,36342106,2024-04-27,80,Credit Card,Monthly
-653ec3c2-0,2638ff07,2025-11-30,450,Cash,6-month
-28dbfcfd-3,86b3d4c8,2023-01-21,80,Credit Card,Monthly
-9e75e190-a,6bd3758d,2022-10-07,60,Credit Card,Student
-928e5a9b-8,6971d7b6,2024-05-22,1200,Cash,Vip
-6740070a-4,c8934a8f,2022-12-16,800,Cash,Annual
-0a6a2785-c,d62de34d,2022-10-03,800,Credit Card,Annual
-38659462-a,9cb4a24c,2022-11-16,60,Credit Card,Student
-8391a9b8-0,446f0938,2024-01-20,60,Credit Card,Student
-6fc1c8e2-f,e02db279,2024-08-11,60,Bank Transfer,Student
-68200c9d-5,4991f6d7,2023-10-02,80,Cash,Monthly
-447aae27-1,13e7712c,2023-07-28,120,Cash,Vip
-37775d59-9,b3696ae1,2025-08-10,80,Credit Card,Monthly
-89b14f88-9,73719fc4,2024-07-23,450,Cash,6-month
-7ddc5893-3,284a11ee,2022-07-07,60,Cash,Student
-2812ee73-c,6cd7c037,2024-01-09,80,Bank Transfer,Monthly
-0da52044-7,5b48b1ff,2022-10-19,60,Bank Transfer,Student
-1688f21e-8,e00f4dc6,2022-04-12,120,Bank Transfer,Vip
-e183ac2e-c,3d7b60d5,2024-12-07,800,Credit Card,Annual
-e38ce994-c,78801906,2023-01-04,120,Bank Transfer,Vip
-4a47f2f4-a,3707fb8f,2024-05-24,120,Cash,Vip
-9b47869a-d,662d0c7d,2023-03-05,450,Cash,6-month
-1bdd5a21-9,105adfd0,2023-01-30,450,Bank Transfer,6-month
-d6d774e9-5,1d9e79bb,2023-10-28,450,Bank Transfer,6-month
-0ab0783c-a,dd0e6a6b,2024-11-23,450,Cash,6-month
-48d1d376-4,b72e73b5,2022-04-09,80,Cash,Monthly
-1296c00c-6,3b193cda,2023-02-07,450,Credit Card,6-month
-4af398ce-5,861d8179,2024-10-06,60,Credit Card,Student
-86321832-9,532081c5,2023-12-26,120,Credit Card,Vip
-ec679038-2,88f7c8f5,2023-02-05,450,Cash,6-month
-91ce74ba-0,e25e435d,2024-01-16,450,Credit Card,6-month
-bd31c37b-8,2638ff07,2025-04-09,450,Cash,6-month
-adf96401-2,c7603b94,2024-06-18,60,Bank Transfer,Student
-795f634b-2,06672864,2024-03-20,120,Cash,Vip
-2ffe82ff-3,83cbc914,2023-06-04,80,Credit Card,Monthly
-faefc6b8-d,802641d6,2024-03-18,800,Bank Transfer,Annual
-d59ccbc8-c,481663da,2024-05-26,450,Bank Transfer,6-month
-76f1a5cd-d,105adfd0,2022-12-05,450,Bank Transfer,6-month
-c39ca8eb-e,5db360ff,2024-01-25,800,Credit Card,Annual
-04b0fb47-1,9bf4eba7,2023-09-04,80,Credit Card,Monthly
-7abda32a-0,3b193cda,2023-05-12,450,Credit Card,6-month
-502c0180-b,af9c4c58,2022-11-07,80,Credit Card,Monthly
-25b38743-c,e944bbbc,2023-07-17,800,Cash,Annual
-2df94f28-c,4f91c2cf,2025-06-02,80,Cash,Monthly
-4e0d048e-b,d8087fc6,2023-06-14,800,Cash,Annual
-d60c8655-1,caab413f,2023-08-10,60,Credit Card,Student
-5836bcac-b,772476d0,2024-08-09,450,Credit Card,6-month
-7b663ba0-5,06672864,2024-01-21,120,Credit Card,Vip
-a861112f-9,ca1a56a0,2022-12-08,60,Cash,Student
-175783fa-3,47976053,2024-11-30,80,Cash,Monthly
-8435f16a-6,4a83eb2c,2024-09-20,60,Bank Transfer,Student
-4a99254c-6,7478ca0a,2024-07-15,450,Credit Card,6-month
-d8ea11ef-b,09b789c5,2023-01-13,120,Cash,Vip
-adf70027-9,0ba73a3d,2023-03-25,800,Credit Card,Annual
-a7993176-d,d65e4f13,2024-10-22,450,Credit Card,6-month
-ddc07b80-0,590d77eb,2023-11-26,800,Bank Transfer,Annual
-689ccbfb-1,f904ca11,2022-08-19,120,Cash,Vip
-7f295f87-5,087487f0,2022-12-17,60,Credit Card,Student
-02e65571-9,a2ee361f,2023-08-10,80,Cash,Monthly
-8806598f-5,2f933a01,2025-11-30,120,Bank Transfer,Vip
-e9fc12ea-f,988c368a,2024-05-05,800,Bank Transfer,Annual
-51e39a29-5,191a4062,2024-01-22,120,Credit Card,Vip
-ad9736f4-b,d12ea4a6,2024-11-27,80,Credit Card,Monthly
-c8b3631c-6,7f20c678,2023-03-28,450,Credit Card,6-month
-f645ac01-5,393ecfc5,2024-09-24,120,Credit Card,Vip
-a065453c-8,8a7de32c,2023-05-05,120,Credit Card,Vip
-d3b80cc3-d,d9414a19,2025-01-29,120,Cash,Vip
-15eeaef7-1,88f7c8f5,2023-04-17,450,Cash,6-month
-ce4248f7-0,12bade00,2024-06-18,80,Cash,Monthly
-2e708ba9-e,1a6e7700,2022-11-11,800,Credit Card,Annual
-4e045dbf-7,8de85a28,2024-10-17,80,Credit Card,Monthly
-60345a7f-f,0c1ba1af,2023-12-13,450,Cash,6-month
-9b886173-5,34a7ac78,2023-09-04,80,Bank Transfer,Monthly
-a6020b9c-e,acf39aa7,2024-12-04,60,Cash,Student
-a7f02c68-e,13e7712c,2023-08-22,120,Cash,Vip
-88b05f0f-6,9b652852,2023-10-03,80,Credit Card,Monthly
-4c8ec3bb-4,e0c6ad52,2025-05-24,120,Credit Card,Vip
-746c2655-4,9f29f39a,2023-03-14,80,Credit Card,Monthly
-f8ceb048-1,c16b70d3,2025-01-03,800,Bank Transfer,Annual
-ee3c99ae-a,b3696ae1,2025-03-27,80,Bank Transfer,Monthly
-705f2a80-a,9f8bfe91,2023-01-31,60,Cash,Student
-f3550cff-8,d8087fc6,2023-07-14,800,Cash,Annual
-0874d73b-4,9e03eabe,2025-12-17,800,Bank Transfer,Annual
-4daf22ce-0,355885e7,2025-02-24,450,Credit Card,6-month
-5976d084-c,2b5f0e38,2023-03-05,80,Bank Transfer,Monthly
-7d7b43fa-4,32fe6272,2023-07-29,450,Credit Card,6-month
-d14c2e4e-f,d068098c,2025-05-02,120,Bank Transfer,Vip
-c9a78cb6-d,3bfef1a2,2022-11-12,450,Bank Transfer,6-month
-9b0a7df7-2,95fee4e4,2023-02-08,450,Cash,6-month
-f4919c37-f,dc18df08,2024-07-30,120,Credit Card,Vip
-bda4a338-1,8ac2a270,2023-11-23,450,Bank Transfer,6-month
-2f97c51b-2,481663da,2024-05-10,450,Cash,6-month
-0ff9fe02-0,26191ead,2025-03-27,800,Bank Transfer,Annual
-a2f9805a-0,2ab4a17c,2025-03-18,120,Cash,Vip
-342d9b70-6,26521b4b,2023-06-02,120,Credit Card,Vip
-fb642dbf-2,9daa8b07,2025-01-05,80,Credit Card,Monthly
-44e14271-a,325d4817,2024-12-23,800,Cash,Annual
-cf7a8907-b,68b2e3cf,2024-04-18,800,Cash,Annual
-bf619785-d,f904ca11,2022-07-13,120,Bank Transfer,Vip
-9e29b401-1,095aeb35,2022-07-18,450,Cash,6-month
-1e881c1f-a,46705947,2024-01-28,60,Cash,Student
-33c8c0f8-b,c537e3db,2023-05-26,80,Credit Card,Monthly
-ac91b351-6,ecc1ebad,2024-07-10,60,Credit Card,Student
-33be50b9-b,465ee6ac,2023-05-20,120,Bank Transfer,Vip
-bf41447d-5,eb0c878a,2023-01-15,120,Credit Card,Vip
-d98f3cbd-4,13cede67,2022-07-31,800,Credit Card,Annual
-e2375f2d-0,95fee4e4,2023-03-03,450,Bank Transfer,6-month
-c4cf844b-c,0d79bc9d,2023-11-05,120,Bank Transfer,Vip
-c67ccb7b-d,aef7cda6,2023-07-10,80,Credit Card,Monthly
-d2ac5c8f-7,5d2b5164,2022-10-17,60,Bank Transfer,Student
-04453c08-c,711fabf9,2025-01-21,800,Bank Transfer,Annual
-5b4e55ea-8,0cf1dd15,2025-05-16,450,Cash,6-month
-78489606-6,4a838e80,2022-04-09,120,Credit Card,Vip
-725183fc-d,1916173f,2023-01-29,450,Bank Transfer,6-month
-1c13d5f1-b,7b058813,2023-09-10,800,Bank Transfer,Annual
-ee266dc4-3,6971d7b6,2024-04-06,120,Bank Transfer,Vip
-59ad183c-f,fe205945,2024-05-07,120,Credit Card,Vip
-335bf9ce-5,36342106,2024-07-18,80,Bank Transfer,Monthly
-5628cf7b-8,f68597db,2022-11-26,120,Credit Card,Vip
-40da98b2-4,afb60948,2024-10-29,800,Bank Transfer,Annual
-c6120f96-0,0db183e2,2024-01-09,120,Credit Card,Vip
-c832ecee-e,b4b7bf5b,2023-12-19,120,Bank Transfer,Vip
-6396b251-4,86b3d4c8,2023-01-15,80,Bank Transfer,Monthly
-faafd349-8,dc18df08,2023-11-15,120,Bank Transfer,Vip
-538c1b4b-7,4a83eb2c,2024-11-03,60,Credit Card,Student
-01897257-e,26e8e627,2025-02-23,80,Bank Transfer,Monthly
-1620d808-d,0ce5c8d2,2022-10-23,80,Bank Transfer,Monthly
-bc5ea9f5-0,cd34df65,2023-08-13,120,Credit Card,Vip
-a4698ad5-3,095aeb35,2022-12-08,450,Cash,6-month
-1c6a7fd0-a,a2758922,2024-07-30,450,Cash,6-month
-2ea9b5fc-a,ece0ad3a,2022-12-11,450,Bank Transfer,6-month
-e2036949-b,f384fb06,2024-04-02,450,Cash,6-month
-813a4b61-6,ba3eefa2,2025-10-15,60,Cash,Student
-0da91a13-3,dd1b7be4,2023-03-25,60,Cash,Student
-250a088a-b,e00f4dc6,2023-01-25,120,Cash,Vip
-daefb17c-1,47976053,2025-02-14,80,Credit Card,Monthly
-d8ec731b-1,10173117,2023-08-19,450,Cash,6-month
-0ec7fefc-6,b3724660,2022-12-15,450,Cash,6-month
-fb938ace-5,3de59562,2023-05-08,800,Bank Transfer,Annual
-419d5b6c-7,ded1198f,2024-08-28,450,Credit Card,6-month
-f029de38-3,2afdc276,2024-11-02,80,Credit Card,Monthly
-79170b8a-f,72f7d336,2023-02-23,60,Credit Card,Student
-0d4d4ff7-8,11fe94ea,2025-09-01,80,Credit Card,Monthly
-43a0ee3f-5,00522097,2025-08-31,60,Bank Transfer,Student
-6f2ce9d2-4,1172c760,2024-11-20,800,Cash,Annual
-d34435f9-b,fa11a689,2022-10-01,120,Cash,Vip
-8e2ff523-7,c537e3db,2022-10-30,80,Credit Card,Monthly
-7681d67d-f,d62de34d,2023-04-26,800,Credit Card,Annual
-dc17f3ff-4,26015136,2024-12-31,800,Credit Card,Annual
-0c6254c5-7,c524c36b,2024-07-09,120,Bank Transfer,Vip
-907488df-d,be6dff8b,2022-12-03,450,Credit Card,6-month
-af27c9b9-7,b5d8621c,2024-10-20,450,Credit Card,6-month
-a7c854d8-8,fe773c65,2024-07-02,80,Cash,Monthly
-2fe84c05-3,481663da,2024-05-31,450,Cash,6-month
-fc79d4a6-d,ca1a56a0,2023-02-17,60,Cash,Student
-49d0b5a7-1,f29ce7d9,2024-12-14,450,Credit Card,6-month
-90bf3a9a-0,8ac2a270,2023-08-30,450,Credit Card,6-month
-d209e1a7-e,cd31b9e6,2022-07-05,80,Credit Card,Monthly
-9273721e-1,9f04a463,2023-04-07,800,Credit Card,Annual
-3c0835ef-8,814d41c6,2024-10-03,80,Credit Card,Monthly
-38fb62df-d,5d2b5164,2022-10-21,60,Credit Card,Student
-9c02bd0d-7,1be7ef1c,2023-01-13,80,Bank Transfer,Monthly
-f0d1ac3d-5,9eec6fb1,2025-10-03,450,Credit Card,6-month
-7225f5d6-f,be58a490,2025-03-23,120,Credit Card,Vip
-f8189264-8,66c5fb6e,2024-10-29,80,Credit Card,Monthly
-8d78ce51-5,34a57396,2025-04-24,120,Credit Card,Vip
-3362bd10-a,444501cd,2023-02-21,120,Credit Card,Vip
-553cc278-4,e00f4dc6,2023-02-13,120,Credit Card,Vip
-75c7d961-6,466df58c,2022-10-18,120,Bank Transfer,Vip
-b07be3ce-b,34a7ac78,2023-12-03,80,Credit Card,Monthly
-ba1a5306-b,bb3835b9,2025-08-04,80,Credit Card,Monthly
-053a3a2e-a,f9528f9d,2023-06-16,800,Cash,Annual
-457d3e0e-2,393ecfc5,2025-03-27,120,Credit Card,Vip
-880f7c72-9,287245db,2022-11-27,60,Credit Card,Student
-1c0f3522-5,0af3e7ec,2025-02-06,450,Cash,6-month
-88e3a317-7,b5d8621c,2024-12-11,450,Cash,6-month
-9b946fe1-1,1a6e7700,2023-07-02,800,Cash,Annual
-32b08419-4,caab413f,2023-02-07,60,Cash,Student
-1fa713dd-9,e763653e,2023-01-17,120,Bank Transfer,Vip
-fb9380a1-4,01c59f95,2024-11-20,60,Bank Transfer,Student
-08427921-7,13cede67,2022-07-19,800,Credit Card,Annual
-3d180ab4-b,13cede67,2022-12-26,800,Credit Card,Annual
-31285ce7-4,2f933a01,2025-09-22,120,Credit Card,Vip
-fc4fa257-f,88f7c8f5,2023-01-14,450,Bank Transfer,6-month
-13398975-9,c0bb2790,2023-09-27,60,Credit Card,Student
-423a031d-c,b5d8621c,2024-01-05,450,Cash,6-month
-0f24cc13-1,12bade00,2025-03-08,80,Credit Card,Monthly
-7c06f27d-5,095aeb35,2022-08-03,450,Cash,6-month
-597f6910-a,691a259d,2024-09-18,60,Credit Card,Student
-4c174f4d-0,72f8e54b,2023-03-27,80,Cash,Monthly
-db3367e0-2,2ebaa8ba,2024-02-26,800,Cash,Annual
-83ec4af9-2,e8dc0782,2023-11-22,60,Credit Card,Student
-4207c466-d,9eec6fb1,2025-01-31,450,Bank Transfer,6-month
-06277472-e,4471ab4d,2025-02-26,800,Cash,Annual
-1fb7a8d6-9,58584a73,2023-05-13,450,Cash,6-month
-a3a21dcb-5,e24f64a8,2022-12-18,60,Bank Transfer,Student
-b8779279-6,393ecfc5,2024-12-03,120,Cash,Vip
-f07deed0-2,fee79538,2022-10-15,800,Credit Card,Annual
-0ccae412-9,99109715,2023-06-23,120,Cash,Vip
-95371bf7-f,aa0184cf,2024-09-25,80,Bank Transfer,Monthly
-87b4bd38-0,5b591683,2024-12-17,120,Credit Card,Vip
-8fb885fb-9,1d7b917b,2022-04-05,120,Cash,Vip
-e734d1b6-2,6bd3758d,2023-06-15,60,Credit Card,Student
-f4acbfc6-d,3d7b60d5,2024-12-19,800,Credit Card,Annual
-25ab2361-1,105adfd0,2023-05-18,450,Credit Card,6-month
-9ffc9d6e-3,430f4e9d,2022-12-25,800,Bank Transfer,Annual
-3d094c5a-4,ec519242,2024-09-15,800,Bank Transfer,Annual
-d65da6f7-8,af9c4c58,2022-07-21,80,Credit Card,Monthly
-b999e702-6,f3ad4d65,2024-01-10,60,Bank Transfer,Student
-8fa83050-5,b3724660,2023-02-25,450,Cash,6-month
-4291f73a-d,af9c4c58,2022-07-22,80,Bank Transfer,Monthly
-b2b6e832-f,8819dde9,2025-09-24,800,Credit Card,Annual
-72d81a51-c,043677d8,2022-10-15,450,Bank Transfer,6-month
-0432888a-f,20d78631,2022-12-21,120,Bank Transfer,Vip
-0d6e261f-d,e6afed96,2023-11-08,120,Bank Transfer,Vip
-c5fc2f12-9,095aeb35,2022-12-12,450,Credit Card,6-month
-1d9a6a65-2,79919bf8,2024-01-02,120,Credit Card,Vip
-9d97588c-c,0d79bc9d,2024-01-06,120,Bank Transfer,Vip
-a84b212f-e,9a03a2db,2025-02-15,120,Bank Transfer,Vip
-59efa7a5-6,500a98fd,2025-04-01,120,Credit Card,Vip
-848dfac2-8,c16b70d3,2024-10-20,800,Cash,Annual
-b236cbbd-5,c537e3db,2022-11-22,80,Credit Card,Monthly
-b6268481-7,daf3d9c8,2025-04-22,450,Credit Card,6-month
-b287492b-2,b2fc2ac3,2024-09-25,80,Cash,Monthly
-0304d4af-9,b357874e,2023-10-29,450,Cash,6-month
-8bf724bd-1,58584a73,2023-07-14,450,Cash,6-month
-832bd006-2,b357874e,2023-08-03,450,Cash,6-month
-5c5e10ce-6,7ed88aa4,2023-06-12,120,Cash,Vip
-3aab6d2b-4,c7603b94,2024-04-05,60,Bank Transfer,Student
-31537ac7-b,c4ce9d0c,2024-08-18,120,Cash,Vip
-0ae469a7-1,0ce5c8d2,2022-07-26,80,Bank Transfer,Monthly
-ff93509b-1,5e3b86f8,2024-11-13,80,Cash,Monthly
-29e943dc-4,b41dfeab,2025-10-13,800,Bank Transfer,Annual
-4c7bae5f-c,15464931,2025-04-20,80,Bank Transfer,Monthly
-d3e17208-1,09b789c5,2022-08-30,120,Cash,Vip
-26124fc7-8,20247787,2023-11-14,120,Credit Card,Vip
-e84255bd-e,3b391211,2023-09-27,120,Bank Transfer,Vip
-f1b5692e-0,9cb4a24c,2023-01-12,60,Credit Card,Student
-5edb6b6b-0,166e03d3,2024-09-18,60,Cash,Student
-c8cd060a-b,dc620dd5,2024-02-15,120,Cash,Vip
-8808bd60-2,54587789,2025-03-21,120,Credit Card,Vip
-2aac0510-6,6bd3758d,2022-11-25,60,Bank Transfer,Student
-99aa6004-d,ded1198f,2025-03-13,450,Cash,6-month
-9448f361-a,9b652852,2024-03-31,80,Credit Card,Monthly
-ee3c116f-f,2ebaa8ba,2024-05-25,800,Cash,Annual
-a1d8c363-a,686c37a2,2024-09-28,800,Cash,Annual
-0df05154-f,9f04a463,2023-05-18,800,Credit Card,Annual
-deb797f0-b,7e23bb2f,2024-08-03,60,Bank Transfer,Student
-6966762d-e,1301a95b,2023-05-03,800,Credit Card,Annual
-7f765da4-0,2f933a01,2025-08-10,120,Cash,Vip
-6e33d0a4-6,704c9b43,2024-07-25,80,Cash,Monthly
-f2a52d7f-d,444501cd,2022-11-24,120,Cash,Vip
-521a9917-5,34a57396,2025-08-06,120,Cash,Vip
-bfb9642d-9,daa51895,2024-08-15,800,Credit Card,Annual
-efa265e8-d,4abb1ace,2025-05-02,80,Bank Transfer,Monthly
-d82380c3-d,41d88eda,2024-09-28,800,Bank Transfer,Annual
-edbb4f7c-e,05263844,2023-11-16,120,Bank Transfer,Vip
-9b7a7131-4,b010cdd9,2023-08-07,800,Credit Card,Annual
-e4729e77-7,a2758922,2024-03-01,450,Bank Transfer,6-month
-eda42d54-8,8f869942,2022-04-13,120,Cash,Vip
-cf6e09af-7,8b89a062,2024-10-13,60,Cash,Student
-2a25cd56-8,fce7bb81,2023-12-15,800,Credit Card,Annual
-bc60210c-b,5db360ff,2023-11-19,800,Cash,Annual
-f421946b-d,03bcc37b,2025-02-28,800,Bank Transfer,Annual
-8eaea815-f,00522097,2025-06-13,60,Bank Transfer,Student
-67087b69-7,da46bfef,2024-09-12,120,Bank Transfer,Vip
-8c7ab466-7,ece0ad3a,2023-02-19,450,Cash,6-month
-259086d1-9,9b652852,2024-04-17,80,Credit Card,Monthly
-67416cac-2,e944bbbc,2023-09-23,800,Bank Transfer,Annual
-14b80745-b,1916173f,2023-03-19,450,Cash,6-month
-1767b04c-5,f2e38ecd,2024-11-11,60,Credit Card,Student
-9c8a43df-1,3b391211,2023-07-16,120,Credit Card,Vip
-843d20bd-a,7478ca0a,2024-10-02,450,Cash,6-month
-57585f2f-9,284a11ee,2022-02-24,60,Bank Transfer,Student
-edf48fda-c,a2ee361f,2023-08-11,80,Credit Card,Monthly
-a75584e9-b,f2aed77e,2024-09-28,800,Cash,Annual
-fd9493ae-2,7c68d905,2022-10-01,80,Cash,Monthly
-d662d539-7,9f29f39a,2023-05-04,80,Cash,Monthly
-b78a5644-9,ea5c6477,2024-03-14,60,Credit Card,Student
-05ccb547-5,814d41c6,2024-10-20,80,Bank Transfer,Monthly
-0d3fab42-9,9152f1b3,2023-06-13,120,Cash,Vip
-cdf56889-1,5f1e5ddc,2024-03-27,60,Credit Card,Student
-6d7396cd-5,7b058813,2023-04-04,800,Cash,Annual
-724d4c9f-c,c92631ae,2024-02-20,800,Bank Transfer,Annual
-ac5c8c12-d,76b75a2d,2022-01-29,60,Credit Card,Student
-bb130c36-a,44c8014d,2023-12-19,120,Cash,Vip
-8137b80b-0,711fabf9,2025-06-01,800,Bank Transfer,Annual
-8525f63a-b,b2fc2ac3,2025-04-15,80,Credit Card,Monthly
-a83a3c84-a,561c2d65,2025-11-28,800,Bank Transfer,Annual
-3cf3cbc9-8,cd63ce71,2025-08-03,60,Bank Transfer,Student
-bb827864-e,68b2e3cf,2024-05-15,800,Bank Transfer,Annual
-22efa081-a,662d0c7d,2022-10-20,450,Bank Transfer,6-month
-4c54e8b5-1,1172c760,2024-06-26,800,Credit Card,Annual
-054cc486-0,4abb1ace,2025-09-15,80,Cash,Monthly
-c3cd7be3-2,a36ff18e,2023-12-25,120,Credit Card,Vip
-91e6af3b-9,772476d0,2024-09-17,450,Bank Transfer,6-month
-d18d0d1b-d,6d3617c4,2024-02-01,450,Credit Card,6-month
-d730c684-8,55c0dc73,2023-07-30,80,Credit Card,Monthly
-dc1099f1-2,f54396d8,2023-10-06,450,Cash,6-month
-47d9419a-9,e90358fb,2023-02-13,80,Credit Card,Monthly
-8e675fb9-9,7f9aced9,2023-02-26,800,Cash,Annual
-d36ecd20-2,3707fb8f,2024-05-18,120,Bank Transfer,Vip
-d9337265-2,a25cee3e,2022-06-29,450,Cash,6-month
-90340397-e,ece0ad3a,2023-03-11,450,Bank Transfer,6-month
-fbe2b8be-5,9711803e,2023-07-25,120,Cash,Vip
-2f3a5d92-5,f30674bc,2025-07-17,80,Bank Transfer,Monthly
-e20f89b9-2,6413345c,2022-07-17,450,Cash,6-month
-c8cf987e-9,91e5ab15,2025-11-26,80,Cash,Monthly
-2204959e-1,ab3e6c9f,2024-12-03,800,Cash,Annual
-7668661a-f,22aef91c,2022-12-29,120,Cash,Vip
-edb3e590-d,338aa7e6,2023-12-03,450,Cash,6-month
-5f046a9e-1,2f933a01,2025-07-17,120,Credit Card,Vip
-6d07931f-2,6d600353,2022-09-20,120,Bank Transfer,Vip
-07f2a579-d,7b058813,2023-11-13,800,Cash,Annual
-0b2cbd99-7,c7603b94,2024-04-06,60,Credit Card,Student
-5ba33741-9,52d5fee2,2022-09-07,80,Cash,Monthly
-c9f747c2-1,4f623c79,2024-01-06,800,Credit Card,Annual
-281d54a2-c,a399a0cb,2023-11-03,60,Credit Card,Student
-bad7a10a-2,d12ea4a6,2023-12-10,80,Cash,Monthly
-0c3eb064-b,095aeb35,2022-12-10,450,Credit Card,6-month
-4d7382f4-1,9f04a463,2023-08-01,800,Bank Transfer,Annual
-ecfc5ac8-4,e535cb9c,2022-10-17,60,Cash,Student
-1a277313-b,5e6edc93,2023-06-02,800,Credit Card,Annual
-06315a0b-1,20d78631,2022-11-04,120,Cash,Vip
-203ff42f-8,2b5f0e38,2023-02-08,80,Credit Card,Monthly
-5dc96f53-b,464fa587,2025-02-08,800,Credit Card,Annual
-d70980eb-b,55c0dc73,2022-10-10,80,Bank Transfer,Monthly
-04844fa3-e,8faba7c4,2022-03-07,450,Credit Card,6-month
-22e35f5b-5,dc476d84,2024-03-17,450,Credit Card,6-month
-11c2fcc5-3,62b8bf14,2022-07-28,800,Credit Card,Annual
-a48594f0-c,b132bbc1,2023-11-24,800,Credit Card,Annual
-4140d1ee-0,714ff072,2024-10-03,60,Credit Card,Student
-6392d3ad-1,824b4531,2023-02-04,80,Credit Card,Monthly
-ab94d929-a,1fc13736,2024-05-04,60,Bank Transfer,Student
-df0e8176-b,752a396e,2024-01-22,80,Credit Card,Monthly
-6057fd3c-4,dd0e6a6b,2024-11-14,450,Credit Card,6-month
-2d6373ca-4,26191ead,2024-07-09,800,Credit Card,Annual
-210d870b-f,ce864e6d,2025-03-11,450,Bank Transfer,6-month
-63596f60-d,5df442ee,2023-10-20,800,Cash,Annual
-6753d123-a,1af6c837,2024-11-28,800,Cash,Annual
-b402c46d-b,3bfef1a2,2023-06-16,450,Bank Transfer,6-month
-7dd1d772-4,e6afed96,2023-10-05,120,Bank Transfer,Vip
-cbe9ae0b-4,4f00cfb6,2024-04-06,120,Credit Card,Vip
-e26f5d14-4,dd0e6a6b,2025-01-11,450,Cash,6-month
-81cff759-9,3fb2bebc,2025-02-18,120,Credit Card,Vip
-72f50594-d,0ba73a3d,2022-08-17,800,Credit Card,Annual
-1673e2bd-3,72f8e54b,2023-08-06,80,Credit Card,Monthly
-28dfc7b5-c,eccdfe3f,2022-09-16,450,Credit Card,6-month
-719f6c04-4,acf39aa7,2025-04-13,60,Cash,Student
-c8af15b0-0,caab413f,2023-11-18,60,Bank Transfer,Student
-e08be017-9,fc5f662a,2022-11-17,800,Bank Transfer,Annual
-4155c518-e,711fabf9,2025-09-13,800,Bank Transfer,Annual
-4b664094-8,e8a350d3,2024-06-28,120,Credit Card,Vip
-29856c76-0,6b5a28ad,2023-11-07,450,Cash,6-month
-b6abff4a-f,9ee7a985,2023-01-06,60,Cash,Student
-445e888e-4,dc80f3f2,2025-04-08,800,Bank Transfer,Annual
-18b30f04-c,33ec6a84,2022-12-05,800,Bank Transfer,Annual
-1248bfd3-8,ec519242,2024-05-22,800,Bank Transfer,Annual
-de300fb5-a,7f20c678,2023-10-11,450,Bank Transfer,6-month
-dc7bd0ca-0,3618ad07,2023-09-23,800,Credit Card,Annual
-0cfb5509-c,2ebaa8ba,2024-08-27,800,Cash,Annual
-ba85acda-2,b9cbb889,2023-05-26,60,Bank Transfer,Student
-acfc13e5-5,d9414a19,2025-01-11,120,Cash,Vip
-80b45446-7,9daa8b07,2024-07-19,80,Bank Transfer,Monthly
-6f7de9ac-0,58003249,2023-04-20,80,Cash,Monthly
-42368563-d,9a03a2db,2024-09-12,120,Credit Card,Vip
-7495787c-f,09323bb6,2024-02-03,80,Cash,Monthly
-e2cefe97-c,ffe39cef,2023-06-15,450,Cash,6-month
-8369c626-0,48c1a3ca,2022-10-05,80,Cash,Monthly
-51d42af3-4,2638ff07,2025-03-21,450,Credit Card,6-month
-e6203107-5,b674d1b3,2025-03-12,450,Bank Transfer,6-month
-2b1fff73-a,6428d3b8,2023-08-09,60,Bank Transfer,Student
-e3d89cd5-b,772476d0,2024-10-09,450,Cash,6-month
-af4eb1b3-d,590d77eb,2024-04-21,800,Bank Transfer,Annual
-580033ec-0,df7b1b0e,2022-10-23,120,Credit Card,Vip
-8a9c33fb-2,12bade00,2025-03-06,80,Bank Transfer,Monthly
-d1d717e2-c,d12ea4a6,2024-10-03,80,Cash,Monthly
-6bc403d6-0,e0c6ad52,2024-10-06,120,Bank Transfer,Vip
-174f8c07-b,f5e6edbb,2022-05-15,60,Credit Card,Student
-ea894c89-b,fc5f662a,2022-06-09,800,Credit Card,Annual
-aafb82d4-7,3bfef1a2,2023-05-08,450,Cash,6-month
-c53e77f4-a,b010cdd9,2024-02-04,800,Bank Transfer,Annual
-1d480070-b,0d35cf6e,2024-01-21,800,Credit Card,Annual
-91db3f0f-5,5d2b5164,2022-10-08,60,Credit Card,Student
-4d5270c4-7,48f0d76d,2022-09-28,450,Cash,6-month
-411d67db-3,06dfbece,2025-04-18,120,Credit Card,Vip
-19d96926-f,54f088d3,2024-04-27,80,Credit Card,Monthly
-3e20df4c-6,dc476d84,2024-08-10,450,Credit Card,6-month
-b53425b9-a,3cc18c79,2022-09-28,60,Bank Transfer,Student
-796bd6f5-6,7432771f,2023-07-09,60,Credit Card,Student
-ec0c23c2-d,430f4e9d,2023-01-25,800,Cash,Annual
-afaf7668-4,120bfac6,2024-04-18,60,Cash,Student
-dc6676df-0,ad01dfb2,2023-01-18,80,Cash,Monthly
-0af397b9-5,86af74f3,2024-08-31,80,Credit Card,Monthly
-162b048d-4,481663da,2024-05-11,450,Cash,6-month
-2a59495e-0,0891cefb,2023-11-26,60,Bank Transfer,Student
-6b855bab-e,f5e6edbb,2022-07-11,60,Cash,Student
-8e7a2cec-d,77504db0,2024-01-15,450,Cash,6-month
-3fa20db5-3,e8dc0782,2023-11-18,60,Credit Card,Student
-60d81b34-3,3d7b60d5,2025-05-25,800,Bank Transfer,Annual
-0c2f23c8-a,191f7b78,2023-12-18,450,Cash,6-month
-4d57ce83-4,b3696ae1,2025-05-20,80,Cash,Monthly
-822620fe-9,48f0d76d,2023-05-14,450,Bank Transfer,6-month
-26fc0bd7-f,6f57ea7b,2023-10-22,80,Credit Card,Monthly
-2d4ee6bc-d,1d9e79bb,2023-08-09,450,Bank Transfer,6-month
-be6f8cf7-1,355b094c,2023-06-17,80,Bank Transfer,Monthly
-2c6b907d-9,2638ff07,2025-01-22,450,Bank Transfer,6-month
-09bb515b-d,2eeb7f97,2023-07-13,80,Cash,Monthly
-c5d894bb-4,287245db,2022-09-13,60,Cash,Student
-b5ed8abf-2,eccdfe3f,2022-08-24,450,Bank Transfer,6-month
-ca555355-e,d82d2eff,2023-12-01,80,Cash,Monthly
-8c55063f-1,6d3617c4,2023-11-17,450,Cash,6-month
-304907ef-0,a2ee361f,2023-12-16,80,Bank Transfer,Monthly
-60c9382e-6,f904ca11,2023-02-23,120,Bank Transfer,Vip
-dac6e1ba-2,84d99d32,2024-05-18,800,Bank Transfer,Annual
-9f12388c-a,7c68d905,2022-06-05,80,Credit Card,Monthly
-f5fac552-c,5df442ee,2024-04-19,800,Credit Card,Annual
-d337ea20-1,42b2fc72,2024-03-31,80,Cash,Monthly
-b73712f9-5,9f29f39a,2022-07-19,80,Cash,Monthly
-f7584c68-a,9bf4eba7,2022-12-05,80,Cash,Monthly
-0620624c-3,824b4531,2022-12-25,80,Cash,Monthly
-4f058955-5,33ec6a84,2022-11-14,800,Cash,Annual
-f994fdc4-e,26521b4b,2023-10-29,120,Cash,Vip
-8082d4a0-e,7771d7e3,2022-09-30,800,Bank Transfer,Annual
-909eb702-3,0eee54c5,2022-02-01,120,Cash,Vip
-ff734bb5-4,52dda74b,2024-07-19,120,Credit Card,Vip
-d2ae3864-b,211f94fd,2022-02-26,60,Bank Transfer,Student
-babfe00e-8,8f869942,2022-10-10,120,Bank Transfer,Vip
-07e11b34-c,4fa63f6c,2024-04-17,80,Bank Transfer,Monthly
-299ad60a-d,34a57396,2025-02-17,120,Cash,Vip
-61343561-c,d4c8a83b,2025-04-10,60,Bank Transfer,Student
-91b69386-e,000baf94,2024-12-05,450,Bank Transfer,6-month
-29d068e5-3,3de59562,2023-02-01,800,Cash,Annual
-c0e1de38-8,7365fd31,2023-07-02,80,Cash,Monthly
-286a6742-c,120bfac6,2024-06-01,60,Cash,Student
-a08f6895-2,9152f1b3,2023-03-21,120,Bank Transfer,Vip
-d0175d9b-1,087487f0,2023-01-01,60,Bank Transfer,Student
-79cedfa4-7,1af6c837,2024-12-26,800,Credit Card,Annual
-647585f0-e,ec6a769b,2024-09-27,60,Cash,Student
-901ba22b-5,be58a490,2024-11-04,120,Bank Transfer,Vip
-2097af87-6,f9eb58e0,2024-02-03,450,Credit Card,6-month
-86d292a2-3,e02db279,2025-02-15,60,Cash,Student
-23eaabb1-0,6dfe648a,2024-05-29,60,Credit Card,Student
-801c0709-2,79919bf8,2024-07-22,120,Cash,Vip
-3f16458f-8,5e3b86f8,2024-09-13,800,Cash,Monthly
-e74a09e1-e,72449ccf,2024-10-04,120,Cash,Vip
-ca2068aa-b,bbba8db6,2024-08-16,120,Cash,Vip
-db1d90e6-f,06b37106,2023-01-25,120,Credit Card,Vip
-e446ff2e-2,acfc030a,2025-09-12,120,Bank Transfer,Vip
-c68943ca-e,ff441c53,2024-03-26,60,Cash,Student
-8ef30b59-6,7ed88aa4,2022-11-24,120,Cash,Vip
-7174c122-7,9711803e,2023-06-10,120,Bank Transfer,Vip
-216b99ee-f,57ab4242,2023-03-08,80,Cash,Monthly
-826569a2-3,66a8f232,2022-12-22,450,Cash,6-month
-cb595889-1,39647ece,2024-02-25,80,Credit Card,Monthly
-51f41b66-8,05263844,2024-03-11,120,Credit Card,Vip
-a5c75456-c,1ea62eec,2023-10-05,120,Credit Card,Vip
-d4d68339-4,b5d8621c,2024-06-16,450,Cash,6-month
-ffa91e91-f,446f0938,2024-05-14,60,Bank Transfer,Student
-aa8a0102-e,988c368a,2024-02-14,800,Cash,Annual
-b8f5d8c9-b,b4b7bf5b,2023-08-21,120,Credit Card,Vip
-503693b0-e,691a259d,2025-06-28,60,Credit Card,Student
-efc2aa44-c,8b89a062,2024-08-27,60,Credit Card,Student
-881d1342-0,1d9e79bb,2023-12-22,450,Bank Transfer,6-month
-886fe59a-e,6869aa2b,2022-03-17,120,Cash,Vip
-ffeb9c96-1,1dbbad37,2024-09-18,80,Credit Card,Monthly
-46592437-d,687f1de3,2024-01-30,60,Bank Transfer,Student
-f17e0df0-4,03bcc37b,2025-04-20,800,Bank Transfer,Annual
-81430654-8,eb0c878a,2023-05-11,120,Bank Transfer,Vip
-3c688667-0,e8a350d3,2023-11-12,120,Bank Transfer,Vip
-ce1d6356-3,00522097,2024-12-27,60,Cash,Student
-a8770871-7,7f7c36b2,2024-11-14,80,Cash,Monthly
-803dce6e-4,90cfd131,2024-08-11,800,Credit Card,Annual
-27cebd8d-4,c9d3da61,2022-11-08,80,Cash,Monthly
-e1c32979-f,b674d1b3,2025-09-28,450,Credit Card,6-month
-817dc12a-8,00522097,2025-05-19,60,Credit Card,Student
-53a2e97f-d,06dfbece,2025-03-04,120,Credit Card,Vip
-9310643f-e,0c1ba1af,2023-07-12,450,Bank Transfer,6-month
-48c6d405-a,cd1e06a4,2024-02-10,120,Credit Card,Vip
-66c87630-4,53a70bf4,2023-11-29,80,Cash,Monthly
-3c2e73b2-8,b010cdd9,2023-10-21,800,Cash,Annual
-9e48344f-3,cd1e06a4,2023-03-16,120,Credit Card,Vip
-26c5d613-5,6bd3758d,2022-10-18,60,Cash,Student
-da3e56ed-b,b41dfeab,2025-09-29,800,Cash,Annual
-5e090554-c,36342106,2025-02-08,80,Cash,Monthly
-08a466e5-8,284a11ee,2022-11-04,60,Bank Transfer,Student
-1caacd4b-4,fcc59557,2024-06-07,60,Cash,Student
-58d4a651-a,485d4368,2022-09-29,80,Credit Card,Monthly
-febf0959-3,561c2d65,2024-12-17,800,Bank Transfer,Annual
-068dbfae-3,aef7cda6,2023-05-11,80,Credit Card,Monthly
-b73dba5d-c,04c06311,2024-09-26,450,Bank Transfer,6-month
-9d7cec0b-4,355885e7,2025-06-04,450,Bank Transfer,6-month
-177abb63-6,b2a7980d,2022-08-05,80,Bank Transfer,Monthly
-4c753b1c-1,fe773c65,2024-10-04,80,Credit Card,Monthly
-84ea76ae-5,7f7c36b2,2024-08-07,80,Cash,Monthly
-11b07714-b,62b8bf14,2023-01-26,800,Cash,Annual
-f5d0b5b5-3,0ba73a3d,2023-01-24,800,Cash,Annual
-5bd0e4c6-5,de4b0859,2023-02-08,800,Credit Card,Annual
-fc9715f0-c,fa11a689,2023-02-16,120,Cash,Vip
-266db350-7,69cddbe9,2024-05-28,800,Cash,Annual
-deef5d71-3,1e7be14d,2024-11-02,800,Cash,Annual
-edec3024-3,500a98fd,2024-11-21,120,Credit Card,Vip
-515a46cc-f,e683c7c8,2024-02-22,120,Cash,Vip
-02c11b0a-9,a19aff35,2023-03-19,450,Cash,6-month
-2cda8d88-f,c9d3da61,2022-05-26,80,Cash,Monthly
-031f61fb-f,21075f66,2023-04-20,80,Cash,Monthly
-1364aa53-3,7cabf280,2024-07-28,60,Cash,Student
-d98cc7ec-2,1301a95b,2023-02-24,800,Cash,Annual
-e7f036c4-7,7cabf280,2024-08-13,60,Cash,Student
-ee60be89-9,0ba73a3d,2023-06-19,800,Credit Card,Annual
-de0c429e-b,1fc13736,2024-04-02,60,Credit Card,Student
-4c83267d-8,078861a7,2024-12-10,800,Credit Card,Annual
-a8a677af-8,3ba26e32,2023-02-17,120,Bank Transfer,Vip
-24261fb2-2,284a11ee,2023-02-12,60,Credit Card,Student
-fcd096fe-2,c537e3db,2022-10-02,80,Cash,Monthly
-da4a5a52-7,2b5f0e38,2023-02-12,80,Credit Card,Monthly
-aea2f959-4,255bc214,2022-10-04,60,Cash,Student
-c2c5c480-a,7f20c678,2023-02-05,450,Credit Card,6-month
-af4e92c4-0,26e8e627,2025-05-26,80,Credit Card,Monthly
-7acd953b-a,f6fe6c47,2023-03-27,120,Credit Card,Vip
-70e62e37-3,fb4f9c66,2023-05-26,80,Credit Card,Monthly
-2ba2773c-a,2a18a143,2023-01-06,120,Credit Card,Vip
-18a941b4-5,ec6a769b,2024-06-30,60,Cash,Student
-dd587cd7-2,e20f0334,2025-09-15,800,Credit Card,Annual
-1df31837-7,96850646,2024-04-25,80,Bank Transfer,Monthly
-e61e30e2-3,a89f7e22,2025-07-28,60,Credit Card,Student
-1c3f269a-e,0655286b,2023-07-26,80,Cash,Monthly
-1e6ee426-a,028a5ec1,2023-06-02,120,Bank Transfer,Vip
-6f60d606-4,9b652852,2024-01-11,80,Bank Transfer,Monthly
-ee7fea8b-4,4f623c79,2024-11-21,800,Credit Card,Annual
-51acc8c1-5,5517456e,2022-11-30,60,Credit Card,Student
-7eeef2c6-5,966e2a16,2023-11-25,800,Cash,Annual
-4893549c-b,f904ca11,2022-10-14,120,Credit Card,Vip
-402f5b91-b,1e7be14d,2024-04-02,800,Bank Transfer,Annual
-9a3e5074-9,00522097,2024-11-12,60,Bank Transfer,Student
-0199b83f-8,0fcebbdd,2025-10-13,120,Bank Transfer,Vip
-95d7aeda-3,42d222b5,2023-07-27,60,Credit Card,Student
-82562284-b,3707fb8f,2024-03-12,120,Bank Transfer,Vip
-f979f2b4-9,d90985f3,2023-12-07,800,Credit Card,Annual
-a0ca9521-2,62a5f88a,2025-01-30,60,Credit Card,Student
-d2cf550f-f,54f088d3,2024-08-07,80,Bank Transfer,Monthly
-eab4b06b-3,b243ae67,2023-05-25,450,Bank Transfer,6-month
-59439ef4-a,9e03eabe,2025-01-30,800,Bank Transfer,Annual
-c03fdf30-d,2afdc276,2024-10-15,80,Credit Card,Monthly
-8e642c71-3,8012c754,2024-04-21,60,Cash,Student
-c6d8e5e7-c,7e23bb2f,2024-09-19,60,Credit Card,Student
-48983aef-9,a84100f0,2022-10-17,60,Bank Transfer,Student
-7911c5a4-7,26521b4b,2023-10-07,120,Credit Card,Vip
-e164efe0-1,861d8179,2024-05-27,60,Bank Transfer,Student
-331196f1-6,efc594de,2024-03-05,120,Credit Card,Vip
-54806299-8,d8087fc6,2023-05-15,800,Credit Card,Annual
-5093b47a-9,36342106,2024-12-21,80,Bank Transfer,Monthly
-434f8ad0-d,be968baa,2024-10-25,60,Cash,Student
-92527267-c,97a9f51f,2023-10-04,120,Bank Transfer,Vip
-6c2bec28-a,c537e3db,2023-04-24,80,Cash,Monthly
-6dbaca8c-2,7771d7e3,2022-10-27,800,Cash,Annual
-57920379-e,b6d34f13,2025-06-07,450,Cash,6-month
-5346d285-9,4f91c2cf,2025-03-23,80,Bank Transfer,Monthly
-1947d39f-c,cb1cd12e,2023-08-01,120,Credit Card,Vip
-ce5a216c-2,f3e9fe9a,2023-03-13,60,Cash,Student
-c3a45a3e-3,6869aa2b,2022-12-01,120,Cash,Vip
-c3223d83-d,7ae17b84,2023-12-16,60,Cash,Student
-cbd50dd6-1,6d01d723,2023-10-02,800,Bank Transfer,Annual
-cdd2352e-f,5db360ff,2023-09-09,800,Credit Card,Annual
-18aa9ed6-8,ea5c6477,2024-03-06,60,Bank Transfer,Student
-63e0caac-d,f384fb06,2024-08-18,450,Credit Card,6-month
-38c3f547-e,58584a73,2023-04-09,450,Credit Card,6-month
-2e055455-0,9bf4eba7,2022-12-12,80,Credit Card,Monthly
-06850ebc-e,26015136,2024-09-29,800,Credit Card,Annual
-14fb3caf-6,ecc1ebad,2025-03-09,60,Cash,Student
-f600a943-3,f2aed77e,2024-11-01,800,Credit Card,Annual
-0225d17a-2,028a5ec1,2023-12-21,120,Cash,Vip
-4b443588-a,46705947,2024-04-22,60,Credit Card,Student
-5ca205e9-2,ce7849f4,2024-11-18,80,Cash,Monthly
-fc015d95-d,20428098,2023-02-22,450,Cash,6-month
-21ed47bf-e,20d78631,2022-09-10,120,Cash,Vip
-f03e69a8-2,70858586,2022-12-10,80,Bank Transfer,Monthly
-e583a8f8-3,a4ed006b,2023-03-07,60,Cash,Student
-192cd497-a,dc620dd5,2023-10-12,120,Bank Transfer,Vip
-742fec16-5,7ae17b84,2023-12-01,60,Credit Card,Student
-6fa75986-1,4991f6d7,2024-08-08,80,Credit Card,Monthly
-cd4afac6-9,575b43a8,2024-05-11,450,Credit Card,6-month
-ba9e208e-a,34a7ac78,2023-07-03,80,Credit Card,Monthly
-4d629602-c,7e23bb2f,2024-06-07,60,Cash,Student
-f54fa65a-6,d1623142,2024-08-05,120,Credit Card,Vip
-cb6e1edd-3,daa51895,2025-04-08,800,Bank Transfer,Annual
-7d5ed330-d,166e03d3,2024-02-26,60,Bank Transfer,Student
-8de0cab6-b,e6d8a2d2,2022-10-27,120,Credit Card,Vip
-0a174ccd-9,e535cb9c,2023-02-03,60,Cash,Student
-0bdfcab1-e,1be7ef1c,2022-05-22,80,Cash,Monthly
-16b0be1f-5,321012b1,2024-09-15,800,Bank Transfer,Annual
-a3e6b842-2,3707fb8f,2024-06-08,120,Bank Transfer,Vip
-336038c4-6,7c68d905,2022-11-15,80,Bank Transfer,Monthly
-2fcb01b7-3,be968baa,2024-02-03,60,Credit Card,Student
-3f02797a-7,96850646,2024-03-10,80,Bank Transfer,Monthly
-7b52cc18-7,8de85a28,2024-02-19,80,Credit Card,Monthly
-8ac5ec56-0,590d77eb,2023-11-14,800,Cash,Annual
-11e67daf-3,287245db,2022-12-06,60,Cash,Student
-3ed08bc7-5,5b48b1ff,2023-01-20,60,Cash,Student
-f43e6421-8,f35b9216,2024-07-27,60,Credit Card,Student
-da5ee48e-8,4828275d,2023-03-17,120,Credit Card,Vip
-356bb390-4,3707fb8f,2024-03-30,120,Bank Transfer,Vip
-113ec0e5-8,1778c684,2024-10-26,80,Bank Transfer,Monthly
-66adbac5-8,9ef078a4,2024-06-05,120,Bank Transfer,Vip
-96561a06-d,704c9b43,2024-12-27,80,Cash,Monthly
-4c9bc92e-5,451c4d39,2023-07-04,60,Credit Card,Student
-ff02d24b-0,4f91c2cf,2024-10-19,80,Cash,Monthly
-ce9e5e00-0,6bd3758d,2022-10-01,60,Cash,Student
-beea1f5e-2,8a7de32c,2024-01-04,120,Credit Card,Vip
-169b6b60-8,be6dff8b,2022-04-30,450,Bank Transfer,6-month
-b704788c-3,b9cbb889,2022-09-18,60,Bank Transfer,Student
-313f44f5-4,1fc13736,2024-04-14,60,Bank Transfer,Student
-c9a0e120-c,b2fc2ac3,2025-03-31,80,Credit Card,Monthly
-d9cbf406-e,028a5ec1,2023-06-13,120,Bank Transfer,Vip
-44ac3eeb-c,34f2fbaa,2022-12-18,120,Credit Card,Vip
-b8c04ca8-2,cfcb50a1,2023-06-19,800,Cash,Annual
-87c44618-b,7c68d905,2022-03-24,80,Bank Transfer,Monthly
-051d5237-d,86af74f3,2024-12-02,80,Credit Card,Monthly
-0c34ed7e-b,7365fd31,2023-07-07,80,Cash,Monthly
-3ce9341b-8,bf486123,2022-10-11,80,Credit Card,Monthly
-09ff5f49-4,f3e9fe9a,2023-02-02,60,Cash,Student
-9bb1468f-f,686c37a2,2024-10-24,800,Credit Card,Annual
-c8505d86-7,be6dff8b,2023-03-01,450,Bank Transfer,6-month
-790dff82-c,3eccfebb,2024-07-05,80,Bank Transfer,Monthly
-97dbb62d-1,000baf94,2024-08-27,450,Bank Transfer,6-month
-a84aafe7-0,6971d7b6,2024-03-08,120,Cash,Vip
-e85624d5-0,d5d4bcfb,2022-05-21,120,Cash,Vip
-d53d0113-1,66c5fb6e,2024-04-23,80,Cash,Monthly
-873fa9a3-0,7ed88aa4,2023-01-29,120,Cash,Vip
-bfde9b31-5,52dda74b,2024-05-11,120,Cash,Vip
-f2a8fbad-c,e8a350d3,2024-04-03,120,Cash,Vip
-12946332-c,e24f64a8,2022-12-13,60,Bank Transfer,Student
-07a7769f-a,b8d19036,2024-03-12,800,Bank Transfer,Annual
-4934193c-3,5062500d,2022-11-18,800,Credit Card,Annual
-7e59b3e0-b,dd0e6a6b,2024-04-30,450,Credit Card,6-month
-cef4f57b-9,c193e48b,2023-12-24,120,Cash,Vip
-9ec6ed22-1,5053b626,2022-07-22,450,Credit Card,6-month
-5d51de6f-1,bedc15ea,2023-05-13,80,Cash,Monthly
-68fe3241-7,0af3e7ec,2024-07-26,450,Cash,6-month
-3d95c4e2-d,34a7ac78,2023-08-16,80,Credit Card,Monthly
-af52904a-f,0db183e2,2024-02-29,120,Credit Card,Vip
-2cc15b3b-4,6428d3b8,2022-08-23,60,Cash,Student
-c8d3a551-8,21075f66,2023-08-18,80,Credit Card,Monthly
-3e50cb64-4,9a03a2db,2024-07-20,120,Cash,Vip
-24674a0b-2,78801906,2023-06-27,120,Bank Transfer,Vip
-61693950-d,e00f4dc6,2022-07-03,120,Credit Card,Vip
-884d907f-f,ec5d11c1,2024-02-02,450,Bank Transfer,6-month
-c84e75c9-3,32fe6272,2022-12-27,450,Cash,6-month
-217dc66e-3,a19aff35,2022-08-22,450,Credit Card,6-month
-de350c00-4,1d9e79bb,2024-05-28,450,Cash,6-month
-0bd2d4ff-0,f904ca11,2023-03-24,120,Bank Transfer,Vip
-b31c4642-4,676faac4,2024-08-30,120,Bank Transfer,Vip
-3a37d91d-b,120bfac6,2024-10-17,60,Bank Transfer,Student
-69a381f3-8,fe205945,2024-01-26,120,Credit Card,Vip
-05e97283-e,86b3d4c8,2023-07-30,80,Bank Transfer,Monthly
-7986f54c-d,cd34df65,2023-02-24,120,Cash,Vip
-49ec7e40-d,634a7b7d,2022-12-29,800,Cash,Annual
-a78ba0db-6,a89f7e22,2025-01-08,60,Credit Card,Student
-229be63b-f,1a254707,2025-06-05,450,Bank Transfer,6-month
-7568dad9-8,f9528f9d,2024-01-24,800,Credit Card,Annual
-4801b0c8-6,592fff76,2023-02-21,800,Cash,Annual
-e96d0ae0-c,b010cdd9,2023-07-19,800,Cash,Annual
-89fa869e-d,bbba8db6,2024-07-01,120,Bank Transfer,Vip
-552718ed-2,0bbbfc36,2022-07-14,120,Credit Card,Vip
-bec72997-c,061f8201,2024-12-29,80,Bank Transfer,Monthly
-d42713f6-6,120bfac6,2025-02-18,60,Bank Transfer,Student
-26e1d163-8,166e03d3,2024-09-11,60,Cash,Student
-caa4eb15-a,4991f6d7,2024-01-18,80,Credit Card,Monthly
-bb2ce389-8,2eeb7f97,2023-05-22,80,Credit Card,Monthly
-0f5a10c4-0,eb0c878a,2022-12-27,120,Credit Card,Vip
-52bb3781-f,e6d8a2d2,2022-08-27,120,Cash,Vip
-33afd35f-3,dc80f3f2,2025-03-11,800,Bank Transfer,Annual
-387b212e-3,d068098c,2025-07-30,120,Credit Card,Vip
-d611fa35-e,4991f6d7,2024-02-14,80,Bank Transfer,Monthly
-dadd3f65-f,0eee54c5,2022-01-14,120,Cash,Vip
-acf33fc5-1,bc27fb86,2023-05-07,80,Cash,Monthly
-3c770468-7,321012b1,2024-06-15,800,Bank Transfer,Annual
-162fb614-f,3eb548c0,2022-09-05,80,Bank Transfer,Monthly
-cdde4eb2-5,1fd35ab1,2023-02-01,800,Credit Card,Annual
-9a74c950-2,355885e7,2025-06-16,450,Cash,6-month
-5ad6c8d3-6,284a11ee,2022-07-04,60,Credit Card,Student
-3d801d63-f,26e8e627,2024-12-10,80,Bank Transfer,Monthly
-16f8e534-f,de8863e2,2025-09-15,60,Cash,Student
-8a88d203-4,802641d6,2024-11-22,800,Bank Transfer,Annual
-3be6d603-2,d12ea4a6,2024-01-25,80,Credit Card,Monthly
-ea6d824b-1,ce864e6d,2024-08-22,450,Credit Card,6-month
-1dccead7-c,86412ddf,2024-05-01,80,Credit Card,Monthly
-30f916a0-5,20d78631,2022-12-31,120,Bank Transfer,Vip
-5b5678f1-a,9cb4a24c,2022-07-02,60,Bank Transfer,Student
-004536ed-f,0af3e7ec,2024-12-25,450,Cash,6-month
-f5cbc3a8-7,de4b0859,2023-08-25,800,Credit Card,Annual
-b584dda1-e,09323bb6,2023-08-27,80,Cash,Monthly
-50d0a4bb-2,bbba8db6,2024-02-12,120,Credit Card,Vip
-bbe9daf0-2,33ec6a84,2023-01-03,800,Bank Transfer,Annual
-57d3d16a-a,cc54f5ba,2024-12-27,450,Credit Card,6-month
-837f376a-6,9ef078a4,2025-01-25,120,Credit Card,Vip
-4ecd6a65-e,3b7dfd68,2023-05-16,120,Credit Card,Vip
-df08a412-e,f2e38ecd,2025-07-02,60,Bank Transfer,Student
-1977e827-2,06672864,2024-11-08,120,Bank Transfer,Vip
-07629a56-2,6b5a28ad,2024-02-10,450,Bank Transfer,6-month
-c6f78881-4,e0c6ad52,2025-02-06,120,Bank Transfer,Vip
-dc8f89b8-a,7c68d905,2022-06-18,80,Credit Card,Monthly
-e6868a0d-a,7f9aced9,2022-07-23,800,Credit Card,Annual
-36c92e13-c,3fb2bebc,2024-09-30,120,Bank Transfer,Vip
-63c6adf8-a,daa51895,2024-09-17,800,Cash,Annual
-a7e3a9e5-3,1d7b917b,2022-12-31,120,Bank Transfer,Vip
-05f7cafc-a,0af3e7ec,2024-06-07,450,Cash,6-month
-d693b4c9-a,752a396e,2024-04-04,80,Credit Card,Monthly
-63886cc0-5,9b652852,2024-04-13,80,Cash,Monthly
-0840bcb4-d,2cc5ce1f,2022-10-14,80,Bank Transfer,Monthly
-feb330d1-3,9f29f39a,2022-06-10,80,Bank Transfer,Monthly
-8384c468-d,e6afed96,2024-01-22,120,Credit Card,Vip
-1571e9da-5,6dfe648a,2023-08-11,60,Bank Transfer,Student
-1d1df9f6-8,81b3a775,2025-03-18,80,Cash,Monthly
-588d0a45-c,cc54f5ba,2024-07-10,450,Credit Card,6-month
-056f03fd-5,eb0c878a,2023-03-29,120,Cash,Vip
-d3acc59c-b,81b3a775,2025-02-09,80,Bank Transfer,Monthly
-7975194e-f,1a6e7700,2023-02-18,800,Cash,Annual
-8c37ccd7-5,061f8201,2025-01-28,80,Bank Transfer,Monthly
-4a8a9b40-5,5db360ff,2023-06-03,800,Credit Card,Annual
-99bda562-b,f9eb58e0,2024-02-29,450,Bank Transfer,6-month
-96948be7-9,d8087fc6,2023-11-17,800,Bank Transfer,Annual
-7571aa91-9,34a7ac78,2024-01-25,80,Bank Transfer,Monthly
-779884a5-f,687f1de3,2024-01-25,60,Bank Transfer,Student
-0a936eb2-8,021502e2,2024-06-29,80,Bank Transfer,Monthly
-7e13cf6b-1,7f9aced9,2022-07-04,800,Bank Transfer,Annual
-cdc98cd4-8,a711829f,2023-07-17,60,Bank Transfer,Student
-430311ed-a,f51e5826,2024-08-13,80,Cash,Monthly
-8c2e466c-b,105adfd0,2023-03-11,450,Credit Card,6-month
-98797b73-a,09b789c5,2022-08-17,120,Cash,Vip
-0c0fe08b-c,41d88eda,2025-01-10,800,Cash,Annual
-30dfd71a-2,acfc030a,2024-12-07,120,Credit Card,Vip
-0eaed960-c,20428098,2023-12-28,450,Credit Card,6-month
-18c93a81-3,26191ead,2025-01-26,800,Cash,Annual
-01f99709-1,e091a23c,2023-11-17,60,Cash,Student
-eec450aa-2,a1b1065f,2022-11-14,120,Bank Transfer,Vip
-afc31671-2,1ea62eec,2024-06-13,120,Credit Card,Vip
-5cb24c10-1,f0dbcb64,2023-06-28,60,Credit Card,Student
-157eb021-1,5b591683,2025-04-28,120,Bank Transfer,Vip
-03a794ef-4,824b4531,2023-06-04,80,Cash,Monthly
-d73363cf-e,2d4d2330,2022-09-19,450,Bank Transfer,6-month
-64260d03-f,54f088d3,2024-04-11,80,Credit Card,Monthly
-c535ad29-9,5d343d60,2024-12-11,120,Credit Card,Vip
-9d76dfaa-2,4828275d,2023-11-30,120,Bank Transfer,Vip
-e8e9982e-8,8faba7c4,2022-11-02,450,Credit Card,6-month
-26d68019-0,ce7849f4,2024-08-15,80,Credit Card,Monthly
-20cd996b-e,0be6bb68,2025-05-05,800,Cash,Annual
-e0a6a707-3,a2ee361f,2024-02-22,80,Credit Card,Monthly
-f1972b24-8,223b72fa,2024-06-16,60,Bank Transfer,Student
-394103c0-0,eccdfe3f,2022-06-13,450,Credit Card,6-month
-dd896a22-c,6fac0260,2023-11-03,80,Cash,Monthly
-a6407f19-1,b5d8621c,2024-07-16,450,Bank Transfer,6-month
-cf47bf19-2,66c5fb6e,2024-11-21,800,Credit Card,Monthly
-9837f846-2,42b2fc72,2023-09-27,80,Credit Card,Monthly
-6485ce0f-7,3eccfebb,2024-06-22,80,Bank Transfer,Monthly
-7d197393-d,23c9dcc9,2023-09-24,450,Cash,6-month
-ff9d93e4-9,73719fc4,2024-07-24,450,Cash,6-month
-9a94060b-0,54587789,2024-12-11,120,Credit Card,Vip
-989a69a4-1,535c473f,2024-12-27,120,Cash,Vip
-3f254058-5,b8d19036,2024-02-02,800,Bank Transfer,Annual
-ebf81cab-0,ba3eefa2,2025-11-15,60,Bank Transfer,Student
-97855f02-5,3618ad07,2023-07-26,800,Credit Card,Annual
-d7fd16f4-6,13cede67,2023-02-15,800,Cash,Annual
-3fa1904a-a,d8087fc6,2024-04-03,800,Bank Transfer,Annual
-078dc4e3-c,52d5fee2,2023-06-26,80,Credit Card,Monthly
-96c62c18-7,1ea62eec,2024-04-03,120,Cash,Vip
-fd04e5b2-d,1fc13736,2024-10-04,60,Bank Transfer,Student
-8dd38bca-2,8ac2a270,2024-04-05,450,Bank Transfer,6-month
-cdd99108-6,86412ddf,2024-07-10,80,Cash,Monthly
-3924f691-2,f4a34012,2023-09-10,450,Credit Card,6-month
-e9726124-1,1778c684,2024-10-22,80,Credit Card,Monthly
-42b88abe-0,d9414a19,2024-10-19,120,Bank Transfer,Vip
-fc1d0403-0,9ef078a4,2024-12-14,120,Cash,Vip
-700efbc6-3,8d57ada3,2024-02-10,60,Cash,Student
-5d26edff-b,42b2fc72,2023-05-25,80,Bank Transfer,Monthly
-a95a6847-7,f51e5826,2025-04-15,80,Bank Transfer,Monthly
-9f27ef76-e,dd0f61d9,2023-09-05,80,Cash,Monthly
-5c7bfd96-e,166e03d3,2023-11-28,60,Bank Transfer,Student
-3b7d341d-6,6d3617c4,2024-06-20,450,Cash,6-month
-6e72801a-b,bbba8db6,2024-12-11,120,Bank Transfer,Vip
-5a84ed66-e,4828275d,2023-03-28,120,Credit Card,Vip
-64a771dd-4,62b8bf14,2022-07-22,800,Cash,Annual
-16ff5dac-4,6387a29d,2025-07-10,60,Cash,Student
-241c757d-a,57ab4242,2023-06-11,80,Credit Card,Monthly
-b8ff7ae4-0,ad01dfb2,2023-06-02,80,Credit Card,Monthly
-b5e2472d-3,ab3e6c9f,2024-11-26,800,Bank Transfer,Annual
-55ca1b35-1,a3482673,2022-11-13,80,Bank Transfer,Monthly
-df055625-0,c7603b94,2024-03-28,60,Bank Transfer,Student
-648ed227-6,20d78631,2022-12-08,120,Bank Transfer,Vip
-d67b0f62-1,e6d8a2d2,2022-09-24,120,Cash,Vip
-e6d2ec08-1,c95c389d,2023-06-30,800,Bank Transfer,Annual
-0da3c38b-f,be6dff8b,2022-11-02,450,Cash,6-month
-658e30b1-7,91e5ab15,2025-08-21,80,Bank Transfer,Monthly
-135e04c0-3,17b5eac7,2024-07-09,60,Cash,Student
-62177b95-2,988c368a,2023-11-23,800,Credit Card,Annual
-257573d3-a,0eee54c5,2022-06-12,120,Bank Transfer,Vip
-8ed69b30-1,f68597db,2022-12-29,120,Credit Card,Vip
-5ff6c21c-a,6869aa2b,2022-07-13,120,Cash,Vip
-d0a51f0d-0,4f00cfb6,2025-01-19,120,Cash,Vip
-03558946-1,d82d2eff,2024-03-19,80,Credit Card,Monthly
-3fe6c1ee-8,714ff072,2025-04-19,60,Cash,Student
-87f080b4-5,cb4aa221,2023-08-19,120,Credit Card,Vip
-5db43d2e-e,355b094c,2024-01-21,80,Credit Card,Monthly
-d22cf9c5-6,2b5f0e38,2022-09-09,80,Credit Card,Monthly
-578c1922-6,62b8bf14,2022-06-10,800,Cash,Annual
-85e2321a-6,f5e6edbb,2022-05-05,60,Cash,Student
-694ce9d7-2,88f7c8f5,2022-09-12,450,Cash,6-month
-d8085df4-9,dc620dd5,2023-07-23,120,Credit Card,Vip
-d1c1d723-e,c16b70d3,2024-11-09,800,Bank Transfer,Annual
-04d3eb07-b,1c90b1fd,2024-11-23,800,Cash,Annual
-496c3960-c,3cc18c79,2022-06-09,60,Bank Transfer,Student
-306bd59d-d,464fa587,2024-04-29,800,Cash,Annual
-16b76c30-2,36342106,2024-12-03,80,Credit Card,Monthly
-1b53ecf5-d,072be2f4,2023-04-03,450,Bank Transfer,6-month
-b9a2ac2d-9,466df58c,2022-04-15,120,Credit Card,Vip
-fbbb6f5d-e,20428098,2023-05-23,450,Credit Card,6-month
-51635fe5-d,8819dde9,2025-09-05,800,Cash,Annual
-aaa3ffa3-2,3b193cda,2023-03-03,450,Bank Transfer,6-month
-cb23b76e-2,3bfef1a2,2022-11-24,450,Credit Card,6-month
-725efde7-9,2a18a143,2023-10-11,120,Credit Card,Vip
-8cb33d5e-7,4dfafe6e,2023-06-10,800,Bank Transfer,Annual
-d2310711-8,ca1a56a0,2022-11-29,60,Credit Card,Student
-a12d4f7e-6,f68597db,2022-10-31,120,Cash,Vip
-14567c5d-3,f45aca7c,2022-10-02,60,Bank Transfer,Student
-6f4e1a13-4,55c0dc73,2022-10-03,80,Bank Transfer,Monthly
-13dddc34-c,687f1de3,2023-12-08,60,Bank Transfer,Student
-0d4570f6-2,26191ead,2024-08-25,800,Credit Card,Annual
-1cb3a80f-9,166e03d3,2024-08-26,60,Credit Card,Student
-fdc3a04a-9,c6727525,2023-10-26,120,Credit Card,Vip
-9f2fcf5a-7,cc54f5ba,2024-05-10,450,Bank Transfer,6-month
-3dd2f1f6-0,e24f64a8,2022-12-20,60,Cash,Student
-ca08f12c-0,da46bfef,2024-10-19,120,Bank Transfer,Vip
-963cffc7-5,5062500d,2022-10-12,800,Cash,Annual
-77699567-f,7cabf280,2024-06-13,60,Credit Card,Student
-98cf2c08-5,dc80f3f2,2024-06-04,800,Credit Card,Annual
-58a04f65-2,a2948e8d,2022-10-23,800,Credit Card,Annual
-9dbfba7d-4,ecc1ebad,2024-07-16,60,Credit Card,Student
-84f84dcb-7,b72e73b5,2022-12-30,80,Bank Transfer,Monthly
-51b98659-9,6b5a28ad,2024-02-02,450,Cash,6-month
-87df21ef-1,575b43a8,2024-05-30,450,Credit Card,6-month
-fea0e308-5,bc27fb86,2023-06-22,80,Cash,Monthly
-9915e979-0,466df58c,2022-08-19,120,Cash,Vip
-be162322-d,f384fb06,2024-02-21,450,Bank Transfer,6-month
-5e6dff41-3,9711803e,2023-02-26,120,Cash,Vip
-b644cf16-4,28026b39,2025-03-31,60,Credit Card,Student
-f8caec39-6,28d6a0f5,2025-10-01,80,Bank Transfer,Monthly
-effc3fe2-0,3de59562,2022-09-26,800,Cash,Annual
-f1010daa-a,355885e7,2024-12-08,450,Bank Transfer,6-month
-03658918-b,5517456e,2022-11-01,60,Cash,Student
-ac1697bc-5,53a70bf4,2024-02-16,80,Bank Transfer,Monthly
-af3eef52-a,d068098c,2024-09-18,120,Credit Card,Vip
-0c1308de-d,4f623c79,2024-11-20,800,Bank Transfer,Annual
-8c2a595a-6,f904ca11,2022-07-16,120,Bank Transfer,Vip
-c526edda-2,daf3d9c8,2025-04-03,450,Credit Card,6-month
-450b60ed-c,72f7d336,2022-05-16,60,Cash,Student
-f816a1f5-2,d1623142,2024-12-27,120,Cash,Vip
-3d7bbfff-b,061f8201,2024-09-24,80,Cash,Monthly
-600abe37-2,20428098,2023-04-15,450,Cash,6-month
-1ed53d54-4,42d222b5,2023-05-12,60,Credit Card,Student
-c5db91f9-3,b1fb94c0,2024-04-09,800,Credit Card,Annual
-dde1cb28-e,0655286b,2022-10-04,80,Cash,Monthly
-80d3c993-c,021502e2,2024-07-20,80,Bank Transfer,Monthly
-c093e468-8,dc620dd5,2023-12-16,120,Bank Transfer,Vip
-a6e18a92-3,a84100f0,2022-06-05,60,Credit Card,Student
-58d149e4-b,4991f6d7,2024-03-30,80,Credit Card,Monthly
-b286aa9b-a,e8a350d3,2023-12-21,120,Cash,Vip
-1e7da9ef-9,58897ea7,2022-09-07,60,Cash,Student
-448c3411-5,0ba73a3d,2022-10-10,800,Cash,Annual
-3c5b5ad1-2,66a8f232,2022-10-11,450,Cash,6-month
-b47d5ad6-d,444501cd,2023-01-23,120,Bank Transfer,Vip
-7f4b1bcd-d,20cbfe66,2024-05-13,80,Credit Card,Monthly
-f06dc04d-5,daf3d9c8,2025-02-22,450,Bank Transfer,6-month
-27c051f3-1,430f4e9d,2022-04-16,800,Bank Transfer,Annual
-3a4ef916-e,a36ff18e,2024-04-24,120,Credit Card,Vip
-7a442cdd-a,7b254f80,2023-04-02,120,Cash,Vip
-5cf984e6-9,33ec6a84,2022-11-29,800,Bank Transfer,Annual
-b82756f3-d,662d0c7d,2022-05-15,450,Bank Transfer,6-month
-2c5a7ab7-1,ded1198f,2024-08-25,450,Bank Transfer,6-month
-6e9799c9-f,028a5ec1,2023-12-23,120,Cash,Vip
-962bcfdd-d,2ab249f8,2023-05-18,80,Cash,Monthly
-40a3b306-1,36342106,2024-11-16,80,Cash,Monthly
-29b58e44-5,ba3eefa2,2025-04-02,60,Cash,Student
-e7608970-6,47518081,2024-01-28,800,Credit Card,Annual
-03ab9b21-9,ca1a56a0,2022-09-23,60,Bank Transfer,Student
-921bae6a-8,55c0dc73,2023-01-25,80,Credit Card,Monthly
-ddbf7063-d,dc1a0233,2025-09-24,60,Cash,Student
-f4ba97a0-0,321012b1,2024-03-23,800,Credit Card,Annual
-14e07fa9-6,73719fc4,2024-07-26,450,Cash,6-month
-9332ac32-e,f51e5826,2024-10-25,80,Credit Card,Monthly
-94106e21-7,c537e3db,2022-07-05,80,Credit Card,Monthly
-c72a094f-4,04c06311,2024-12-28,450,Credit Card,6-month
-3852dfef-2,cb1cd12e,2023-04-20,120,Credit Card,Vip
-0983220d-9,430f4e9d,2022-06-29,800,Bank Transfer,Annual
-99300791-b,84d99d32,2024-01-08,800,Cash,Annual
-ce99228f-d,2638ff07,2025-09-09,450,Credit Card,6-month
-3f0dea99-f,fce7bb81,2023-02-03,800,Cash,Annual
-003bb253-9,b41dfeab,2025-08-20,800,Bank Transfer,Annual
-47653ebc-d,f3e9fe9a,2022-07-16,60,Credit Card,Student
-225a9111-b,32fe6272,2023-08-01,450,Bank Transfer,6-month
-56558757-7,1a254707,2025-03-18,450,Credit Card,6-month
-a10833d4-8,5df442ee,2024-01-31,800,Cash,Annual
-a7185104-1,39647ece,2024-11-18,80,Cash,Monthly
-434a8caf-0,c8001789,2024-01-28,80,Cash,Monthly
-b14d5e4f-4,48f0d76d,2023-02-09,450,Credit Card,6-month
-448254cd-3,bb3835b9,2025-04-27,80,Credit Card,Monthly
-f25b60d2-3,f35b9216,2024-05-25,60,Bank Transfer,Student
-28de615c-7,c537e3db,2022-07-09,80,Cash,Monthly
-c0b91fe4-8,2d6a3c1b,2023-03-22,60,Credit Card,Student
-293ca024-6,52dda74b,2023-10-30,120,Bank Transfer,Vip
-d2a9279f-6,fa11a689,2022-07-03,120,Bank Transfer,Vip
-9b283e1a-c,13cede67,2023-03-24,800,Credit Card,Annual
-1dccae17-b,43923c32,2024-09-18,120,Bank Transfer,Vip
-d0a4efef-4,3618ad07,2023-02-09,800,Cash,Annual
-fadbcde3-3,465ee6ac,2023-11-11,120,Cash,Vip
-07623c1a-9,90cfd131,2025-01-18,800,Cash,Annual
-1fece368-b,22aef91c,2022-08-25,120,Cash,Vip
-44fd50ce-2,dc18df08,2023-10-23,120,Cash,Vip
-a8e5824b-7,561c2d65,2025-05-16,800,Credit Card,Annual
-074833d2-8,acf39aa7,2024-10-30,60,Bank Transfer,Student
-2bd2f3f6-8,df7b1b0e,2022-11-17,120,Cash,Vip
-980f4df9-8,91e5ab15,2025-09-10,80,Cash,Monthly
-5b1724de-f,0d79bc9d,2023-03-28,120,Credit Card,Vip
-c499d6ca-6,39647ece,2024-01-16,80,Bank Transfer,Monthly
-42116754-6,d06f1e5e,2023-06-03,60,Cash,Student
-2a44ced5-2,d90985f3,2024-03-23,800,Bank Transfer,Annual
-aada915d-d,284a11ee,2022-11-14,60,Cash,Student
-f7ecd4e5-9,bbba8db6,2024-03-09,120,Credit Card,Vip
-2137b151-4,ce7849f4,2024-12-03,80,Credit Card,Monthly
-51395c29-e,46705947,2024-01-02,60,Cash,Student
-8fda99f0-a,6ba7206a,2025-10-13,60,Credit Card,Student
-78448420-5,f35b9216,2023-10-29,60,Cash,Student
-8b1c8b18-b,1a6e7700,2023-06-27,800,Bank Transfer,Annual
-eb749d02-1,06dfbece,2024-07-29,120,Cash,Vip
-72f2e4a6-a,33ec6a84,2022-08-18,800,Cash,Annual
-3d971361-c,ec6a769b,2025-04-16,60,Bank Transfer,Student
-58daa908-1,061f8201,2024-10-02,80,Cash,Monthly
-49b9b539-f,c8934a8f,2022-11-30,800,Bank Transfer,Annual
-84c90a38-4,cd63ce71,2025-06-04,60,Bank Transfer,Student
-5280c405-9,62b8bf14,2023-01-22,800,Bank Transfer,Annual
-76363933-c,de4b0859,2023-10-13,800,Bank Transfer,Annual
-a7143e87-4,cb1cd12e,2023-06-02,120,Bank Transfer,Vip
-260db35a-c,a543784b,2023-07-18,800,Cash,Annual
-46eace1c-4,12bade00,2024-08-22,80,Credit Card,Monthly
-25392582-5,211f94fd,2023-02-04,60,Credit Card,Student
-0eeacf25-4,cd31b9e6,2022-08-12,80,Credit Card,Monthly
-a9509abc-7,eb0c878a,2022-10-04,120,Bank Transfer,Vip
-1da80847-d,64a9e8ef,2023-04-04,60,Bank Transfer,Student
-e6b4026a-3,72f8e54b,2023-04-14,80,Credit Card,Monthly
-4663175c-4,f3e9fe9a,2022-09-16,60,Bank Transfer,Student
-d24eea6c-a,c524c36b,2024-04-08,120,Credit Card,Vip
-8212d729-8,41cc86a4,2025-02-25,800,Credit Card,Annual
-adec8374-f,88b787e6,2025-07-14,450,Credit Card,6-month
-2524e6bd-b,c0bb2790,2023-12-02,60,Credit Card,Student
-56a334f5-5,96850646,2023-10-17,80,Credit Card,Monthly
-35adfef1-8,34a57396,2025-04-08,120,Bank Transfer,Vip
-72baeaee-d,000baf94,2024-08-15,450,Cash,6-month
-ba0f1017-6,8f869942,2022-11-07,120,Cash,Vip
-14bf551e-3,03bcc37b,2024-10-24,800,Cash,Annual
-1f7fcc54-3,a543784b,2023-07-16,800,Bank Transfer,Annual
-ff0a2e3a-a,9f04a463,2023-07-13,800,Bank Transfer,Annual
-161161d1-2,dbed45f5,2022-10-26,60,Bank Transfer,Student
-a04f2d69-b,d06f1e5e,2023-05-24,600,Cash,Student
-511c64b2-a,0ce5c8d2,2023-01-02,80,Cash,Monthly
-3eb6d35b-a,a201f2b1,2024-04-03,120,Cash,Vip
-b0d0b471-9,47518081,2023-12-25,800,Bank Transfer,Annual
-634fbff5-e,a568d404,2025-03-04,60,Bank Transfer,Student
-97a77fa8-c,78bf6ab6,2022-10-30,800,Bank Transfer,Annual
-1b767d3b-6,2cf40a22,2023-10-19,60,Bank Transfer,Student
-4de61315-7,711fabf9,2025-03-16,800,Cash,Annual
-aa3cb2f6-6,dd49cdfe,2025-06-05,800,Cash,Annual
-efca389f-7,20cbfe66,2023-11-11,80,Cash,Monthly
-d877ee3b-2,561c2d65,2025-03-26,800,Credit Card,Annual
-ba33e90f-4,105adfd0,2023-06-06,450,Cash,6-month
-77681a9d-7,ad01dfb2,2023-03-10,80,Bank Transfer,Monthly
-0c91abd2-4,b3724660,2023-02-05,450,Cash,6-month
-f80e64b9-0,726c48cc,2022-10-29,120,Bank Transfer,Vip
-d04ee529-6,535c473f,2025-04-29,120,Bank Transfer,Vip
-8438a4b8-5,4dfafe6e,2023-07-05,800,Cash,Annual
-1c9e2130-6,c16b70d3,2024-03-27,800,Cash,Annual
-45a9c613-7,c524c36b,2024-02-25,120,Cash,Vip
-c8f8a3df-a,12bade00,2024-07-02,80,Cash,Monthly
-177d218e-a,ca1a56a0,2022-05-08,60,Credit Card,Student
-f3a2cc2c-0,5053b626,2023-06-26,450,Credit Card,6-month
-b20d238d-b,8915fba1,2025-06-27,60,Cash,Student
-aad7e0c2-8,0af3e7ec,2024-11-28,450,Cash,6-month
-c88b0eda-4,dd49cdfe,2024-09-04,800,Bank Transfer,Annual
-12163ac6-9,2cf40a22,2023-11-08,60,Cash,Student
-5e3d8d9d-6,7478ca0a,2024-06-20,450,Credit Card,6-month
-eef377e7-c,6d3617c4,2023-11-29,450,Cash,6-month
-c73ddf88-3,5e3b86f8,2024-10-02,80,Cash,Monthly
-f33fac26-b,fc5f662a,2022-09-26,800,Bank Transfer,Annual
-a55bbcbc-e,0cf1dd15,2025-02-13,450,Bank Transfer,6-month
-4195674b-c,686c37a2,2024-10-07,800,Cash,Annual
-ba893bd1-a,34a57396,2025-12-05,120,Bank Transfer,Vip
-5aa1645b-8,6d600353,2022-11-04,120,Credit Card,Vip
-edcd5b2a-1,2eeb7f97,2022-09-08,80,Cash,Monthly
-41f9c8b8-d,8df4bc3b,2023-06-05,120,Credit Card,Vip
-0e55ca0f-1,34a57396,2025-01-31,120,Cash,Vip
-dda61853-f,9e03eabe,2025-02-05,800,Credit Card,Annual
-86640608-4,a80cafa6,2023-07-05,120,Credit Card,Vip
-69ca340b-1,9bf4eba7,2022-11-19,80,Bank Transfer,Monthly
-76d8f125-8,e00f4dc6,2022-06-23,120,Bank Transfer,Vip
-720a7a17-b,3fb2bebc,2024-09-05,120,Cash,Vip
-09227f5b-8,3bfef1a2,2023-07-25,450,Credit Card,6-month
-f100b2b6-b,9ee7a985,2023-05-30,60,Cash,Student
-669057c6-3,73719fc4,2023-10-10,450,Cash,6-month
-5cad8844-8,1dbbad37,2024-10-02,80,Credit Card,Monthly
-e13884f0-e,3b193cda,2023-07-10,450,Cash,6-month
-e62e9b19-8,1778c684,2024-05-22,80,Credit Card,Monthly
-02be2e4f-c,4a343f77,2024-10-08,450,Credit Card,6-month
-3807b48f-d,8861fec4,2025-01-19,450,Cash,6-month
-9ba7ebdf-1,0ac63ef2,2023-05-21,120,Cash,Vip
-90ca6305-0,9e03eabe,2025-04-05,800,Credit Card,Annual
-e74fe469-6,3edb04ef,2025-02-09,450,Bank Transfer,6-month
-d4e76f09-5,1e7be14d,2024-10-14,800,Cash,Annual
-d1b9cc5b-3,338aa7e6,2023-10-22,450,Bank Transfer,6-month
-0810fcad-b,e6d8a2d2,2022-12-17,120,Bank Transfer,Vip
-75fcedfe-5,9711803e,2023-09-14,120,Cash,Vip
-ef394a5e-8,dd1b7be4,2022-06-08,60,Credit Card,Student
-d92e80c5-0,662d0c7d,2022-12-25,450,Credit Card,6-month
-88cbaa51-a,9f29f39a,2023-04-01,80,Credit Card,Monthly
-23804ef0-f,8915fba1,2025-01-18,60,Cash,Student
-7cee3c7c-b,a1b1065f,2022-07-18,120,Credit Card,Vip
-b1349446-3,cf31f7c9,2022-07-16,60,Cash,Student
-8af05e39-3,b3696ae1,2024-12-06,80,Credit Card,Monthly
-19c238ea-e,966e2a16,2024-07-01,800,Credit Card,Annual
-eae46630-0,a711829f,2024-01-03,60,Bank Transfer,Student
-64b789c1-f,0be6bb68,2025-04-10,800,Bank Transfer,Annual
-5fa38c20-a,49e3a5c5,2024-04-18,450,Bank Transfer,6-month
-d92adc31-a,7f054674,2024-03-03,80,Credit Card,Monthly
-15c60205-b,028a5ec1,2024-04-03,120,Cash,Vip
-926dbed8-f,6d600353,2022-11-13,120,Credit Card,Vip
-2511abad-7,20247787,2024-03-19,120,Bank Transfer,Vip
-c68e4c45-d,f6fe6c47,2024-01-18,120,Cash,Vip
-0ccb0044-9,7b058813,2023-09-15,800,Cash,Annual
-8d15cd90-9,1916173f,2023-09-03,450,Bank Transfer,6-month
-500992d4-7,4828275d,2023-02-02,120,Credit Card,Vip
-ba72f515-4,58003249,2022-09-29,80,Cash,Monthly
-943c4d4b-4,79919bf8,2024-05-06,120,Cash,Vip
-93b4b8d1-f,1fd35ab1,2022-08-15,800,Cash,Annual
-8e5b65f9-1,0891cefb,2023-05-07,60,Credit Card,Student
-efc6a9db-6,2cc5ce1f,2023-04-22,80,Bank Transfer,Monthly
-9f17da76-2,7f9aced9,2022-04-08,800,Bank Transfer,Annual
-d001d727-4,c8934a8f,2023-03-31,800,Cash,Annual
-6311ecc3-a,6dfe648a,2024-06-09,60,Cash,Student
-77569633-7,5062500d,2022-11-20,800,Credit Card,Annual
-33791599-4,4f91c2cf,2025-03-15,80,Bank Transfer,Monthly
-accff9b6-1,a36ff18e,2024-01-22,120,Credit Card,Vip
-bbb3a959-f,3edb04ef,2024-05-14,450,Bank Transfer,6-month
-0fcb9ac9-f,54f088d3,2024-03-09,80,Credit Card,Monthly
-41bc258f-4,7b058813,2023-04-24,800,Bank Transfer,Annual
-d5ce28c2-2,c6727525,2023-11-03,120,Credit Card,Vip
-5b74f613-2,84da578c,2023-09-29,80,Bank Transfer,Monthly
-c409a8a4-d,d77571ee,2022-12-15,120,Bank Transfer,Vip
-b9f39cca-d,6428d3b8,2022-12-14,60,Credit Card,Student
-01c8742f-9,7cabf280,2025-02-24,60,Cash,Student
-5fc01888-2,41cc86a4,2025-05-21,800,Bank Transfer,Annual
-6ca6aaa8-8,34f2fbaa,2022-10-12,120,Credit Card,Vip
-4ccff2cf-0,caab413f,2023-04-08,60,Credit Card,Student
-550c99c1-e,3b7dfd68,2023-01-26,120,Cash,Vip
-b85c40b0-3,5b591683,2024-12-19,120,Cash,Vip
-d641c51d-0,4dfafe6e,2023-09-19,800,Bank Transfer,Annual
-3f95faa4-2,84da578c,2023-10-10,80,Cash,Monthly
-0b46d399-d,bb3835b9,2025-03-12,80,Bank Transfer,Monthly
-21e9f346-d,9f04a463,2023-05-19,800,Cash,Annual
-90d06e81-7,e20f0334,2025-07-29,800,Credit Card,Annual
-d8696400-7,4471ab4d,2024-11-10,800,Cash,Annual
-63795633-3,714ff072,2024-08-15,60,Bank Transfer,Student
-c724b9fb-3,81b3a775,2024-11-09,80,Bank Transfer,Monthly
-4ab763dc-6,88f7c8f5,2023-04-22,450,Cash,6-month
-f82f807f-d,ce8f8365,2024-01-06,80,Cash,Monthly
-a093abb8-d,42b2fc72,2024-04-29,80,Cash,Monthly
-65529628-3,73719fc4,2023-12-07,450,Credit Card,6-month
-9bfcf576-9,06dfbece,2025-05-12,120,Cash,Vip
-febebb68-9,b9cbb889,2023-05-11,60,Credit Card,Student
-098be178-6,061f8201,2025-03-04,80,Bank Transfer,Monthly
-99bea9c8-e,f29ce7d9,2025-02-20,450,Credit Card,6-month
-46279bf0-7,1d9e79bb,2024-06-24,450,Credit Card,6-month
-d9a143ab-d,966e2a16,2024-04-09,800,Cash,Annual
-3a96fe2d-b,66a8f232,2022-09-28,450,Bank Transfer,6-month
-3f22fb41-d,32fe6272,2022-11-24,450,Bank Transfer,6-month
-895e933c-0,10173117,2023-02-03,450,Credit Card,6-month
-104efaea-0,b41dfeab,2025-08-21,800,Credit Card,Annual
-791f4a37-b,95fee4e4,2023-02-19,450,Bank Transfer,6-month
-d20fd679-1,72449ccf,2024-02-02,120,Cash,Vip
-9f66e41f-3,58584a73,2023-04-16,450,Bank Transfer,6-month
-67a2d392-6,5f1e5ddc,2024-10-03,60,Credit Card,Student
-a558a8cd-8,05263844,2023-10-31,120,Bank Transfer,Vip
-28d8d2a3-0,f2c9908b,2023-11-08,450,Cash,6-month
-8dae3e09-9,d4c8a83b,2025-06-13,60,Bank Transfer,Student
-3efdf77d-0,2cc5ce1f,2022-10-21,80,Credit Card,Monthly
-6edab56a-b,84d99d32,2024-01-07,800,Cash,Annual
-9afea436-6,338aa7e6,2023-04-06,450,Bank Transfer,6-month
-3ead5261-2,a80cafa6,2024-03-27,120,Credit Card,Vip
-6c2cb88f-d,7d30db0c,2024-02-15,800,Bank Transfer,Annual
-2d7e32c5-a,51171447,2023-12-25,60,Bank Transfer,Student
-da80982c-a,a25cee3e,2022-12-10,450,Bank Transfer,6-month
-813ccda9-e,24246373,2025-03-27,120,Bank Transfer,Vip
-f45e7015-1,575b43a8,2024-06-08,450,Credit Card,6-month
-5978cbbe-8,96f30dc6,2025-03-16,450,Credit Card,6-month
-7581d650-6,3618ad07,2023-04-07,800,Cash,Annual
-c87f151b-a,a2ee361f,2023-03-31,80,Cash,Monthly
-673b9986-3,ea5c6477,2024-04-29,60,Credit Card,Student
-9819f488-7,72f7d336,2022-06-03,60,Credit Card,Student
-32c76498-d,e02db279,2025-01-28,60,Cash,Student
-3b67ef02-c,03d42852,2024-07-31,800,Credit Card,Annual
-62d79aa3-6,28d6a0f5,2024-12-23,80,Bank Transfer,Monthly
-f6259578-3,bb3835b9,2025-05-18,80,Cash,Monthly
-22fdd2e6-0,3bfef1a2,2023-09-09,450,Cash,6-month
-eba7a25d-b,ab3e6c9f,2025-03-12,800,Bank Transfer,Annual
-8aebf692-a,13cede67,2023-02-15,800,Cash,Annual
-aa3e81dd-6,355885e7,2025-04-13,450,Bank Transfer,6-month
-9fbde085-d,c16b70d3,2024-06-18,800,Credit Card,Annual
-f9a474b4-3,3eccfebb,2024-11-14,80,Credit Card,Monthly
-71ae00f5-1,da46bfef,2024-04-19,120,Credit Card,Vip
-925d7fd1-a,eb0c878a,2023-02-06,120,Bank Transfer,Vip
-b8adda0e-3,72f7d336,2022-05-03,60,Credit Card,Student
-8f0a36fd-1,49e3a5c5,2024-09-21,450,Cash,6-month
-1658a695-a,2d6a3c1b,2023-05-11,60,Bank Transfer,Student
-168ba750-b,a3482673,2023-04-15,80,Credit Card,Monthly
-0ffa08c3-5,e6d8a2d2,2023-08-02,120,Cash,Vip
-b1d234d2-f,62b8bf14,2023-01-06,800,Bank Transfer,Annual
-640d9e57-7,c92631ae,2023-08-05,800,Bank Transfer,Annual
-96cde232-0,72449ccf,2023-12-07,120,Credit Card,Vip
-d27ba14e-5,9f04a463,2023-03-10,800,Credit Card,Annual
-31f43d06-0,c16b70d3,2024-06-08,800,Credit Card,Annual
-0d8b4b71-d,b72e73b5,2022-08-21,80,Cash,Monthly
-138709e1-5,9ef078a4,2025-02-13,120,Credit Card,Vip
-42a1d68e-d,4f623c79,2024-09-16,800,Bank Transfer,Annual
-40f03f6a-3,166e03d3,2023-12-20,60,Bank Transfer,Student
-dc51fb64-5,bedc15ea,2022-11-15,80,Credit Card,Monthly
-4ff048b6-6,393ecfc5,2025-07-01,120,Credit Card,Vip
-6e635e5d-c,191f7b78,2024-04-04,450,Cash,6-month
-3048cf62-d,dc80f3f2,2025-02-08,800,Cash,Annual
-d56dcc23-b,ce8f8365,2023-08-02,80,Bank Transfer,Monthly
-5e6933da-f,78bf6ab6,2023-02-05,800,Cash,Annual
-3222af7a-8,34f2fbaa,2022-12-02,120,Bank Transfer,Vip
-bb4fe16c-4,b45e4a23,2024-02-21,60,Cash,Student
-cf89e958-0,fe205945,2024-01-14,120,Cash,Vip
-090c435a-6,ce7849f4,2024-10-31,80,Credit Card,Monthly
-e289b12a-e,1fc13736,2025-02-26,60,Bank Transfer,Student
-0fdbd025-a,de4b0859,2022-12-15,800,Bank Transfer,Annual
-165eb6f7-7,33a08bdc,2023-04-07,60,Credit Card,Student
-20cc6e6f-3,166e03d3,2024-06-01,60,Cash,Student
-27c15d7a-9,20d78631,2022-05-29,120,Cash,Vip
-a42a022b-9,06672864,2024-02-17,120,Cash,Vip
-e504f253-b,7365fd31,2023-03-26,80,Cash,Monthly
-a769fd9a-d,cfcb50a1,2024-01-11,800,Credit Card,Annual
-c761516c-a,48c1a3ca,2022-01-31,80,Bank Transfer,Monthly
-7aa2496d-5,f45aca7c,2023-03-08,60,Bank Transfer,Student
-9d072d72-b,c4d0e5a0,2022-06-13,450,Cash,6-month
-dc00a16c-4,f6fe6c47,2023-09-20,120,Cash,Vip
-959c6603-7,5d2b5164,2023-04-09,60,Cash,Student
-5b95efbe-6,4471ab4d,2024-09-22,800,Cash,Annual
-f560550d-6,bedc15ea,2023-01-10,80,Cash,Monthly
-a3d49696-6,dc1a0233,2025-09-23,60,Credit Card,Student
-96cf513f-1,5b48b1ff,2023-04-17,60,Bank Transfer,Student
-ff6baafa-c,575b43a8,2024-10-04,450,Cash,6-month
-a90891ac-1,be6dff8b,2022-09-13,450,Cash,6-month
-4940c318-0,e25e435d,2023-10-15,450,Cash,6-month
-881b9d4d-1,47518081,2024-09-16,800,Cash,Annual
-6a016c34-1,3d7b60d5,2025-01-16,800,Bank Transfer,Annual
-ff4246d6-b,6bd3758d,2023-06-05,60,Credit Card,Student
-1143a190-0,e763653e,2023-03-09,120,Cash,Vip
-04648dbf-1,e6d8a2d2,2022-11-03,120,Credit Card,Vip
-3c7e5e80-b,f4a34012,2023-07-02,450,Bank Transfer,6-month
-775fec1e-5,676faac4,2025-02-16,120,Bank Transfer,Vip
-c30afd42-7,2ab249f8,2023-03-31,80,Cash,Monthly
-2e492adb-9,55c0dc73,2022-10-23,80,Credit Card,Monthly
-ef982f00-1,dd1b7be4,2023-02-12,60,Bank Transfer,Student
-9d2e9fb0-2,4a343f77,2024-12-09,450,Credit Card,6-month
-c69a9e4d-d,105adfd0,2023-08-25,450,Credit Card,6-month
-a806f872-b,95fee4e4,2023-03-12,450,Cash,6-month
-bd47cbd9-6,d65e4f13,2025-05-30,450,Credit Card,6-month
-080b6d5c-3,17b5eac7,2025-04-29,60,Credit Card,Student
-0e4ad61b-2,cd1e06a4,2023-05-07,120,Credit Card,Vip
-62781524-9,9152f1b3,2022-11-29,120,Credit Card,Vip
-26665b6b-e,cb1cd12e,2023-11-21,120,Bank Transfer,Vip
-2d04aa7f-7,c0bb2790,2023-05-19,60,Credit Card,Student
-8f2edf13-8,bf486123,2022-11-12,80,Cash,Monthly
-f9e94ee5-a,d06f1e5e,2024-03-10,60,Credit Card,Student
-bcd27ff0-b,861d8179,2024-06-21,60,Cash,Student
-ab594444-5,1778c684,2024-02-12,80,Credit Card,Monthly
-465e1618-1,f6fe6c47,2023-08-16,120,Cash,Vip
-5d1732fe-a,120bfac6,2024-04-25,60,Cash,Student
-01ce0d58-e,5062500d,2022-09-03,800,Cash,Annual
-e5a7217b-b,8f0335b7,2024-12-13,80,Credit Card,Monthly
-e3916871-6,47976053,2025-06-24,80,Cash,Monthly
-23d66b52-b,9ee7a985,2023-10-27,60,Credit Card,Student
-6435a5c5-5,2f933a01,2025-10-07,120,Bank Transfer,Vip
-8601aaba-5,988c368a,2024-09-06,800,Cash,Annual
-6eeb6a9f-b,23c9dcc9,2023-09-25,450,Credit Card,6-month
-882cbc19-1,bb3835b9,2024-11-07,80,Credit Card,Monthly
-5aef5c72-9,194126ac,2023-03-28,800,Cash,Annual
-a87b7275-3,f51e5826,2024-12-24,80,Bank Transfer,Monthly
-d89af422-7,cd34df65,2023-01-04,120,Credit Card,Vip
-12544a78-6,ecc1ebad,2024-06-02,60,Bank Transfer,Student
-ee28bd30-b,d06f1e5e,2023-05-27,60,Cash,Student
-393c41ed-2,5062500d,2023-04-18,800,Cash,Annual
-2eea324d-c,a36ff18e,2024-01-24,120,Bank Transfer,Vip
-9b69957d-4,287245db,2022-08-29,60,Cash,Student
-439168e8-5,5e3b86f8,2024-05-15,80,Credit Card,Monthly
-9f53c076-5,96850646,2023-12-23,80,Cash,Monthly
-ef9f8bd9-d,6428d3b8,2023-08-10,60,Bank Transfer,Student
-93a2c880-b,2f933a01,2025-10-13,120,Bank Transfer,Vip
-9e864263-d,f5e6edbb,2022-10-26,60,Cash,Student
-2d896790-d,1c90b1fd,2025-08-17,800,Credit Card,Annual
-c26cb4b8-e,1ea62eec,2023-08-12,120,Cash,Vip
-5e962cff-3,d4c8a83b,2025-06-09,60,Bank Transfer,Student
-755865e4-c,b8d19036,2024-03-14,800,Credit Card,Annual
-20407146-d,2f933a01,2025-06-12,120,Credit Card,Vip
-98eb16ee-c,9cb4a24c,2022-09-11,60,Cash,Student
-abb293c0-a,861d8179,2024-12-07,60,Credit Card,Student
-b00b0459-7,a84100f0,2022-10-19,60,Bank Transfer,Student
-be45a279-7,f4a34012,2023-10-15,450,Cash,6-month
-6de4ffd2-6,acf39aa7,2025-02-23,60,Bank Transfer,Student
-2a50c2b9-9,a1b1065f,2023-05-18,120,Cash,Vip
-89a9519c-c,7f054674,2024-03-02,80,Credit Card,Monthly
-287f99cc-a,cd1e06a4,2023-10-02,120,Cash,Vip
-e5ff4676-d,32fe6272,2023-04-04,450,Credit Card,6-month
-4b36c1c3-3,fce7bb81,2023-04-29,800,Credit Card,Annual
-28a93f13-f,a89f7e22,2025-06-02,60,Credit Card,Student
-6ee47f25-1,5b591683,2025-07-21,120,Cash,Vip
-a497de06-5,3b7dfd68,2023-04-04,120,Bank Transfer,Vip
-b96382dc-4,ec6a769b,2025-06-03,60,Bank Transfer,Student
-e411f1e9-2,26015136,2025-02-18,800,Credit Card,Annual
-5a631a7b-8,ea5c6477,2023-11-26,60,Bank Transfer,Student
-4f6472e3-5,cd63ce71,2025-04-29,60,Credit Card,Student
-e005598a-d,687f1de3,2024-07-02,60,Credit Card,Student
-22ca6825-4,acf39aa7,2024-12-29,60,Bank Transfer,Student
-6cb4f18f-2,711fabf9,2025-06-11,800,Bank Transfer,Annual
-bb7d4e32-1,166e03d3,2023-12-12,60,Bank Transfer,Student
-a4e49a61-6,120bfac6,2024-10-01,60,Bank Transfer,Student
-3f3052f8-5,62a5f88a,2024-07-13,60,Cash,Student
-d8db2645-5,4471ab4d,2025-09-07,800,Credit Card,Annual
-efdc8ec2-a,72449ccf,2024-05-05,120,Bank Transfer,Vip
-39445269-0,338aa7e6,2023-09-16,450,Cash,6-month
-26056737-8,f35b9216,2023-12-05,60,Cash,Student
-ab38dfe8-a,e6afed96,2023-05-30,120,Credit Card,Vip
-61cecdc9-a,13e7712c,2023-08-26,120,Bank Transfer,Vip
-35a66924-5,72449ccf,2024-08-03,120,Cash,Vip
-ee6df900-d,c92631ae,2023-08-08,800,Credit Card,Annual
-b681a9fb-d,fee79538,2022-05-22,800,Cash,Annual
-7e21635c-8,7b254f80,2023-03-26,120,Bank Transfer,Vip
-215c5f79-2,1d7b917b,2022-08-12,120,Bank Transfer,Vip
-5e5eed94-2,d62de34d,2022-12-03,800,Bank Transfer,Annual
-0f3027f7-9,9b652852,2024-05-15,80,Cash,Monthly
-4c625a9a-3,cb1cd12e,2023-08-13,120,Cash,Vip
-103497f0-6,1d9e79bb,2023-08-25,450,Bank Transfer,6-month
-d0ea24cb-a,6971d7b6,2025-02-04,120,Credit Card,Vip
-991c2bdf-2,c6727525,2023-08-26,120,Bank Transfer,Vip
-41806bc7-1,0d79bc9d,2023-03-09,120,Bank Transfer,Vip
-0be1fac3-d,2d4d2330,2022-12-07,450,Credit Card,6-month
-c2f24802-9,6b5a28ad,2024-01-22,450,Credit Card,6-month
-7693cab7-f,d90985f3,2024-08-05,800,Credit Card,Annual
-36ff8e0e-f,a201f2b1,2024-10-29,120,Cash,Vip
-9b0b8522-2,a66a2687,2023-04-20,120,Cash,Vip
-78a015b5-6,4f623c79,2023-12-20,800,Credit Card,Annual
-4743e049-4,095aeb35,2022-09-12,450,Cash,6-month
-2bd7e3f6-4,3618ad07,2023-07-12,800,Credit Card,Annual
-6f962f94-1,fd0fe64e,2023-09-25,120,Credit Card,Vip
-1d477974-2,68b2e3cf,2025-02-13,800,Cash,Annual
-63a73fcb-9,5df442ee,2023-09-05,800,Bank Transfer,Annual
-176c228f-e,f9528f9d,2023-07-26,800,Cash,Annual
-cc7d91d6-c,dd49cdfe,2024-09-17,800,Credit Card,Annual
-170f268f-f,575b43a8,2024-04-28,450,Cash,6-month
-8902a80f-1,de4b0859,2023-10-03,800,Credit Card,Annual
-36a7701a-d,b5d8621c,2024-07-14,450,Credit Card,6-month
-c6155a69-6,e763653e,2023-01-09,120,Credit Card,Vip
-fb2fa72a-c,0243bc28,2025-09-16,800,Credit Card,Annual
-6af7db50-7,7f054674,2023-11-26,80,Bank Transfer,Monthly
-65563037-5,5062500d,2023-02-08,800,Credit Card,Annual
-e85dfe33-9,6d3617c4,2023-09-29,450,Cash,6-month
-82793f8f-9,9e03eabe,2025-10-02,800,Credit Card,Annual
-6d997163-4,824b4531,2023-01-26,80,Credit Card,Monthly
-815d49cf-c,13cede67,2023-06-05,800,Cash,Annual
-7fa50f61-d,48c1a3ca,2022-05-25,80,Credit Card,Monthly
-a8066c5b-8,cf31f7c9,2023-02-20,60,Cash,Student
-77c658a6-e,09323bb6,2024-05-25,80,Cash,Monthly
-5ffb5c1b-d,1af6c837,2025-02-27,800,Cash,Annual
-948dbe96-8,c4042d94,2024-06-26,80,Credit Card,Monthly
-3a6b164e-c,b9cbb889,2022-08-06,60,Bank Transfer,Student
-17bc15dd-b,e763653e,2023-01-26,120,Cash,Vip
-315fc42f-b,e0c6ad52,2025-07-06,120,Credit Card,Vip
-5f8f2931-a,58897ea7,2023-01-14,60,Credit Card,Student
-04f85ab2-5,3eccfebb,2024-11-22,80,Cash,Monthly
-e65b9e01-a,73719fc4,2024-08-21,450,Credit Card,6-month
-69be313b-a,dc620dd5,2023-06-17,120,Cash,Vip
-e1bc6b7a-c,8a7de32c,2024-01-26,120,Bank Transfer,Vip
-58b53e5c-7,2eeb7f97,2022-10-02,80,Bank Transfer,Monthly
-8f5b64a5-e,561c2d65,2025-02-07,800,Bank Transfer,Annual
-17ee2537-5,f51e5826,2025-03-02,80,Credit Card,Monthly
-f1120362-5,194126ac,2023-02-26,800,Bank Transfer,Annual
-4da6a947-9,c4ce9d0c,2024-12-26,120,Cash,Vip
-08214363-d,f904ca11,2022-09-24,120,Credit Card,Vip
-a6e1edd3-e,a3482673,2022-10-23,80,Cash,Monthly
-d4b037ba-0,0ce5c8d2,2023-03-11,80,Bank Transfer,Monthly
-fcd16431-3,b1fb94c0,2024-10-03,800,Cash,Annual
-11f0cf68-6,726c48cc,2022-11-17,120,Bank Transfer,Vip
-8a428b07-a,52d5fee2,2023-03-22,80,Cash,Monthly
-43f8c812-5,4828275d,2023-03-13,120,Cash,Vip
-e9258ea1-d,83cbc914,2022-11-03,80,Cash,Monthly
-a5f8a233-9,0ac63ef2,2023-03-11,120,Bank Transfer,Vip
-88ba6280-d,b5d8621c,2024-08-22,450,Cash,6-month
-cc6f6513-7,f30674bc,2025-09-07,80,Cash,Monthly
-c364a597-7,c8001789,2023-04-30,80,Bank Transfer,Monthly
-1fe513f8-f,d12ea4a6,2024-02-13,80,Bank Transfer,Monthly
-3fc8aa4b-f,ecc1ebad,2025-03-22,60,Cash,Student
-cc135513-1,e535cb9c,2022-07-07,60,Bank Transfer,Student
-29fb92d5-5,d06f1e5e,2023-04-27,60,Bank Transfer,Student
-d1099d31-5,0891cefb,2023-08-24,60,Cash,Student
-042ce2f2-7,018b77cd,2023-04-23,120,Cash,Vip
-23f73433-7,64a9e8ef,2022-12-12,60,Cash,Student
-45fcc2ac-d,255bc214,2023-02-24,60,Bank Transfer,Student
-63ee9e09-e,8382b2e0,2025-07-22,120,Credit Card,Vip
-55fad6e2-d,6dfe648a,2023-12-25,60,Bank Transfer,Student
-07d4b47c-4,0cf1dd15,2025-01-29,450,Bank Transfer,6-month
-3d9977ae-b,4f623c79,2024-04-26,800,Cash,Annual
-41f839c7-c,7f054674,2023-09-27,80,Bank Transfer,Monthly
-a426b245-b,861d8179,2024-03-22,60,Bank Transfer,Student
-38550ae4-0,77504db0,2024-05-07,450,Cash,6-month
-5744b597-b,1301a95b,2023-06-07,800,Cash,Annual
-02e77086-c,ce7849f4,2024-11-07,80,Cash,Monthly
-4c86ca47-9,ad01dfb2,2023-07-24,80,Bank Transfer,Monthly
-06c3d992-2,09b789c5,2022-12-13,120,Bank Transfer,Vip
-d6b21b41-7,cd34df65,2023-08-21,120,Bank Transfer,Vip
-6a7e37f5-5,752a396e,2023-07-19,80,Bank Transfer,Monthly
-aca85bbf-7,f2c9908b,2023-04-04,450,Bank Transfer,6-month
-1e92c628-6,a3482673,2023-01-10,80,Cash,Monthly
-3124e2f7-e,3707fb8f,2024-07-29,120,Credit Card,Vip
-cf8ec0b8-c,194126ac,2022-05-15,800,Credit Card,Annual
-f0f7f9c0-3,dc620dd5,2023-12-08,120,Cash,Vip
-a1760309-b,fce7bb81,2024-01-20,800,Credit Card,Annual
-f4f85dfc-1,7365fd31,2023-11-12,80,Bank Transfer,Monthly
-be9f968b-c,cf31f7c9,2022-11-16,60,Credit Card,Student
-f7d2156d-b,6d01d723,2023-12-17,800,Cash,Annual
-1933c96b-0,bb3835b9,2025-03-30,80,Cash,Monthly
-0b9941bd-e,83cbc914,2022-09-20,80,Credit Card,Monthly
-07be2277-f,662d0c7d,2022-07-23,450,Credit Card,6-month
-877c613f-0,cd31b9e6,2022-10-03,80,Bank Transfer,Monthly
-6c7bb083-3,000baf94,2024-03-05,450,Cash,6-month
-b59aeba1-7,88f7c8f5,2023-04-14,450,Cash,6-month
-f512ad89-9,aa0184cf,2024-06-29,80,Bank Transfer,Monthly
-e17a51eb-a,dd1b7be4,2022-06-19,60,Credit Card,Student
-e2353c5c-9,6dfe648a,2023-08-20,60,Cash,Student
-bc39743f-4,cd1e06a4,2024-01-28,120,Bank Transfer,Vip
-c6040495-1,752a396e,2023-09-07,80,Credit Card,Monthly
-7a3a6b65-6,a2948e8d,2022-09-28,800,Credit Card,Annual
-8bb732c8-1,20428098,2023-12-26,450,Cash,6-month
-136a5d0e-d,0ac63ef2,2023-03-27,120,Cash,Vip
-73dd3cbc-9,ded1198f,2024-09-03,450,Cash,6-month
-1206b8b8-a,f4a34012,2023-12-25,450,Cash,6-month
-d425fea7-7,83cbc914,2023-04-05,80,Cash,Monthly
-7aec499e-b,9a6c346b,2024-01-07,800,Cash,Annual
-4b3b70e6-e,cd63ce71,2025-09-23,60,Credit Card,Student
-b3d3326d-d,2ab249f8,2023-09-12,80,Credit Card,Monthly
-1a2c7801-0,c537e3db,2023-01-28,80,Credit Card,Monthly
-95c20f6b-9,e02db279,2024-07-24,60,Credit Card,Student
-7538356e-9,087487f0,2022-10-04,60,Cash,Student
-fb394b57-b,284a11ee,2022-02-23,60,Bank Transfer,Student
-31bc648f-8,33a08bdc,2024-02-12,60,Cash,Student
-7280ce59-a,dee6b9e5,2023-02-15,450,Cash,6-month
-d1ac619b-c,cc54f5ba,2024-12-13,450,Bank Transfer,6-month
-8271fd8a-8,018b77cd,2023-11-03,120,Cash,Vip
-3a2c897a-1,b2fc2ac3,2025-05-19,80,Cash,Monthly
-da2eb87b-1,39647ece,2024-03-14,80,Bank Transfer,Monthly
-241b0e72-2,9ef078a4,2025-02-08,120,Credit Card,Vip
-2b363e88-d,27ce5cb3,2023-06-19,450,Cash,6-month
-8bcd51f3-f,6f57ea7b,2023-12-17,80,Credit Card,Monthly
-e79bde92-8,44c8014d,2023-10-28,120,Credit Card,Vip
-f7953924-5,a66a2687,2023-01-28,120,Bank Transfer,Vip
-b4fb431f-4,00522097,2025-01-05,60,Credit Card,Student
-75172cf4-5,8df4bc3b,2022-08-10,120,Cash,Vip
-50c37dc2-8,6387a29d,2025-09-03,60,Bank Transfer,Student
-489c13ce-a,2d6a3c1b,2022-12-13,60,Bank Transfer,Student
-3c8698bc-5,d068098c,2025-03-01,120,Cash,Vip
-18e7839a-d,966e2a16,2024-05-10,800,Cash,Annual
-5a6e2138-c,f2e38ecd,2024-10-13,60,Credit Card,Student
-1322fcc1-8,26521b4b,2023-05-23,120,Credit Card,Vip
-18a7e1b0-9,355b094c,2023-07-01,80,Cash,Monthly
-cb617956-8,4a83eb2c,2024-06-07,60,Credit Card,Student
-63306687-9,acf39aa7,2025-07-17,60,Cash,Student
-b6ed6869-b,a3482673,2023-04-09,80,Credit Card,Monthly
-a5f42040-5,33a08bdc,2023-11-27,60,Cash,Student
-8d356ba0-0,68b2e3cf,2025-03-14,800,Cash,Annual
-325c32aa-0,3edb04ef,2024-09-25,450,Cash,6-month
-1d3ad253-a,191a4062,2024-03-28,120,Bank Transfer,Vip
-d78103c2-7,dd1b7be4,2022-12-23,60,Cash,Student
-27870503-8,72f8e54b,2022-09-30,80,Cash,Monthly
-edf21b76-3,7432771f,2023-10-19,60,Cash,Student
-9167aedc-a,adf9ad52,2023-11-25,60,Credit Card,Student
-3ce44214-a,3fb2bebc,2024-10-25,120,Cash,Vip
-1ec68aff-3,7c68d905,2023-02-12,80,Cash,Monthly
-2a2eb4e3-6,48c1a3ca,2022-12-07,80,Bank Transfer,Monthly
-85838ee8-2,7771d7e3,2023-04-15,800,Credit Card,Annual
-e5211484-e,095aeb35,2022-07-25,450,Cash,6-month
-b993b4fe-6,b357874e,2023-09-08,450,Cash,6-month
-4f562877-8,0d79bc9d,2023-03-20,120,Cash,Vip
-ceaf7e4e-3,5db360ff,2023-03-24,800,Cash,Annual
-d40e3486-9,cb4aa221,2023-10-17,120,Bank Transfer,Vip
-f68e0b84-3,96f30dc6,2024-09-28,450,Cash,6-month
-8dcad22d-2,57ab4242,2023-06-14,80,Cash,Monthly
-581e2c19-9,ece0ad3a,2023-06-17,450,Credit Card,6-month
-666272f9-4,0d35cf6e,2024-02-02,800,Credit Card,Annual
-13cfdbff-d,6387a29d,2025-03-24,60,Cash,Student
-22d0bab6-7,2f933a01,2025-11-07,120,Credit Card,Vip
-90654d37-3,ea5c6477,2024-01-21,60,Credit Card,Student
-46fecb59-5,444501cd,2023-06-16,120,Credit Card,Vip
-bcfe396f-3,dc18df08,2024-08-16,120,Bank Transfer,Vip
-b8f684f7-6,4a343f77,2024-06-03,450,Bank Transfer,6-month
-4d1ee4a3-d,6971d7b6,2024-09-29,120,Credit Card,Vip
-0c7e6fc1-4,485d4368,2022-12-11,800,Bank Transfer,Monthly
-94399d70-7,021502e2,2024-08-31,80,Cash,Monthly
-325c65e9-a,0d79bc9d,2023-05-13,120,Credit Card,Vip
-78f90638-3,d12ea4a6,2024-02-14,80,Credit Card,Monthly
-55d8d093-a,7771d7e3,2022-09-20,800,Credit Card,Annual
-3c4dc0be-6,0d79bc9d,2023-08-31,120,Cash,Vip
-5eba02dc-6,ca1a56a0,2022-08-19,60,Bank Transfer,Student
-def29a25-6,a3482673,2022-06-22,80,Credit Card,Monthly
-0be02898-e,8f0335b7,2024-06-30,80,Cash,Monthly
-33129e2a-4,caab413f,2023-12-30,60,Cash,Student
-6bc8a67f-6,861d8179,2024-06-18,60,Credit Card,Student
-376043a9-8,6cd7c037,2024-02-03,80,Cash,Monthly
-d99c3766-f,daa51895,2024-08-23,800,Credit Card,Annual
-3c49c183-f,0bbbfc36,2022-06-03,120,Credit Card,Vip
+cd0fbe81-1,dc8f8d45,2024-11-30,120,Cash,Vip
+86588389-9,c9c7f0a3,2022-08-12,80,Bank Transfer,Monthly
+723ea0ff-a,7c218dee,2025-03-23,450,Cash,6-month
+c5b72af0-0,49b4d657,2023-07-02,450,Bank Transfer,6-month
+18a45b76-1,895640fb,2022-06-23,120,Bank Transfer,Vip
+dc831b4c-8,52c779fb,2023-10-08,120,Cash,Vip
+c3f51170-c,619ee721,2025-05-11,450,Bank Transfer,6-month
+0cd6a9a4-b,4f617d4c,2024-08-31,800,Bank Transfer,Annual
+2da9a0f8-6,c0c5a4ba,2022-09-06,80,Credit Card,Monthly
+4d5e578c-d,00d48244,2024-10-08,800,Bank Transfer,Annual
+a3dcce0c-9,dfeb819a,2023-02-03,80,Credit Card,Monthly
+23c2126d-0,bcbf5318,2024-06-14,800,Credit Card,Annual
+572a354d-5,6616d947,2022-10-16,120,Credit Card,Vip
+9af5db79-b,f5f0c005,2024-05-15,120,Cash,Vip
+368c1df7-0,b74b048b,2022-09-19,80,Cash,Monthly
+80584836-3,9987b208,2024-02-26,450,Bank Transfer,6-month
+a18e825e-1,76a3b04b,2023-10-13,800,Credit Card,Annual
+9f84cd51-5,c6016f31,2024-11-06,450,Credit Card,6-month
+b582d15f-5,0c196761,2023-10-20,120,Bank Transfer,Vip
+c7f46502-4,554d831d,2022-12-27,60,Bank Transfer,Student
+237bb8c7-2,aee28b2f,2025-03-22,450,Bank Transfer,6-month
+990b55c3-7,82ed87b9,2025-01-12,450,Credit Card,6-month
+fa286129-f,71f27551,2022-08-11,450,Cash,6-month
+825fa0df-5,cf2c6a84,2024-03-18,800,Credit Card,Annual
+df59ed5b-f,d95a3dff,2024-06-10,450,Credit Card,6-month
+03dd5644-f,1c3cb995,2025-02-16,80,Credit Card,Monthly
+5d8f6a22-3,19676de4,2023-09-15,60,Cash,Student
+f87adc06-3,a455e790,2023-10-06,80,Bank Transfer,Monthly
+d83b3577-f,58b37d03,2024-03-18,80,Cash,Monthly
+7f72c6f2-d,92ad437f,2023-08-27,800,Bank Transfer,Annual
+424b4a25-5,c5b8c88d,2024-04-30,450,Bank Transfer,6-month
+886241e4-b,60da3e80,2023-12-29,80,Cash,Monthly
+4aac75ee-6,b56f0ecb,2024-12-10,80,Credit Card,Monthly
+f3ab0316-5,f7201646,2023-06-20,80,Credit Card,Monthly
+4376987f-9,a70de20b,2025-02-28,80,Bank Transfer,Monthly
+df60524e-b,988fbf6e,2022-09-21,800,Credit Card,Annual
+1771c7f9-f,b355100c,2022-11-28,450,Bank Transfer,6-month
+79adffcb-e,10347cf4,2023-08-28,80,Cash,Monthly
+3757ec7b-d,8bc8fb49,2023-09-08,60,Cash,Student
+70a2337f-5,f708018e,2023-11-09,120,Cash,Vip
+98f1886b-6,101292a5,2025-01-21,450,Bank Transfer,6-month
+aa444750-8,77f83c9f,2022-09-23,450,Credit Card,6-month
+45fab280-4,1da3845b,2025-07-10,60,Cash,Student
+7c5495e8-5,b042aa37,2024-03-01,450,Cash,6-month
+bf4e581f-9,9443fb35,2025-01-04,80,Cash,Monthly
+5afda121-f,a86285c1,2025-01-19,80,Credit Card,Monthly
+d952d4db-3,6f6e3521,2023-06-03,80,Cash,Monthly
+339583c6-a,1ff9b28c,2025-02-23,80,Credit Card,Monthly
+2a01a845-6,608af226,2024-12-30,800,Cash,Annual
+fb8f4a8f-6,b74b048b,2022-07-05,80,Cash,Monthly
+11b61136-8,057872b3,2024-11-01,450,Bank Transfer,6-month
+d064dd12-e,06a35400,2023-05-29,800,Cash,Annual
+bef5b175-e,5a36eb86,2023-04-27,60,Cash,Student
+dba940c0-d,b643137a,2022-09-14,80,Credit Card,Monthly
+f4f51661-2,7b41442d,2022-09-09,80,Cash,Monthly
+b422ade8-9,8d3abcec,2022-10-25,450,Credit Card,6-month
+b73fbb7f-1,0e28dded,2024-01-28,800,Cash,Annual
+afc90030-b,e5e73b5d,2022-12-03,800,Credit Card,Annual
+9788b11a-b,cb6e59a7,2024-08-13,80,Credit Card,Monthly
+6da3a15f-9,902a851f,2024-09-22,60,Cash,Student
+824be91b-5,d95a3dff,2024-08-14,450,Bank Transfer,6-month
+b8374964-d,c6848f08,2023-05-13,450,Bank Transfer,6-month
+541528e7-a,bcbf5318,2024-12-23,800,Credit Card,Annual
+f9c77441-4,20056d66,2024-10-09,80,Credit Card,Monthly
+0b169352-4,c3ed93ee,2024-08-19,60,Cash,Student
+84a005af-8,f708018e,2023-11-21,120,Credit Card,Vip
+ea06cb18-a,47aea087,2023-04-17,800,Cash,Annual
+c576cd10-6,6167f46f,2022-07-21,120,Bank Transfer,Vip
+aaab1e7c-9,dc2b2125,2022-12-04,450,Cash,6-month
+2101fdc8-0,7b1b2ab9,2022-10-25,120,Credit Card,Vip
+87a8dce0-8,c6016f31,2025-03-08,450,Cash,6-month
+00e797cb-e,4df74960,2023-03-01,450,Bank Transfer,6-month
+e8f41fa6-c,cbd69211,2022-02-09,60,Credit Card,Student
+f3494d59-4,0da8e0df,2024-07-23,120,Credit Card,Vip
+04650844-d,c0c5a4ba,2023-03-12,80,Bank Transfer,Monthly
+c31f0b3b-8,1fc1b91f,2022-07-13,120,Cash,Vip
+81590b9c-b,608af226,2025-09-19,800,Credit Card,Annual
+de8816c4-e,0e28dded,2023-11-19,800,Cash,Annual
+63fdc73a-6,10347cf4,2023-04-25,80,Bank Transfer,Monthly
+d192a270-8,63cc86f1,2023-02-11,80,Bank Transfer,Monthly
+ef1a2382-4,d0706bc6,2023-06-15,800,Credit Card,Annual
+6c307f70-b,0c196761,2023-06-26,120,Credit Card,Vip
+8c4cb8af-5,b4b59c6e,2023-07-02,60,Credit Card,Student
+cffe74b6-8,832128cd,2025-11-26,80,Credit Card,Monthly
+a3850cc9-e,99d0286d,2023-04-15,80,Cash,Monthly
+0eba4315-2,cfa2875c,2022-03-11,60,Credit Card,Student
+6ead8b2c-1,09cf4c3d,2025-01-06,120,Cash,Vip
+f20209bb-8,ea847203,2023-06-01,120,Credit Card,Vip
+c5362ba8-3,06e9bee5,2024-09-23,800,Credit Card,Annual
+da896801-4,d0706bc6,2022-12-31,800,Cash,Annual
+f6308ade-a,4441e63c,2023-05-02,450,Credit Card,6-month
+3d6de341-7,82a61dd8,2023-12-13,800,Cash,Annual
+37e64be0-c,20584233,2024-09-26,120,Bank Transfer,Vip
+ef10f94a-f,7388cf62,2023-07-26,120,Credit Card,Vip
+35907d90-4,07f825a3,2023-09-15,80,Bank Transfer,Monthly
+1e7eb34d-0,6f2121c1,2022-09-26,450,Bank Transfer,6-month
+29054008-2,9443fb35,2025-02-23,80,Cash,Monthly
+fc600686-e,92ad437f,2024-02-12,800,Credit Card,Annual
+d0a3e773-f,739ecac9,2024-12-21,80,Bank Transfer,Monthly
+10338021-b,3239c726,2023-03-08,450,Cash,6-month
+e2ea0a72-a,aa1e4428,2022-06-27,80,Cash,Monthly
+2f052d13-c,e9dde713,2023-05-05,800,Credit Card,Annual
+08301bcc-1,725fc4a1,2024-10-22,450,Bank Transfer,6-month
+a4b3d63a-4,579bfa6d,2023-05-13,450,Credit Card,6-month
+37df4ce0-f,d95e4b0a,2025-04-01,80,Bank Transfer,Monthly
+cbbbab54-d,e3f28235,2023-03-14,450,Cash,6-month
+985d18d3-f,dd6dd3ff,2024-11-01,80,Credit Card,Monthly
+3cc36bcc-b,1b50ac9a,2024-10-03,80,Credit Card,Monthly
+6a4a6e9a-f,1d909838,2024-10-21,80,Bank Transfer,Monthly
+29cd4521-3,70c43077,2025-01-12,120,Cash,Vip
+b21a002d-4,f29942cc,2025-02-21,120,Cash,Vip
+9cab3abf-7,f4c3ae94,2022-11-26,450,Cash,6-month
+5b00c24c-0,e9dde713,2023-08-12,800,Cash,Annual
+1c48e9ca-b,38e3513a,2024-09-04,60,Cash,Student
+66e923dc-8,33f8b721,2025-04-25,800,Bank Transfer,Annual
+61c2cc19-b,054619b8,2024-01-05,450,Cash,6-month
+eb057d4e-1,f4c3ae94,2022-11-11,450,Cash,6-month
+03c7d0fe-9,18b73fa5,2024-08-22,120,Credit Card,Vip
+5809a809-6,34f8c6fb,2023-11-15,60,Bank Transfer,Student
+0271a17e-f,9a8dd66b,2024-11-10,120,Credit Card,Vip
+13c562bd-e,b4351e11,2023-01-19,120,Bank Transfer,Vip
+989b550b-8,d8110098,2025-04-16,120,Credit Card,Vip
+dbe79e33-0,545b041d,2023-06-13,60,Credit Card,Student
+2ddabf46-6,78d2742d,2023-11-14,120,Credit Card,Vip
+c34bf75f-1,27ba1d95,2023-10-06,80,Credit Card,Monthly
+a99d54d1-2,1d46356a,2022-12-09,80,Credit Card,Monthly
+5cd08c6c-4,dc8f8d45,2024-07-13,120,Credit Card,Vip
+4137135c-f,4df74960,2023-01-03,450,Cash,6-month
+cdf75a2d-1,3b8fed6d,2024-02-19,800,Credit Card,Annual
+da17708b-2,608af226,2025-03-25,800,Bank Transfer,Annual
+dc7a2902-1,aa13dddb,2022-09-04,60,Bank Transfer,Student
+cdbc7ad9-6,1674a73e,2024-04-10,450,Cash,6-month
+e6780643-0,b5e6e83f,2024-08-16,80,Bank Transfer,Monthly
+f42fe584-e,1da3845b,2025-06-08,60,Bank Transfer,Student
+b7700c5a-b,53fb066a,2024-08-28,120,Bank Transfer,Vip
+0c7bf711-1,3885fd09,2023-10-10,800,Credit Card,Annual
+28ebb3e3-4,07f825a3,2023-11-21,80,Cash,Monthly
+f5a33563-3,027ce6d0,2024-09-09,60,Bank Transfer,Student
+04d9a7c5-f,2ea60c4e,2022-04-09,120,Bank Transfer,Vip
+845b4d58-c,457612c4,2022-12-07,800,Credit Card,Annual
+daf35f10-6,20490908,2023-04-19,60,Credit Card,Student
+6f17f618-d,50bcfe9d,2023-09-30,800,Cash,Annual
+cb950519-e,f761da01,2023-03-17,60,Bank Transfer,Student
+95e5b927-d,1a80005e,2024-02-07,120,Credit Card,Vip
+ad078f1f-d,ccc720a3,2024-11-02,450,Credit Card,6-month
+b0fc8534-0,24d83fab,2024-01-19,120,Credit Card,Vip
+1bbb1338-1,a361c56f,2024-05-07,450,Bank Transfer,6-month
+96a789e4-2,63af0f42,2023-09-05,800,Bank Transfer,Annual
+56143b58-a,53fb066a,2024-06-04,120,Credit Card,Vip
+37b52f47-e,92664aa5,2024-07-28,120,Cash,Vip
+d4f5c46a-5,c4b36280,2022-10-20,450,Cash,6-month
+765f4706-1,027ce6d0,2025-04-19,60,Bank Transfer,Student
+9e852cde-f,6663c194,2025-04-22,80,Credit Card,Monthly
+1d620bb3-3,a47c1af9,2023-07-06,800,Cash,Annual
+8315687f-9,948d208a,2025-04-21,120,Bank Transfer,Vip
+a6f2ab9d-6,0cef28ca,2024-06-11,450,Bank Transfer,6-month
+3a3c355e-2,6f6e3521,2023-04-05,80,Cash,Monthly
+d35df5ba-a,34d3f2b6,2024-08-01,60,Credit Card,Student
+e4e1cff8-0,b6a904ae,2022-05-01,80,Credit Card,Monthly
+489d1db8-b,f7567a5e,2024-06-07,120,Credit Card,Vip
+1c7614e3-1,8540cfff,2023-02-07,120,Credit Card,Vip
+09eee230-3,afc9f8fb,2024-11-20,450,Credit Card,6-month
+e00c23c1-7,70286af1,2024-03-03,60,Cash,Student
+06023c97-4,027ce6d0,2025-04-19,60,Bank Transfer,Student
+9dbdd176-b,77f83c9f,2022-12-17,450,Bank Transfer,6-month
+013c5e84-e,3e88e16d,2022-08-15,800,Bank Transfer,Annual
+eff1b5e4-2,c4b36280,2022-11-07,450,Cash,6-month
+1b6c3f41-1,9feb9904,2024-08-03,80,Bank Transfer,Monthly
+77ee7e82-a,ed238422,2023-06-11,120,Credit Card,Vip
+45e04efe-6,a1451547,2023-12-03,120,Credit Card,Vip
+d8a33d04-b,63cc86f1,2023-05-30,80,Cash,Monthly
+17076abe-4,78d2742d,2024-09-13,120,Credit Card,Vip
+69f5bb3c-8,c6848f08,2023-03-20,450,Credit Card,6-month
+d6c2d359-a,545b041d,2024-02-01,60,Bank Transfer,Student
+d0435a8d-b,c8e8d207,2024-07-23,450,Bank Transfer,6-month
+9109ad8d-3,c5b8c88d,2024-10-04,450,Bank Transfer,6-month
+9099a924-1,4fd460b6,2022-09-18,450,Credit Card,6-month
+c45a5e90-a,4a4e33b5,2024-01-02,1200,Cash,Vip
+acc3bed5-a,8fdd8f0b,2025-02-24,80,Cash,Monthly
+cc2c2561-9,f4af1d26,2023-12-12,450,Credit Card,6-month
+30740ca2-d,571e384d,2023-10-26,450,Bank Transfer,6-month
+49fb2a75-2,39ed3bbb,2024-07-31,60,Credit Card,Student
+e2f703fd-f,b6df5702,2022-11-02,60,Credit Card,Student
+da061d29-2,571e384d,2023-07-22,450,Credit Card,6-month
+4f90c25a-1,cec159e8,2024-02-10,450,Bank Transfer,6-month
+be82f8ad-6,6a0397f2,2023-07-15,80,Cash,Monthly
+704501cc-e,988fbf6e,2023-04-06,800,Credit Card,Annual
+03fe95c9-d,6f2121c1,2023-04-14,450,Cash,6-month
+ea2d52f8-a,1743c239,2022-09-20,800,Credit Card,Annual
+f425f49b-2,1c3cb995,2025-09-22,80,Credit Card,Monthly
+afea23b7-a,cb17c182,2022-05-09,120,Bank Transfer,Vip
+33dd7baa-8,a491f812,2023-12-26,800,Cash,Annual
+76149faa-6,bbee92d9,2024-05-25,800,Bank Transfer,Annual
+4925b994-a,38e3513a,2024-12-10,60,Bank Transfer,Student
+ad792e92-f,7a540feb,2025-03-15,60,Bank Transfer,Student
+d5009aa5-f,6e1f1074,2023-07-13,450,Bank Transfer,6-month
+c7008778-9,4b2c939b,2023-11-21,80,Cash,Monthly
+0f54b4c6-0,65f267d8,2023-07-10,450,Bank Transfer,6-month
+0a1c1f7f-2,da7559af,2022-07-07,120,Bank Transfer,Vip
+c026daa4-1,c50c65bc,2023-02-03,120,Bank Transfer,Vip
+2f5346e2-a,03a7c7e0,2024-08-15,120,Credit Card,Vip
+ff1cd679-b,1b465efd,2022-09-04,450,Cash,6-month
+4cd071d7-9,c93c201d,2024-04-22,450,Cash,6-month
+5e522c1d-b,73dc753d,2024-05-22,120,Cash,Vip
+80616674-e,e56fc482,2023-03-31,450,Bank Transfer,6-month
+798d8a61-a,c0c3bb2a,2022-03-10,60,Credit Card,Student
+c8e77e94-7,06f2a1f0,2024-01-23,60,Credit Card,Student
+58e467ba-c,50bcfe9d,2023-01-24,800,Bank Transfer,Annual
+23176ed7-1,58b37d03,2023-12-13,80,Cash,Monthly
+7a44f69d-3,c573c64e,2022-09-23,800,Bank Transfer,Annual
+c31c139c-5,dfa29acd,2023-06-01,800,Credit Card,Annual
+0a40baca-0,3b0a7079,2024-12-10,800,Bank Transfer,Annual
+2810e07d-2,9e0a74af,2023-06-25,80,Cash,Monthly
+bf4bc028-3,8704268b,2023-02-27,800,Cash,Annual
+9a60122b-6,13136a95,2024-01-24,60,Cash,Student
+9c8324a9-7,8b98ab14,2025-01-21,80,Credit Card,Monthly
+b4a21a08-d,6f2121c1,2022-05-09,450,Credit Card,6-month
+acd85022-a,f55df35d,2025-11-25,80,Credit Card,Monthly
+91685ab6-f,b112238a,2024-08-28,800,Bank Transfer,Annual
+c72bd64a-f,571e384d,2023-06-16,450,Credit Card,6-month
+ff462903-e,84efc9ca,2023-06-27,120,Bank Transfer,Vip
+c21245ab-2,24c2fe5d,2025-03-23,60,Cash,Student
+b7017c3e-c,dc5a1e62,2024-01-31,60,Credit Card,Student
+261f5575-7,2b0f85bc,2025-03-23,60,Credit Card,Student
+aae9cf48-a,24e7975b,2023-10-08,450,Credit Card,6-month
+8e72d6eb-3,9b77c95d,2024-11-20,60,Cash,Student
+de10fb09-c,74637531,2023-08-06,120,Cash,Vip
+299e8f27-e,73ec5425,2024-04-17,800,Credit Card,Annual
+50a1539a-5,b37dd0ad,2024-04-05,450,Cash,6-month
+538380e6-f,7f5ce621,2024-03-03,60,Bank Transfer,Student
+551a4b42-1,e1d9b7ca,2024-12-15,120,Bank Transfer,Vip
+55f365f3-b,9a8dd66b,2025-04-21,120,Bank Transfer,Vip
+070a6378-d,97c45d46,2024-08-27,80,Credit Card,Monthly
+f4ffcf6a-a,330af097,2023-06-27,60,Bank Transfer,Student
+7e62fb90-0,608af226,2025-01-31,800,Bank Transfer,Annual
+c9100089-8,03623d7b,2024-06-09,800,Bank Transfer,Annual
+5e5de6b4-5,9987b208,2024-01-27,450,Bank Transfer,6-month
+67a74a0f-e,76a3b04b,2024-03-09,800,Cash,Annual
+618dbe93-4,43eb9d11,2023-03-21,120,Bank Transfer,Vip
+da13c40c-5,2fae1dca,2025-03-08,800,Credit Card,Annual
+dcea3ad3-b,3b9b182c,2023-07-24,120,Bank Transfer,Vip
+43e3f0f0-e,d6c62ea8,2023-11-12,120,Credit Card,Vip
+82071493-7,7c218dee,2025-11-25,450,Cash,6-month
+1ce47a4a-b,03a7c7e0,2024-04-28,120,Bank Transfer,Vip
+93d97411-8,da123716,2025-04-24,450,Credit Card,6-month
+c6805fce-7,9ae4ae19,2025-01-04,60,Cash,Student
+7f3cedea-f,1b465efd,2022-07-03,450,Credit Card,6-month
+73a5ad91-1,49ad5e2e,2024-08-09,80,Credit Card,Monthly
+3c49d555-b,c9e7a57c,2024-12-18,800,Credit Card,Annual
+0614bb9c-0,6616d947,2023-01-28,120,Credit Card,Vip
+b913049e-9,6b44961c,2025-09-28,450,Bank Transfer,6-month
+085017ae-c,b6a904ae,2022-05-21,80,Cash,Monthly
+e1067e5e-a,717c21f6,2025-10-17,60,Credit Card,Student
+e4cf9680-8,50355bc7,2024-10-06,450,Bank Transfer,6-month
+fe12e87a-1,7991738a,2022-07-07,450,Cash,6-month
+6db0eb6e-5,3827a713,2024-10-01,80,Cash,Monthly
+52230450-6,2689fbf3,2024-05-03,120,Cash,Vip
+ee709dc0-e,44814a0b,2024-10-19,120,Credit Card,Vip
+0361d901-5,cb210247,2024-11-16,60,Bank Transfer,Student
+3936aa87-5,24c2fe5d,2025-02-23,60,Credit Card,Student
+eb4465d7-5,3522444d,2023-02-09,120,Bank Transfer,Vip
+6087f547-2,0749c34c,2025-03-02,450,Bank Transfer,6-month
+7d17c3a2-b,9e0a74af,2023-04-09,80,Bank Transfer,Monthly
+2b83285a-b,b042aa37,2023-07-01,450,Cash,6-month
+98088254-7,545b041d,2023-07-13,60,Cash,Student
+dab08044-3,bad4e8af,2024-12-19,800,Cash,Annual
+37928993-4,59f9e4e8,2025-04-19,60,Credit Card,Student
+adc72399-c,f80923b7,2022-05-15,120,Bank Transfer,Vip
+d45844b6-4,41609775,2024-05-31,800,Cash,Annual
+c8877e46-b,a37ea741,2023-02-11,120,Bank Transfer,Vip
+2f06bcc8-7,c9c99e46,2023-04-12,120,Bank Transfer,Vip
+1695ee25-f,58b37d03,2024-01-06,80,Bank Transfer,Monthly
+c4f43a3c-6,09cf4c3d,2024-09-24,120,Bank Transfer,Vip
+fe5f0232-5,13136a95,2024-06-15,60,Credit Card,Student
+49f27751-d,67f6fe1b,2024-12-29,800,Cash,Annual
+9f7c05eb-9,c50c65bc,2023-08-15,120,Credit Card,Vip
+37b80aef-3,74637531,2024-05-01,120,Bank Transfer,Vip
+1a38f316-7,7fb3dddc,2023-08-03,800,Cash,Annual
+f5e69d18-d,b643137a,2022-10-09,80,Cash,Monthly
+8a269153-e,c50c65bc,2023-07-01,120,Bank Transfer,Vip
+b48548d1-0,0b49957e,2023-08-27,450,Credit Card,6-month
+43e61bef-c,1a80005e,2023-09-25,120,Bank Transfer,Vip
+b69709de-c,7181d661,2024-02-20,120,Cash,Vip
+e29728b2-3,c50c65bc,2023-05-01,120,Credit Card,Vip
+5de4c749-5,af7642b1,2022-05-01,60,Cash,Student
+c56a65c3-9,5f012847,2023-11-16,450,Cash,6-month
+8ba8d81d-a,c0c3bb2a,2022-12-20,60,Bank Transfer,Student
+9dccbae3-2,8fdd8f0b,2024-11-02,80,Cash,Monthly
+01482b65-c,92ffb827,2024-04-15,60,Credit Card,Student
+1c390c9a-a,0b49957e,2023-10-27,450,Credit Card,6-month
+7a0e2688-6,70c43077,2024-08-03,120,Credit Card,Vip
+b0384770-e,debe0ec7,2022-04-18,80,Credit Card,Monthly
+3d4df093-4,01ace804,2024-09-19,800,Cash,Annual
+93524c0e-8,23c2f847,2024-06-23,60,Cash,Student
+e2b6d147-b,2f0e0c45,2024-03-05,450,Credit Card,6-month
+a444fbb1-9,93063d77,2023-06-09,450,Cash,6-month
+6dc5229e-6,187f706f,2023-08-13,80,Credit Card,Monthly
+2b1fefde-6,db9947bd,2024-08-21,80,Cash,Monthly
+23a772da-4,d952b146,2023-07-06,450,Bank Transfer,6-month
+f2829359-4,c3ed93ee,2024-12-28,60,Bank Transfer,Student
+386c766b-c,c8e8d207,2024-10-03,450,Cash,6-month
+ef651007-c,f80923b7,2022-01-22,120,Credit Card,Vip
+57439896-5,6f6e3521,2022-10-27,80,Credit Card,Monthly
+64732f92-0,124c727f,2023-09-04,120,Credit Card,Vip
+79e65955-8,b4f76843,2023-03-09,800,Bank Transfer,Annual
+d8178db4-0,0cfe4e4c,2022-04-20,80,Bank Transfer,Monthly
+0a058734-d,a6325746,2025-04-01,450,Cash,6-month
+cccd8977-e,49ad5e2e,2024-09-26,80,Cash,Monthly
+ee94e242-9,0b49957e,2024-03-13,450,Cash,6-month
+32b89630-e,563ea2cc,2023-02-12,60,Bank Transfer,Student
+e2056475-f,b155c1a6,2023-06-29,60,Credit Card,Student
+ce331785-5,74637531,2023-06-13,120,Credit Card,Vip
+c64bfe1b-3,39ed3bbb,2024-07-28,60,Credit Card,Student
+fec95a6e-6,32b8e3aa,2024-04-24,60,Cash,Student
+221cb9b7-1,53c7a186,2023-02-16,120,Cash,Vip
+0ce337fa-e,b5e6e83f,2024-11-12,80,Bank Transfer,Monthly
+0241d87b-3,20490908,2023-10-06,60,Bank Transfer,Student
+7c39fddd-5,895640fb,2023-02-07,120,Credit Card,Vip
+dbaddeb8-1,00ea28ba,2024-11-07,60,Bank Transfer,Student
+d06837b4-a,290de067,2023-07-04,800,Credit Card,Annual
+185ccca5-5,20584233,2024-07-05,120,Credit Card,Vip
+38d27372-6,441b9287,2025-09-17,450,Cash,6-month
+ddc4d00f-1,cbd69211,2022-01-12,60,Credit Card,Student
+cbc741dc-b,925c30f8,2022-09-23,800,Bank Transfer,Annual
+9d0d2eae-4,e6b5e2f1,2024-05-18,80,Cash,Monthly
+a5a2e2b9-b,ed238422,2023-04-08,120,Cash,Vip
+f4d8ed78-4,227e3777,2024-10-30,60,Credit Card,Student
+26d6f3c7-8,99d3c53d,2023-12-09,80,Cash,Monthly
+e3a54b0c-4,d36fbad2,2024-05-01,60,Bank Transfer,Student
+d3ffda39-2,e3f28235,2022-09-16,450,Credit Card,6-month
+22d534a5-b,7fdaba4f,2024-04-06,80,Cash,Monthly
+1398bee8-7,fba743c8,2024-06-20,800,Credit Card,Annual
+cdc71d46-7,aee28b2f,2025-02-07,450,Credit Card,6-month
+0f399a0c-9,554d831d,2023-01-04,60,Credit Card,Student
+0bf2f57d-9,44814a0b,2024-03-01,120,Credit Card,Vip
+5c99d940-0,cd41a93b,2024-08-24,60,Bank Transfer,Student
+f219b777-7,cc753b41,2024-03-06,450,Bank Transfer,6-month
+544f098d-3,a5e3ba8d,2024-05-31,120,Bank Transfer,Vip
+2e874336-f,6663c194,2024-06-30,80,Bank Transfer,Monthly
+a797354b-8,cb17c182,2023-04-17,120,Credit Card,Vip
+376b8146-5,c92b5fce,2025-02-03,800,Bank Transfer,Annual
+58a51ef8-2,cec159e8,2023-10-29,450,Bank Transfer,6-month
+68b6a2e0-3,63af0f42,2024-05-20,800,Bank Transfer,Annual
+b6c76acc-0,a37ea741,2023-03-28,120,Cash,Vip
+dbd8fc82-5,c9c7f0a3,2023-06-14,80,Credit Card,Monthly
+ce257752-0,ecc78c1c,2023-02-09,80,Cash,Monthly
+c0605a47-3,c10e4645,2024-03-30,800,Bank Transfer,Annual
+084521fd-b,2689fbf3,2023-06-30,120,Cash,Vip
+b4ab996f-5,7c218dee,2025-08-29,450,Cash,6-month
+747b5deb-0,bcbf5318,2024-11-06,800,Bank Transfer,Annual
+0ef0b548-9,07f825a3,2023-11-27,80,Cash,Monthly
+38ffe40f-d,02e72e64,2023-09-27,800,Credit Card,Annual
+a774fb1a-c,bcbf5318,2025-04-21,800,Cash,Annual
+bb089aaf-5,cb6e59a7,2024-10-24,80,Credit Card,Monthly
+29e314d9-0,79715a19,2024-05-01,120,Bank Transfer,Vip
+9dc62eb2-1,42645b58,2024-11-05,60,Bank Transfer,Student
+8891e152-8,5f012847,2024-03-04,450,Cash,6-month
+ce232573-8,60d7e896,2022-04-21,450,Credit Card,6-month
+36bd72b8-f,5342ed1c,2024-08-28,450,Cash,6-month
+386307fa-3,1743c239,2023-06-26,800,Cash,Annual
+72b89f02-4,07114f9b,2023-10-31,120,Bank Transfer,Vip
+7fc03fae-0,8443e232,2023-12-21,60,Bank Transfer,Student
+f0e7bea6-9,571e384d,2023-11-09,450,Cash,6-month
+d2843f04-a,1e6a4c61,2024-01-12,60,Cash,Student
+44bcb5db-b,4f617d4c,2024-06-14,800,Credit Card,Annual
+846e9405-4,8d3abcec,2023-02-20,450,Credit Card,6-month
+686379d9-4,e2a957cb,2023-03-27,120,Bank Transfer,Vip
+2df7a2c5-6,cf2c6a84,2024-08-12,800,Cash,Annual
+c38aea68-3,d0706bc6,2023-05-19,800,Bank Transfer,Annual
+e299a67f-b,1ff9b28c,2025-08-06,80,Cash,Monthly
+aeb8f548-a,902a851f,2024-08-05,60,Bank Transfer,Student
+b51fddc3-9,054619b8,2024-08-26,450,Cash,6-month
+9b4e433f-a,0eac2342,2024-05-07,120,Credit Card,Vip
+c21c97ca-d,ba578f8e,2023-07-07,120,Cash,Vip
+1326cf64-5,3b0a7079,2025-06-08,800,Credit Card,Annual
+35a3320f-a,dd59d26f,2023-03-20,120,Cash,Vip
+813f66ae-7,846a8271,2023-06-30,800,Cash,Annual
+95f86cfc-0,02b3b56c,2024-10-05,80,Cash,Monthly
+7b20b628-5,54551151,2023-07-26,80,Bank Transfer,Monthly
+036f11f7-8,01ace804,2025-04-25,800,Bank Transfer,Annual
+a9fd35fa-8,9e7cf81c,2023-04-28,60,Credit Card,Student
+51f2c211-3,27ba1d95,2024-06-23,80,Cash,Monthly
+0908ee05-3,42e86069,2022-12-18,450,Bank Transfer,6-month
+bf0b29b9-7,7e8191e6,2022-09-28,60,Credit Card,Student
+72c51836-a,e3f28235,2023-05-12,450,Credit Card,6-month
+41a4e617-5,dc8f8d45,2025-02-08,120,Bank Transfer,Vip
+752df520-a,f80923b7,2022-08-29,120,Credit Card,Vip
+3db3c4b6-3,97c45d46,2024-12-14,80,Cash,Monthly
+a1b37fe4-3,6ce2f172,2023-10-27,60,Cash,Student
+8405cce6-2,e1d9b7ca,2024-11-27,120,Bank Transfer,Vip
+1fced9a3-e,9987b208,2024-02-22,450,Credit Card,6-month
+986d0d4d-f,948d208a,2025-07-06,120,Cash,Vip
+ac0961d7-6,44814a0b,2024-02-17,120,Credit Card,Vip
+ea79ce58-2,3f5456da,2024-02-19,800,Credit Card,Annual
+5d9e8745-2,a455e790,2023-12-19,80,Credit Card,Monthly
+48def285-7,6b44961c,2025-01-29,450,Bank Transfer,6-month
+dfa87d24-c,4df74960,2022-11-23,450,Bank Transfer,6-month
+e9bcbf89-1,b4351e11,2022-02-26,120,Credit Card,Vip
+a3f4c852-0,b2c9b0e4,2024-08-29,450,Bank Transfer,6-month
+4faacfa8-3,ae5fe508,2024-05-25,120,Bank Transfer,Vip
+61540a5b-7,85614865,2023-07-10,60,Cash,Student
+83e52c12-2,6616d947,2022-08-08,120,Bank Transfer,Vip
+8d4d23b1-4,b6acb34b,2023-01-08,80,Bank Transfer,Monthly
+13cc652c-5,925c30f8,2022-09-27,800,Bank Transfer,Annual
+a02930bd-c,7bd8fbdc,2023-10-22,450,Bank Transfer,6-month
+d0419eb9-9,a8e3f614,2023-12-21,120,Credit Card,Vip
+2362622b-6,619ee721,2024-10-16,450,Bank Transfer,6-month
+db44c6e9-d,71f27551,2023-01-05,450,Cash,6-month
+f1141acb-e,3652761b,2025-01-15,60,Credit Card,Student
+73c991e2-0,eff9b23f,2023-08-29,450,Credit Card,6-month
+461a126f-e,7ad84e53,2024-04-19,450,Bank Transfer,6-month
+128596f7-c,ee285884,2022-04-27,800,Bank Transfer,Annual
+f4c2fcae-8,aa13dddb,2023-04-05,60,Bank Transfer,Student
+e7d60c1f-e,b6acb34b,2023-04-09,80,Cash,Monthly
+b2585980-2,23ec23c5,2023-03-28,120,Bank Transfer,Vip
+c491a127-b,3e88e16d,2023-04-07,800,Cash,Annual
+6bacd63d-7,227e3777,2024-07-01,60,Cash,Student
+5290f0a5-5,c5b8c88d,2023-11-28,450,Credit Card,6-month
+7cff94f0-9,f4af1d26,2024-04-09,450,Cash,6-month
+6d25b7cc-5,2cb8e7b4,2024-06-16,80,Credit Card,Monthly
+a332710f-d,0cfe4e4c,2022-10-15,80,Cash,Monthly
+2d95256e-9,a4ffb39d,2023-09-04,800,Bank Transfer,Annual
+f691d93e-d,0ac8794f,2023-12-08,120,Cash,Vip
+5fac5daa-1,1b2eff9b,2024-02-14,80,Credit Card,Monthly
+b2eb1c51-d,9987b208,2024-07-03,450,Credit Card,6-month
+38bd025c-3,60da3e80,2023-11-23,80,Cash,Monthly
+bcd56d1b-a,c3ed93ee,2025-06-26,60,Bank Transfer,Student
+de35969e-d,cdf76715,2024-06-02,450,Cash,6-month
+dbb199c5-1,cdf76715,2024-01-30,450,Cash,6-month
+0a3c8ee6-2,9e7cf81c,2022-09-25,60,Cash,Student
+426dbd50-9,53fb066a,2024-04-18,120,Cash,Vip
+b44fe2e3-9,4d682358,2023-10-30,120,Credit Card,Vip
+266304a8-8,608af226,2025-02-06,800,Cash,Annual
+ca070fae-e,20d75d0c,2023-12-10,80,Bank Transfer,Monthly
+1b8966d5-d,536a7bac,2025-02-14,800,Credit Card,Annual
+21c89c08-1,7991738a,2022-08-03,450,Bank Transfer,6-month
+186058fd-d,8704268b,2023-06-05,800,Credit Card,Annual
+9325cdb0-2,da7559af,2022-06-05,120,Bank Transfer,Vip
+bd22e80a-4,1b2eff9b,2024-07-24,80,Cash,Monthly
+9ab59adc-f,ef4186c0,2024-10-10,120,Cash,Vip
+e87d9cb2-5,9b96783d,2024-09-22,800,Credit Card,Annual
+3f952092-a,cb17c182,2023-01-18,120,Bank Transfer,Vip
+c6110e67-a,1b2eff9b,2024-02-27,80,Cash,Monthly
+cd055b91-9,6a0397f2,2023-03-07,80,Credit Card,Monthly
+9ef118d5-1,a80153c3,2023-03-09,120,Credit Card,Vip
+0bf85be1-1,902a851f,2024-06-30,60,Bank Transfer,Student
+2ce6b232-4,03623d7b,2024-10-05,800,Credit Card,Annual
+6517ae28-d,3691d71b,2023-12-11,800,Credit Card,Annual
+998c89d1-a,902a851f,2024-08-06,60,Bank Transfer,Student
+f71415ca-3,80cd8a09,2022-08-05,60,Credit Card,Student
+c0c19228-9,ad7e1a34,2023-06-25,60,Credit Card,Student
+c5b7d54d-9,82a61dd8,2024-05-07,800,Cash,Annual
+d3dd31a5-f,f4af1d26,2024-06-10,450,Credit Card,6-month
+d93fe3f8-5,6ce2f172,2023-10-28,60,Bank Transfer,Student
+5f61de72-6,4f90ba5b,2024-12-13,800,Cash,Annual
+160085dd-6,0c196761,2023-09-02,120,Cash,Vip
+f7c2a019-8,d95e4b0a,2025-05-11,80,Cash,Monthly
+351632da-7,e97eb0ae,2022-11-18,450,Cash,6-month
+e2557644-e,6f6e3521,2023-01-16,80,Cash,Monthly
+c79fa962-9,aa1e4428,2022-07-15,80,Credit Card,Monthly
+0be46668-b,a4ffb39d,2024-02-28,800,Bank Transfer,Annual
+8dfc7367-1,74637531,2023-12-02,120,Bank Transfer,Vip
+572a5643-c,75be0817,2024-08-10,60,Credit Card,Student
+44e9c77b-7,ee285884,2022-07-30,800,Cash,Annual
+58ad635d-8,604ceba6,2023-06-19,60,Credit Card,Student
+5908ca08-f,44814a0b,2024-11-15,120,Credit Card,Vip
+12b85c4b-f,c92b5fce,2024-06-08,800,Credit Card,Annual
+604a911f-3,8db769d5,2024-03-09,120,Cash,Vip
+f41ad14d-1,330af097,2023-11-05,60,Bank Transfer,Student
+10cb23d5-c,4f617d4c,2024-09-14,800,Credit Card,Annual
+7a6c63b3-2,0046a040,2023-01-19,120,Cash,Vip
+c1f0b7e8-f,47aea087,2023-12-03,800,Cash,Annual
+767fba02-7,4441e63c,2023-05-04,450,Bank Transfer,6-month
+3db4718f-a,ef4186c0,2024-05-08,120,Bank Transfer,Vip
+59cafe72-a,3791ed2d,2024-10-17,80,Credit Card,Monthly
+cf7aaafe-2,5342ed1c,2024-07-12,450,Credit Card,6-month
+953e8623-0,e97eb0ae,2022-01-13,450,Cash,6-month
+81aa59fd-8,ebfad458,2022-08-28,60,Credit Card,Student
+99fec97e-1,bb58f63e,2024-08-30,80,Credit Card,Monthly
+bbcc8f07-f,563ea2cc,2022-12-24,60,Cash,Student
+63bf4a5b-f,049c78d2,2023-10-31,800,Credit Card,Annual
+8d52e3e4-7,f80923b7,2022-11-24,120,Cash,Vip
+1939c040-a,c3ed93ee,2024-12-20,60,Credit Card,Student
+1c012beb-5,52c779fb,2024-03-04,120,Cash,Vip
+5ee56347-a,1da3845b,2025-01-13,60,Cash,Student
+adde995a-a,92a7724e,2024-06-16,450,Cash,6-month
+0a9dff2f-2,25689ce5,2024-03-22,450,Credit Card,6-month
+880faa3d-1,a8e3f614,2024-07-17,120,Cash,Vip
+7be26786-2,040e226a,2025-06-30,120,Bank Transfer,Vip
+ce5f942e-9,d95a3dff,2024-07-02,450,Credit Card,6-month
+e4d08a3c-7,cfa2875c,2022-07-17,60,Cash,Student
+983dbfd2-1,e9f4c6f9,2024-02-03,120,Credit Card,Vip
+bc5d1e46-e,d95a3dff,2024-11-03,450,Credit Card,6-month
+a3feecf3-b,bf5d11ab,2023-11-04,80,Credit Card,Monthly
+d5d63b4f-f,34d3f2b6,2024-12-15,60,Bank Transfer,Student
+5ab8605c-0,92a7724e,2025-04-04,450,Bank Transfer,6-month
+1e4f1927-7,cb210247,2024-08-09,60,Credit Card,Student
+679dc4d9-5,d95a3dff,2024-10-04,450,Bank Transfer,6-month
+2fb175d3-d,aa13dddb,2023-02-09,60,Bank Transfer,Student
+b525f10b-2,3e88e16d,2022-07-10,800,Bank Transfer,Annual
+90176078-a,49ad5e2e,2024-09-06,80,Bank Transfer,Monthly
+cefd90cd-4,0749c34c,2025-03-20,450,Cash,6-month
+571c8797-5,e7484cd2,2023-12-12,120,Credit Card,Vip
+476ddf5a-5,483c65ac,2025-04-01,800,Cash,Annual
+5242feed-7,e97eb0ae,2022-03-16,450,Credit Card,6-month
+bd424a4e-3,9ce412c1,2023-06-29,120,Credit Card,Vip
+d5f3e26b-4,d6c62ea8,2023-09-30,120,Cash,Vip
+72c1d810-8,35a12afe,2023-02-02,80,Bank Transfer,Monthly
+94aa6686-6,4f617d4c,2024-05-16,800,Cash,Annual
+aa50b2c9-b,be08ce2f,2024-02-12,60,Bank Transfer,Student
+5e0f249d-a,4a4e33b5,2024-03-24,120,Cash,Vip
+ecac1a12-0,00ea28ba,2025-02-21,60,Credit Card,Student
+b7e9ec98-d,80cd8a09,2022-11-01,60,Cash,Student
+7d146b49-3,dc5a1e62,2023-05-05,60,Credit Card,Student
+b96dde84-3,23ec23c5,2023-01-08,120,Cash,Vip
+a2bd7386-a,b74b048b,2023-04-02,80,Bank Transfer,Monthly
+8b78cbff-a,0b7e22c3,2023-10-10,120,Cash,Vip
+c3863941-e,49ad5e2e,2024-08-24,80,Cash,Monthly
+00f8225c-8,bcb8809a,2023-05-20,60,Cash,Student
+60d8f3d5-8,d95a3dff,2024-08-02,450,Cash,6-month
+a824c43a-5,aa13dddb,2022-07-03,60,Cash,Student
+5117153c-7,a85b8fef,2025-03-18,120,Bank Transfer,Vip
+d3d5212e-a,c5dd0f14,2023-03-16,80,Bank Transfer,Monthly
+00894a49-3,b2c9b0e4,2024-05-22,450,Cash,6-month
+e954e8ff-6,00ea28ba,2024-08-10,60,Bank Transfer,Student
+db3073b7-d,ae70def6,2024-03-27,80,Bank Transfer,Monthly
+d3f84240-c,f55df35d,2025-12-04,80,Bank Transfer,Monthly
+cd38f42c-6,3522444d,2023-02-16,120,Bank Transfer,Vip
+e4a0d552-a,c4b36280,2023-03-29,450,Cash,6-month
+bf9f71ae-d,cf559a93,2024-09-13,120,Credit Card,Vip
+c2ffad62-f,049c78d2,2023-08-27,800,Cash,Annual
+84f9a6a3-0,cf8a93dc,2024-03-07,800,Bank Transfer,Annual
+9bc6202d-d,114f4d73,2025-09-07,800,Credit Card,Annual
+6e7b1edb-8,7fb3dddc,2023-03-28,800,Bank Transfer,Annual
+a76ca826-4,da76e1a5,2023-10-17,800,Bank Transfer,Annual
+d5cffe77-3,f255cf64,2024-12-29,800,Cash,Annual
+e879d6bd-7,73ec5425,2025-03-19,800,Credit Card,Annual
+6d5106bb-a,42645b58,2024-12-22,60,Cash,Student
+90262872-4,05c5eab5,2022-10-02,450,Cash,6-month
+2bec0139-7,67f6fe1b,2024-04-22,800,Cash,Annual
+0e8c3037-7,b112238a,2024-07-16,800,Credit Card,Annual
+0e0cfee2-c,c8e8d207,2024-10-20,450,Cash,6-month
+01c3cb6e-8,0b6e17dc,2023-06-09,450,Bank Transfer,6-month
+fbd0e848-a,80cd8a09,2022-03-14,60,Bank Transfer,Student
+1704262e-6,d57f0a2b,2023-01-14,800,Credit Card,Annual
+382dcf79-f,fc8aadef,2024-03-24,60,Cash,Student
+261c1227-0,d952b146,2023-03-03,450,Bank Transfer,6-month
+f8c3b9a8-a,016c397f,2023-04-28,60,Credit Card,Student
+8a423be2-e,3c7cae7d,2022-11-04,450,Credit Card,6-month
+59882355-8,187f706f,2023-09-15,80,Bank Transfer,Monthly
+b3eafb28-2,8704268b,2023-09-08,800,Cash,Annual
+305318ec-a,54c61e24,2024-05-20,450,Cash,6-month
+7f001110-c,00ea28ba,2025-05-26,60,Cash,Student
+cde4fbc9-7,af7642b1,2022-12-08,60,Bank Transfer,Student
+ef61d8f5-8,73dc753d,2024-03-15,120,Cash,Vip
+d342ee7e-1,eac4934a,2023-06-08,800,Credit Card,Annual
+3d9ea9dd-e,f7567a5e,2025-03-31,120,Cash,Vip
+4a1dcf03-f,ba578f8e,2023-05-02,120,Cash,Vip
+79796499-d,06f2a1f0,2024-09-19,60,Credit Card,Student
+397d81a3-4,227e3777,2024-03-08,60,Cash,Student
+4320e84d-b,c93c201d,2024-06-05,450,Bank Transfer,6-month
+f15a5453-f,84f71918,2022-11-17,60,Cash,Student
+f2040d37-8,b155c1a6,2023-09-19,60,Credit Card,Student
+620fbdf6-a,1c2caaa4,2022-07-30,800,Bank Transfer,Annual
+58383a12-c,f255cf64,2025-03-13,800,Bank Transfer,Annual
+abe88ad1-1,ae4bc23a,2025-01-05,120,Cash,Vip
+05f22dcd-5,a5aef5a5,2022-12-26,120,Bank Transfer,Vip
+e65cc7ef-e,579bfa6d,2023-01-29,450,Cash,6-month
+32c4ebe9-7,63281acb,2025-03-06,800,Credit Card,Annual
+9c87f06c-e,ddcf8038,2022-11-05,120,Cash,Vip
+ce46fbc4-d,bb58f63e,2024-05-02,80,Credit Card,Monthly
+e5df4b59-0,8b98ab14,2024-11-01,80,Cash,Monthly
+b88a0084-2,b643137a,2023-01-01,80,Cash,Monthly
+a13b6914-5,3424f653,2023-10-23,60,Bank Transfer,Student
+a140d1b5-3,057872b3,2025-01-26,450,Credit Card,6-month
+46449814-f,c9e7a57c,2024-10-10,800,Credit Card,Annual
+bd50ae29-8,fc8aadef,2024-06-03,60,Cash,Student
+f5679a30-f,0684c2bd,2024-07-25,800,Credit Card,Annual
+d17047c8-d,7bacc62e,2023-08-08,80,Credit Card,Monthly
+f9bd3389-2,24cbb1a8,2022-03-15,60,Credit Card,Student
+17d5ce86-9,fc28771f,2025-05-24,60,Cash,Student
+3565d505-5,d6c62ea8,2024-04-14,120,Credit Card,Vip
+c748a580-5,8b98ab14,2025-06-28,80,Credit Card,Monthly
+8c99e10a-d,8b98ab14,2025-03-24,80,Bank Transfer,Monthly
+6a036d69-a,c2728202,2022-10-22,60,Bank Transfer,Student
+87b0ca40-f,e8e4a45a,2024-08-16,80,Bank Transfer,Monthly
+d1fdda83-b,0eac2342,2024-03-13,120,Cash,Vip
+8dc84977-3,82a61dd8,2024-03-04,800,Bank Transfer,Annual
+2ad08790-7,cc753b41,2023-12-30,450,Credit Card,6-month
+3dcf7eca-4,60da3e80,2023-02-12,80,Credit Card,Monthly
+48da4ce4-3,31b81ada,2022-04-24,120,Credit Card,Vip
+3dff4214-0,2cb8e7b4,2023-11-09,80,Credit Card,Monthly
+3b45748c-7,cb6e59a7,2024-10-20,80,Cash,Monthly
+673ad19c-3,0b7e22c3,2023-09-03,120,Credit Card,Vip
+5b5a4a97-0,92664aa5,2024-08-08,120,Bank Transfer,Vip
+cad192f6-8,7ba31db7,2023-01-04,120,Bank Transfer,Vip
+2749a1fe-b,c3ed93ee,2025-06-08,60,Bank Transfer,Student
+92436a6c-8,78d2742d,2024-06-21,120,Credit Card,Vip
+ec56278a-c,05c5eab5,2023-01-10,450,Bank Transfer,6-month
+f8553081-e,6f6e3521,2023-03-24,80,Credit Card,Monthly
+e7bd4c7e-7,ddcf8038,2022-12-03,120,Cash,Vip
+f55c4bad-f,a1451547,2023-10-28,120,Credit Card,Vip
+86a00634-c,c55ad0c5,2023-07-05,60,Credit Card,Student
+ae867772-2,51e1462e,2023-10-04,800,Cash,Annual
+107789fd-a,7c218dee,2025-11-05,450,Credit Card,6-month
+f17a7ced-1,a455e790,2023-06-20,80,Cash,Monthly
+b459c1a8-5,e0581cf1,2024-03-12,120,Bank Transfer,Vip
+365119c8-d,42e86069,2023-03-15,450,Cash,6-month
+0284f06b-f,63281acb,2024-08-22,800,Credit Card,Annual
+c8a421b4-5,01ace804,2025-07-27,800,Credit Card,Annual
+af5b4455-7,187f706f,2023-03-10,80,Cash,Monthly
+b8c2d22c-1,8e2396fa,2023-06-10,120,Credit Card,Vip
+5a8eceaf-0,f1b4b7f7,2024-07-28,80,Bank Transfer,Monthly
+f7618236-1,1b2eff9b,2024-07-17,80,Credit Card,Monthly
+a0150155-6,99d5b97d,2025-08-25,800,Bank Transfer,Annual
+db7bbdd9-a,124c727f,2023-06-26,120,Credit Card,Vip
+343ef201-b,82e067ea,2024-08-21,60,Credit Card,Student
+0d13eec8-3,948d208a,2025-03-12,120,Bank Transfer,Vip
+151f3310-9,4d682358,2024-03-07,120,Credit Card,Vip
+fccc49f8-4,550191d7,2023-02-09,800,Bank Transfer,Annual
+09cb498f-6,03623d7b,2024-04-04,800,Cash,Annual
+2ef85bb1-9,0c30daa0,2025-10-31,80,Credit Card,Monthly
+eb5ee07d-1,92ffb827,2024-03-09,60,Credit Card,Student
+24f9c5e2-f,25689ce5,2023-12-06,450,Cash,6-month
+ee30a757-2,0019f444,2023-06-08,60,Cash,Student
+297dec3a-b,3f6ed9e5,2022-07-13,450,Bank Transfer,6-month
+a01c8c10-5,77f83c9f,2022-12-19,450,Bank Transfer,6-month
+4b0704a8-f,a57f35db,2025-03-19,800,Bank Transfer,Annual
+23e539c5-b,bd81e325,2023-10-31,800,Bank Transfer,Annual
+3cccbbcd-a,1743c239,2023-07-14,800,Cash,Annual
+06100fcf-1,42645b58,2024-05-06,60,Bank Transfer,Student
+43eee157-2,dc8f8d45,2024-08-26,120,Credit Card,Vip
+775eda7e-2,ad7e1a34,2023-09-29,60,Credit Card,Student
+a0e99f40-f,411c1a48,2025-07-06,800,Cash,Annual
+10d51486-f,cec159e8,2023-10-17,450,Cash,6-month
+a0706afb-d,cf2c6a84,2024-06-17,800,Cash,Annual
+80243823-f,619ee721,2025-02-09,450,Bank Transfer,6-month
+1ca44a5c-f,6167f46f,2022-09-20,120,Cash,Vip
+910dce8b-b,75be0817,2024-10-29,60,Credit Card,Student
+6c48149d-0,f708018e,2023-10-23,120,Cash,Vip
+710d6154-9,f8540cbd,2022-12-26,120,Credit Card,Vip
+ccda59ef-9,281f35f3,2022-07-05,60,Credit Card,Student
+f72fc7aa-f,7bd8fbdc,2024-05-12,450,Bank Transfer,6-month
+45907226-0,bcbf5318,2024-08-12,800,Credit Card,Annual
+660eb2a6-c,9feb9904,2024-07-30,80,Credit Card,Monthly
+33de27e4-2,8db769d5,2024-02-18,120,Credit Card,Vip
+e00a1fca-7,ad34061c,2024-03-03,60,Credit Card,Student
+723b3b15-8,63aa5aa9,2024-03-26,450,Credit Card,6-month
+b886ac1d-1,aa13dddb,2022-12-17,60,Cash,Student
+c1a9ef05-b,6167f46f,2022-05-06,120,Bank Transfer,Vip
+c32ff255-0,0019f444,2024-03-15,60,Cash,Student
+fba220a2-2,dfa29acd,2023-04-08,800,Cash,Annual
+9f07994c-6,d0ecbb09,2022-11-01,450,Credit Card,6-month
+3943d63d-d,09cf4c3d,2024-10-12,120,Bank Transfer,Vip
+62c29966-6,00d48244,2025-05-15,800,Credit Card,Annual
+d843bb95-8,bad4e8af,2025-04-16,800,Bank Transfer,Annual
+fa889bd7-a,c92b5fce,2025-03-03,800,Bank Transfer,Annual
+2b322c97-a,619ee721,2024-08-21,450,Cash,6-month
+d130af1e-d,f5993578,2025-05-25,120,Cash,Vip
+d8b820f8-0,6ab0a970,2022-09-02,60,Credit Card,Student
+8bc51b1b-2,cfccea51,2024-09-04,60,Credit Card,Student
+a33319ac-0,5f012847,2024-08-29,450,Bank Transfer,6-month
+e7234d32-7,8443e232,2023-06-16,60,Bank Transfer,Student
+97a59dd5-8,8a7bf578,2023-04-09,80,Credit Card,Monthly
+c309e7fd-f,c9c99e46,2023-10-05,120,Cash,Vip
+4562c1f0-a,52c9f149,2024-06-18,450,Bank Transfer,6-month
+cce9abb7-9,63aa5aa9,2023-10-25,450,Credit Card,6-month
+e2d9789a-4,54551151,2023-12-16,80,Cash,Monthly
+0e0d3742-c,846a8271,2024-03-18,800,Cash,Annual
+0b92c9a0-2,ad7e1a34,2024-04-29,60,Bank Transfer,Student
+3ed4280e-9,a47c1af9,2023-01-08,800,Credit Card,Annual
+5c43481b-9,cfa2875c,2022-09-05,60,Bank Transfer,Student
+2cfae4e6-5,53c7a186,2022-12-15,120,Cash,Vip
+15c0223a-2,9ae4ae19,2024-12-06,60,Credit Card,Student
+ca5fbd5a-2,0cef28ca,2023-12-20,450,Credit Card,6-month
+cb55fda5-4,5342ed1c,2024-10-11,450,Cash,6-month
+f7383198-3,9a8dd66b,2024-07-06,120,Bank Transfer,Vip
+f4e1db0f-5,9b77c95d,2024-10-25,60,Cash,Student
+a9563671-e,709c0293,2025-05-21,80,Bank Transfer,Monthly
+458f21cb-0,a37ea741,2023-05-26,120,Cash,Vip
+f73c1245-a,b112238a,2024-10-06,800,Bank Transfer,Annual
+9498e7ce-d,a5e3ba8d,2023-12-27,120,Credit Card,Vip
+c8e9fee7-9,f4c3ae94,2022-09-14,450,Cash,6-month
+659f5e74-d,db9947bd,2025-04-01,80,Cash,Monthly
+478e58fe-b,8adb8940,2023-12-01,450,Credit Card,6-month
+c6e6d25f-e,290de067,2023-12-10,800,Bank Transfer,Annual
+75ac1b76-4,a668442a,2025-10-27,60,Credit Card,Student
+f0d69375-a,227e3777,2024-05-24,60,Credit Card,Student
+240356e2-d,3eed1021,2023-11-26,120,Cash,Vip
+f87aec50-d,eac4934a,2023-01-18,800,Bank Transfer,Annual
+7615571d-8,3239c726,2023-04-04,450,Cash,6-month
+f4ddbde6-5,dd6dd3ff,2024-10-19,80,Credit Card,Monthly
+841ce46e-2,bb58f63e,2024-01-02,80,Credit Card,Monthly
+ec3d4b8e-0,15ec6e47,2022-12-13,60,Bank Transfer,Student
+785714dd-6,8443e232,2023-08-20,60,Cash,Student
+9d04be4c-8,53c7a186,2023-03-14,120,Bank Transfer,Vip
+783402e0-0,aa1e4428,2022-08-15,80,Cash,Monthly
+8c31446a-c,0ac8794f,2024-02-28,120,Bank Transfer,Vip
+6b52d9d5-9,20490908,2023-04-20,60,Cash,Student
+73f248e5-9,00ea28ba,2025-05-03,60,Credit Card,Student
+bea48f06-4,027ce6d0,2025-06-06,60,Cash,Student
+323d33d4-e,31b81ada,2022-05-12,120,Bank Transfer,Vip
+488eb5ce-b,361cdc62,2024-03-18,120,Credit Card,Vip
+a8b0e799-5,9652662b,2024-06-04,120,Cash,Vip
+c162ddb9-2,9db7846d,2023-12-05,800,Bank Transfer,Annual
+210798c3-a,54551151,2023-11-30,80,Cash,Monthly
+57e8f024-d,ccc720a3,2025-04-04,450,Cash,6-month
+7c923f28-6,76a3b04b,2024-03-01,800,Cash,Annual
+cdb342c9-7,227e3777,2024-09-14,60,Cash,Student
+90d611b7-6,f55df35d,2025-06-25,80,Bank Transfer,Monthly
+980f5bdf-a,77f83c9f,2023-02-12,450,Bank Transfer,6-month
+7f76eac5-5,e6b5e2f1,2023-10-19,80,Cash,Monthly
+73e76db6-4,a5e3ba8d,2024-07-15,120,Credit Card,Vip
+a1778da3-d,cf10c67d,2023-03-04,80,Cash,Monthly
+b5c6de45-d,79715a19,2024-05-22,120,Credit Card,Vip
+83f5bb1c-5,b213e981,2025-01-24,450,Credit Card,6-month
+a47db379-b,07f825a3,2023-04-05,80,Cash,Monthly
+e1259eee-9,01203ea6,2024-06-25,80,Bank Transfer,Monthly
+97beea10-0,dd8a4ac0,2024-04-19,800,Cash,Annual
+e77a4781-3,00862265,2023-06-06,120,Credit Card,Vip
+4da48b96-7,a0311b92,2023-05-06,120,Cash,Vip
+d7c0ac23-e,c8a9ef4b,2023-01-14,120,Bank Transfer,Vip
+1058316c-6,e0581cf1,2023-08-16,120,Cash,Vip
+b24c4954-3,0c40ac25,2023-10-06,80,Credit Card,Monthly
+ba04d9ff-5,eff9b23f,2024-05-23,450,Bank Transfer,6-month
+dc0a79fa-b,e56fc482,2023-03-24,450,Credit Card,6-month
+b2a31608-9,361cdc62,2024-03-30,120,Cash,Vip
+3c056dc5-a,2689fbf3,2024-03-23,120,Bank Transfer,Vip
+36ac3cb3-a,361cdc62,2023-07-20,120,Bank Transfer,Vip
+9e653b35-5,f25208b7,2025-01-10,80,Cash,Monthly
+b26c7f17-b,c8a9ef4b,2022-11-28,120,Credit Card,Vip
+acc0a3b6-8,77f83c9f,2022-09-27,450,Credit Card,6-month
+2ceb3bfb-e,d95e4b0a,2024-07-06,80,Cash,Monthly
+e0f29846-e,1674a73e,2024-04-13,450,Bank Transfer,6-month
+f6bcaa7e-e,bcbf5318,2024-07-17,800,Bank Transfer,Annual
+004094fa-5,411c1a48,2025-05-06,800,Bank Transfer,Annual
+3041ed29-7,1674a73e,2024-05-30,450,Cash,6-month
+6e1aea3e-5,49ad5e2e,2024-09-05,80,Credit Card,Monthly
+b963e21e-e,44814a0b,2024-08-28,120,Bank Transfer,Vip
+287fdcdc-2,81a60181,2024-01-17,800,Credit Card,Annual
+fd59038d-7,47aea087,2023-11-05,800,Bank Transfer,Annual
+b9242fbf-e,fba743c8,2025-02-14,800,Bank Transfer,Annual
+a1d148e9-1,cf10c67d,2022-10-08,80,Credit Card,Monthly
+084be2cd-f,dc0e8c24,2024-01-06,120,Bank Transfer,Vip
+82675737-5,f25208b7,2025-04-05,80,Cash,Monthly
+f38a8a73-1,99d3c53d,2023-04-02,80,Bank Transfer,Monthly
+8e568588-8,f255cf64,2025-12-07,800,Credit Card,Annual
+b0322855-d,cfccea51,2024-09-26,60,Credit Card,Student
+2ca65fa3-d,99d5b97d,2025-02-15,800,Bank Transfer,Annual
+0b9590ad-a,9e7cf81c,2022-11-06,60,Credit Card,Student
+986146d7-c,0c40ac25,2022-11-26,80,Cash,Monthly
+4367bf43-0,6a0397f2,2023-11-26,80,Credit Card,Monthly
+01c00576-4,1a80005e,2023-09-14,120,Bank Transfer,Vip
+3ab7500f-c,e0581cf1,2023-08-17,120,Credit Card,Vip
+b4a1e41a-5,02b3b56c,2024-09-11,80,Credit Card,Monthly
+5d74e2ce-e,27ba1d95,2024-08-09,80,Bank Transfer,Monthly
+c227fa7e-f,a455e790,2023-06-14,80,Cash,Monthly
+95b6573f-f,89d1e286,2024-10-19,120,Bank Transfer,Vip
+26620581-0,99d0286d,2022-07-22,80,Credit Card,Monthly
+255698cc-8,c0c5a4ba,2023-03-17,80,Cash,Monthly
+3b6c5aee-1,97c45d46,2024-08-29,80,Cash,Monthly
+ee9230ce-3,f25208b7,2024-11-23,80,Cash,Monthly
+594f0e52-b,24e7975b,2023-01-13,450,Bank Transfer,6-month
+edfaa8bc-b,bad4e8af,2025-08-04,800,Credit Card,Annual
+30087c77-0,70c43077,2024-12-12,120,Credit Card,Vip
+cb403586-8,895640fb,2022-09-01,120,Credit Card,Vip
+ae359e45-8,14d07ebc,2024-12-20,80,Credit Card,Monthly
+6fea1446-e,e5e73b5d,2023-04-02,800,Credit Card,Annual
+ca3b25f4-6,f5993578,2025-08-30,120,Cash,Vip
+ffc97ef9-4,79715a19,2024-03-09,120,Cash,Vip
+c0f2fa07-d,9c704859,2024-04-29,800,Cash,Annual
+c8b76157-3,cb210247,2024-10-26,60,Bank Transfer,Student
+18d0e6c7-9,32b8e3aa,2024-12-05,60,Cash,Student
+0a8d966e-3,5c6b9981,2025-12-13,800,Credit Card,Annual
+b821cbfc-1,f7567a5e,2025-04-01,120,Cash,Vip
+f69849e5-5,82a61dd8,2024-04-07,800,Cash,Annual
+588a1b0f-b,fba743c8,2024-12-12,800,Bank Transfer,Annual
+06b4a872-4,1ff9b28c,2025-04-10,80,Bank Transfer,Monthly
+e7e6bbd3-f,3a9e7a3e,2022-06-06,120,Cash,Vip
+539644ca-7,07114f9b,2024-01-27,120,Credit Card,Vip
+31ff4afa-9,e2a957cb,2023-03-26,120,Cash,Vip
+992983d0-1,9ce412c1,2023-08-10,120,Cash,Vip
+93ed7468-8,a85b8fef,2025-02-18,120,Cash,Vip
+d0c81480-a,f25208b7,2025-02-10,80,Credit Card,Monthly
+50e7ce9e-1,c8a9ef4b,2023-02-04,120,Bank Transfer,Vip
+f7d6a1f6-8,3522444d,2022-09-04,120,Bank Transfer,Vip
+e8eade9e-e,e3f28235,2022-08-06,450,Credit Card,6-month
+18495cad-0,b2c9b0e4,2024-08-25,450,Cash,6-month
+e4bce63b-4,536a7bac,2024-07-08,800,Cash,Annual
+db8dda64-3,27ba1d95,2024-03-28,80,Credit Card,Monthly
+b9977a85-1,e2a957cb,2023-05-29,120,Bank Transfer,Vip
+bd34d085-a,81a60181,2023-12-09,800,Credit Card,Annual
+b22bc4c2-c,e97eb0ae,2022-06-21,450,Bank Transfer,6-month
+7fe3707c-8,63af0f42,2023-12-25,800,Cash,Annual
+f9a20126-9,da123716,2025-06-19,450,Cash,6-month
+c7f49098-b,3eed1021,2023-10-02,120,Cash,Vip
+db0fc51d-7,31b81ada,2022-12-26,120,Credit Card,Vip
+9aa1583b-b,b6acb34b,2022-07-17,80,Cash,Monthly
+b8e464c8-a,c93c201d,2024-11-29,450,Credit Card,6-month
+7d7bf501-9,f4af1d26,2024-09-14,450,Cash,6-month
+56c92d05-2,895640fb,2022-04-25,120,Cash,Vip
+7dc25c75-e,b6a904ae,2022-10-09,80,Cash,Monthly
+6333927c-8,20490908,2023-01-24,60,Credit Card,Student
+e84b1188-1,6616d947,2022-10-31,120,Bank Transfer,Vip
+99b0d1c0-1,71f27551,2022-11-19,450,Credit Card,6-month
+a8ad43f3-c,dfeb819a,2022-12-21,80,Credit Card,Monthly
+43ea4bd4-9,dfc00e1b,2024-08-29,450,Bank Transfer,6-month
+a294fbf6-b,124c727f,2023-11-06,120,Bank Transfer,Vip
+aac45d16-0,cb210247,2025-04-11,60,Credit Card,Student
+d19bf27c-0,73dc753d,2024-09-05,120,Bank Transfer,Vip
+85ceba32-5,27ba1d95,2023-10-11,80,Bank Transfer,Monthly
+95888e59-3,d95e4b0a,2025-05-01,80,Bank Transfer,Monthly
+8d5734c6-b,af7642b1,2022-09-30,60,Bank Transfer,Student
+649517e9-9,a361c56f,2024-03-29,450,Bank Transfer,6-month
+ee811307-c,7388cf62,2023-08-18,120,Bank Transfer,Vip
+6115923a-6,cb6e59a7,2024-07-07,80,Bank Transfer,Monthly
+6b9efa6c-5,a9a734d5,2023-08-28,60,Credit Card,Student
+16d323b9-8,2ddd5bbc,2023-04-04,60,Cash,Student
+7dea18b1-a,7fdaba4f,2024-04-13,80,Credit Card,Monthly
+d3dfb8f0-2,e5e73b5d,2023-10-04,800,Credit Card,Annual
+0d5f9913-c,51e1462e,2023-05-03,800,Credit Card,Annual
+a55ffac7-c,e5e73b5d,2023-05-20,800,Bank Transfer,Annual
+23d6d623-0,ef4186c0,2025-03-08,120,Bank Transfer,Vip
+078b63b4-b,579bfa6d,2022-11-26,450,Bank Transfer,6-month
+612b3663-b,38e62b00,2023-05-23,800,Bank Transfer,Annual
+838beb21-2,cf559a93,2024-08-30,120,Bank Transfer,Vip
+c5295a0d-6,842f1b49,2022-12-04,450,Credit Card,6-month
+8b49d571-9,6b817bb8,2023-11-11,800,Cash,Annual
+d8c36fb2-a,707ad333,2022-02-06,80,Bank Transfer,Monthly
+ef9f1b45-7,7a33ff74,2025-01-01,800,Credit Card,Annual
+31d2c0f3-7,b37dd0ad,2024-05-27,450,Bank Transfer,6-month
+df452c7d-6,24c2fe5d,2025-01-04,60,Credit Card,Student
+ca9ec1b1-0,7b41442d,2023-03-13,80,Credit Card,Monthly
+ca3594c6-5,c024129b,2023-12-29,800,Cash,Annual
+8a865cd5-9,a4ffb39d,2024-05-17,800,Cash,Annual
+62a301b1-2,0b7e22c3,2023-12-17,120,Credit Card,Vip
+72af8360-5,f29942cc,2025-01-14,120,Credit Card,Vip
+1f6a09d5-4,0e28dded,2023-09-30,800,Cash,Annual
+72a46d17-2,da123716,2024-10-26,450,Credit Card,6-month
+440d5d7e-b,604ceba6,2023-03-12,60,Credit Card,Student
+2b0ede41-a,e7484cd2,2024-02-26,120,Bank Transfer,Vip
+5e72b5c5-d,ccc720a3,2025-02-07,450,Credit Card,6-month
+1fc4ba0e-c,23c2f847,2024-09-30,60,Bank Transfer,Student
+ffe56a5e-f,a47c1af9,2022-10-29,800,Bank Transfer,Annual
+342e4ae7-5,709c0293,2024-08-08,80,Bank Transfer,Monthly
+25f90175-e,18b73fa5,2025-03-05,120,Cash,Vip
+03a93f5c-3,2f0e0c45,2025-01-03,450,Cash,6-month
+0096cfef-d,540b3a9a,2025-05-26,800,Credit Card,Annual
+c5fa7f4b-2,7ba31db7,2023-05-05,120,Credit Card,Vip
+2c6a8342-c,3522444d,2022-09-23,120,Credit Card,Vip
+946fd2b0-8,acd69259,2022-09-23,800,Credit Card,Annual
+1c1b1420-6,d95e4b0a,2024-07-27,80,Cash,Monthly
+567d4343-8,41609775,2025-03-23,800,Credit Card,Annual
+3619f5c9-6,c50c65bc,2022-10-26,120,Credit Card,Vip
+ab9108a0-d,1c2caaa4,2023-03-02,800,Cash,Annual
+079571d5-6,734d8060,2024-07-23,120,Credit Card,Vip
+6a33a8f4-d,aa13dddb,2022-10-05,60,Bank Transfer,Student
+1dc01d15-2,38e3513a,2025-01-31,60,Cash,Student
+bfc98088-e,2b0f85bc,2024-11-11,60,Cash,Student
+6c443b08-0,39ed3bbb,2023-10-01,60,Credit Card,Student
+4937e9c0-a,aa13dddb,2023-04-03,60,Credit Card,Student
+803c3b19-a,dd6dd3ff,2024-09-24,80,Cash,Monthly
+d737a4ca-8,01ace804,2025-07-10,800,Bank Transfer,Annual
+32a64013-f,24c2fe5d,2025-09-29,60,Cash,Student
+8c8ccd2f-3,0e28dded,2024-06-25,800,Bank Transfer,Annual
+00ed0175-9,1b465efd,2022-02-24,450,Credit Card,6-month
+099b91d3-d,20584233,2025-05-14,120,Bank Transfer,Vip
+6322002b-d,53fb066a,2024-09-03,120,Credit Card,Vip
+b7f62d54-a,f255cf64,2025-08-12,800,Credit Card,Annual
+466b4ed0-0,f29942cc,2025-05-20,120,Bank Transfer,Vip
+b425eb16-b,06e9bee5,2024-01-08,800,Bank Transfer,Annual
+67ac09b7-1,dc8f8d45,2024-12-18,120,Cash,Vip
+b948621a-f,58b37d03,2024-02-27,80,Cash,Monthly
+a05a3302-3,e8e4a45a,2024-10-27,80,Credit Card,Monthly
+4c59c814-2,9e24ee06,2022-11-04,800,Bank Transfer,Annual
+fbf8eec8-6,acd69259,2022-05-29,800,Cash,Annual
+cc8882fe-8,fc28771f,2025-02-03,60,Bank Transfer,Student
+0633bf00-c,7fbb188b,2022-12-23,450,Bank Transfer,6-month
+424b000d-9,ed238422,2023-03-31,120,Bank Transfer,Vip
+fd98b75d-7,a47c1af9,2023-03-12,800,Credit Card,Annual
+b7491923-9,7388cf62,2023-06-25,120,Bank Transfer,Vip
+e2eaea22-3,e8e4a45a,2024-10-31,80,Credit Card,Monthly
+97a4b0c9-7,dfeb819a,2022-09-09,80,Credit Card,Monthly
+ea64f9e5-1,016c397f,2023-02-23,60,Cash,Student
+819e4499-8,f1b4b7f7,2024-05-01,80,Bank Transfer,Monthly
+e14b847f-7,f81e4935,2023-09-12,80,Cash,Monthly
+08faba14-9,a86285c1,2025-03-21,80,Credit Card,Monthly
+fb9c8edc-3,f255cf64,2025-06-02,800,Credit Card,Annual
+27dcd0e4-2,eff9b23f,2024-05-07,450,Cash,6-month
+4e9808e4-8,03a7c7e0,2024-03-04,120,Credit Card,Vip
+d809a552-f,f4c3ae94,2022-03-30,450,Bank Transfer,6-month
+985443d9-5,a491f812,2023-11-20,800,Cash,Annual
+83a96787-f,1674a73e,2025-01-03,450,Cash,6-month
+6ed1dae9-a,db9947bd,2025-05-05,80,Bank Transfer,Monthly
+b9b69e87-0,53fb066a,2024-11-02,120,Bank Transfer,Vip
+6b5166c1-a,ea847203,2022-12-23,120,Credit Card,Vip
+5ff76f47-7,b4f76843,2023-01-19,800,Bank Transfer,Annual
+e47a06aa-0,3691d71b,2023-12-19,800,Bank Transfer,Annual
+9cb12e9d-c,707ad333,2022-05-30,80,Cash,Monthly
+ce38b26e-b,7e460922,2022-08-11,450,Credit Card,6-month
+e9e6fe7c-5,3827a713,2024-02-06,80,Cash,Monthly
+66c3ba0d-a,85614865,2023-05-10,60,Cash,Student
+b63e75cc-7,54551151,2023-07-14,80,Cash,Monthly
+40d0722f-a,9e0a74af,2023-09-26,80,Bank Transfer,Monthly
+2db7ca07-e,20584233,2024-09-28,120,Cash,Vip
+9a1108bc-b,0da8e0df,2023-12-22,120,Cash,Vip
+8d2142b2-5,e1d9b7ca,2024-12-07,120,Bank Transfer,Vip
+892d7d15-e,d3da436b,2023-08-30,120,Credit Card,Vip
+97e1b7dd-2,ed5948eb,2024-02-27,120,Credit Card,Vip
+4d39a901-6,52b44512,2024-02-03,120,Cash,Vip
+42d24c5b-1,63af0f42,2023-09-18,800,Bank Transfer,Annual
+3310e34f-3,27ba1d95,2024-06-14,80,Credit Card,Monthly
+8cd28a4d-0,3a9e7a3e,2022-06-21,120,Credit Card,Vip
+e3ac578c-d,c024129b,2023-12-07,800,Cash,Annual
+a8f30985-4,07114f9b,2024-02-14,120,Bank Transfer,Vip
+7c1a3379-0,330af097,2023-08-07,60,Cash,Student
+e89d1b89-4,f4c3ae94,2022-04-08,450,Bank Transfer,6-month
+2e09ed20-f,3827a713,2024-11-04,80,Bank Transfer,Monthly
+a7afe68a-7,f7a04965,2022-09-10,450,Cash,6-month
+05e6b2f9-3,b3db0c26,2024-02-13,60,Cash,Student
+41515c0c-e,1b50ac9a,2024-04-20,80,Bank Transfer,Monthly
+0d5e214f-7,233dea15,2023-02-20,450,Bank Transfer,6-month
+f31c16e8-9,bd81e325,2023-10-24,800,Bank Transfer,Annual
+bad2a772-3,281f35f3,2023-02-12,60,Credit Card,Student
+6644a360-0,9b77c95d,2024-10-07,60,Bank Transfer,Student
+c6776b4e-8,8e2396fa,2023-10-28,120,Bank Transfer,Vip
+d5646f0a-e,6663c194,2025-05-19,80,Cash,Monthly
+4827eb70-4,233dea15,2023-06-27,450,Bank Transfer,6-month
+8c87e0c6-d,a5aef5a5,2023-07-12,120,Cash,Vip
+12fba47e-f,281f35f3,2023-02-11,60,Cash,Student
+e46fa112-2,92ad437f,2023-12-23,800,Cash,Annual
+eb5d50dd-5,c9c7f0a3,2023-02-16,80,Credit Card,Monthly
+e859ee4d-3,6f2121c1,2023-01-18,450,Bank Transfer,6-month
+d2e62c95-d,da7559af,2022-12-06,120,Credit Card,Vip
+0ff72b04-3,4f90ba5b,2024-07-28,800,Bank Transfer,Annual
+896e9045-3,20056d66,2024-05-18,80,Bank Transfer,Monthly
+33eea8c4-d,ea847203,2023-07-30,120,Credit Card,Vip
+7ee1681d-1,dc0e8c24,2024-03-30,120,Bank Transfer,Vip
+c5775cf3-0,cfccea51,2025-01-28,60,Credit Card,Student
+0c4c6b9b-9,7388cf62,2023-04-22,120,Cash,Vip
+d1cdf48c-6,7d00b5d4,2024-01-06,80,Credit Card,Monthly
+777379c0-8,50bcfe9d,2023-03-23,800,Credit Card,Annual
+69515dc2-4,4b2c939b,2023-12-18,80,Credit Card,Monthly
+c6e02cc9-d,b042aa37,2023-05-19,450,Cash,6-month
+4a61bb95-f,63dbe325,2023-05-20,80,Cash,Monthly
+72173f5e-4,571e384d,2023-11-23,450,Cash,6-month
+e97bf138-1,ed238422,2023-05-14,120,Credit Card,Vip
+1051a691-9,42bc5995,2024-06-26,80,Credit Card,Monthly
+eaab1c04-e,6167f46f,2022-04-02,120,Credit Card,Vip
+58235628-6,1050f556,2022-05-29,60,Bank Transfer,Student
+4b6577d1-b,82a61dd8,2023-11-18,800,Bank Transfer,Annual
+fd41161b-c,4fd460b6,2022-08-28,450,Credit Card,6-month
+2880ad11-3,c6965237,2022-11-07,60,Bank Transfer,Student
+a8b78ef3-a,b6a904ae,2022-02-28,80,Cash,Monthly
+dd29da74-9,43eb9d11,2023-10-03,120,Credit Card,Vip
+83c1ca72-4,6b817bb8,2023-08-09,800,Cash,Annual
+f93a6caf-6,1d909838,2024-02-12,80,Credit Card,Monthly
+97c4ae22-d,483c65ac,2025-09-13,800,Bank Transfer,Annual
+392f1e74-6,7594c1f4,2023-04-26,450,Credit Card,6-month
+734e40d7-a,0684c2bd,2024-11-03,800,Cash,Annual
+9c502a1b-6,608af226,2024-12-28,800,Cash,Annual
+f16aff47-e,c93c201d,2024-08-12,450,Bank Transfer,6-month
+1ed182e8-e,a668442a,2025-08-04,60,Cash,Student
+44eb61bc-6,99d0286d,2022-09-01,80,Bank Transfer,Monthly
+dd1b8dcb-8,a80153c3,2023-03-24,120,Cash,Vip
+2f7d230c-c,9ce412c1,2023-06-20,120,Cash,Vip
+815a5734-2,3a7895f8,2024-06-10,80,Credit Card,Monthly
+b012f860-c,18b73fa5,2024-12-23,120,Credit Card,Vip
+98edfa8d-9,0623fc4b,2023-07-14,800,Bank Transfer,Annual
+56f92bc2-0,ed238422,2023-04-12,120,Credit Card,Vip
+8ad653c8-4,e9dde713,2023-06-17,800,Credit Card,Annual
+1a97fcc1-6,f4af1d26,2023-11-25,450,Cash,6-month
+5e7e3125-6,fc8aadef,2024-05-03,60,Credit Card,Student
+b5671c33-a,32b8e3aa,2025-02-28,60,Bank Transfer,Student
+0c146e27-8,1d46356a,2023-05-27,80,Bank Transfer,Monthly
+8c584007-c,619ee721,2024-08-28,450,Credit Card,6-month
+07ae5628-b,b355100c,2023-07-26,450,Bank Transfer,6-month
+3eda5807-f,361cdc62,2023-10-27,120,Credit Card,Vip
+d4e763c7-9,a0311b92,2022-12-18,120,Bank Transfer,Vip
+890a26ba-8,7ad84e53,2025-01-28,450,Bank Transfer,6-month
+b59151f9-f,42bc5995,2024-05-28,80,Credit Card,Monthly
+e1218edd-5,73ec5425,2024-09-16,800,Bank Transfer,Annual
+a6011178-1,4f617d4c,2024-12-09,800,Cash,Annual
+c7c1c0a0-4,f1b4b7f7,2024-08-02,80,Bank Transfer,Monthly
+6a895caf-2,85614865,2023-11-08,60,Credit Card,Student
+3b904a55-3,c6848f08,2023-03-19,450,Credit Card,6-month
+47b5dcba-9,3e88e16d,2022-09-24,800,Credit Card,Annual
+965e1781-a,016c397f,2023-01-25,60,Cash,Student
+4c89f534-2,3c7cae7d,2022-10-14,450,Credit Card,6-month
+ba4568cd-1,7d00b5d4,2024-04-26,80,Bank Transfer,Monthly
+ddc87e59-c,10347cf4,2023-09-04,80,Credit Card,Monthly
+d3fb834c-d,f29942cc,2024-11-19,120,Cash,Vip
+4a0f90a5-5,52c779fb,2024-09-27,120,Cash,Vip
+14d30921-1,73dc753d,2024-04-04,120,Cash,Vip
+f2ba84e8-d,9def56c5,2022-12-02,80,Credit Card,Monthly
+6cf6fed8-1,a491f812,2024-03-12,800,Credit Card,Annual
+2553b2da-1,281f35f3,2023-04-27,60,Credit Card,Student
+6a5abc7c-8,6b44961c,2025-12-04,450,Bank Transfer,6-month
+e65bd01c-b,52b44512,2024-03-28,120,Bank Transfer,Vip
+dce3a851-b,c67276c1,2024-02-17,60,Cash,Student
+923276b9-c,bad4e8af,2025-07-04,800,Bank Transfer,Annual
+57aff084-2,0277325f,2023-10-09,800,Bank Transfer,Annual
+794413ea-d,99d5b97d,2025-03-06,800,Credit Card,Annual
+174b8c16-8,82e067ea,2024-09-04,60,Cash,Student
+a9668158-c,7a540feb,2024-09-16,60,Cash,Student
+5b86a159-a,9e24ee06,2023-03-22,800,Cash,Annual
+9cc415c7-8,895640fb,2022-07-05,120,Credit Card,Vip
+362feb48-4,9ce412c1,2023-12-27,120,Credit Card,Vip
+4f9ce80b-7,604ceba6,2023-01-17,60,Bank Transfer,Student
+681179e4-e,47aea087,2023-03-07,800,Cash,Annual
+8d307281-a,f255cf64,2025-11-24,800,Bank Transfer,Annual
+dddbcd43-f,1867210e,2022-11-27,60,Cash,Student
+b17450d1-d,3691d71b,2023-12-27,800,Bank Transfer,Annual
+322eedbb-e,6616d947,2023-02-28,120,Cash,Vip
+eb34996f-a,b6df5702,2022-04-28,60,Credit Card,Student
+a14e2d08-b,bd81e325,2023-08-20,800,Cash,Annual
+66a447a4-5,39ed3bbb,2023-12-05,60,Cash,Student
+47d3cec0-3,6f2121c1,2023-03-31,450,Credit Card,6-month
+cae6b8fe-e,dd6dd3ff,2024-09-15,80,Credit Card,Monthly
+d0fd310f-0,25689ce5,2023-10-05,450,Credit Card,6-month
+c725e173-9,bb90aa50,2024-06-06,450,Cash,6-month
+1801e339-0,2689fbf3,2023-07-03,120,Bank Transfer,Vip
+746eb140-e,057872b3,2024-03-06,450,Cash,6-month
+c0dcf182-6,acd69259,2022-05-26,800,Bank Transfer,Annual
+9ce29e6e-3,361cdc62,2024-04-05,120,Cash,Vip
+de8c7aa0-7,fba743c8,2025-03-24,800,Credit Card,Annual
+ac8b80a4-b,290de067,2023-11-01,800,Cash,Annual
+ff24eb19-8,59f9e4e8,2025-08-26,60,Bank Transfer,Student
+fc9dc33a-6,e88de345,2024-08-02,800,Credit Card,Annual
+f4f4d5c5-c,027ce6d0,2024-07-19,60,Cash,Student
+8894f3d8-e,a4ffb39d,2023-10-10,800,Cash,Annual
+e9566dc6-4,9e24ee06,2022-08-27,800,Bank Transfer,Annual
+27e9b958-2,c9c99e46,2023-06-18,120,Cash,Vip
+504f6cb6-3,c92b5fce,2024-10-01,800,Bank Transfer,Annual
+238dc8c9-f,8d3abcec,2022-07-07,450,Cash,6-month
+fbf853aa-f,aa1e4428,2022-09-09,80,Cash,Monthly
+d71a00ed-7,25689ce5,2024-01-17,450,Bank Transfer,6-month
+e5df812c-8,09f0639a,2023-10-03,60,Bank Transfer,Student
+1ab48805-7,bb58f63e,2024-05-29,80,Bank Transfer,Monthly
+636514b7-0,15ec6e47,2023-06-24,60,Cash,Student
+8db26c6a-f,b355100c,2023-09-26,450,Credit Card,6-month
+385cc133-a,3c7cae7d,2022-11-21,450,Credit Card,6-month
+812437bf-c,ef4186c0,2025-02-23,120,Credit Card,Vip
+2927f76d-c,ae70def6,2023-12-02,80,Credit Card,Monthly
+54356a62-c,c9e7a57c,2025-02-06,800,Bank Transfer,Annual
+67abc099-9,79715a19,2024-09-21,120,Credit Card,Vip
+050d8645-c,2df2b680,2024-06-03,450,Cash,6-month
+d88cdf57-5,187f706f,2023-07-07,80,Bank Transfer,Monthly
+70527c3c-6,f1f94384,2022-09-27,80,Credit Card,Monthly
+1e686821-3,1674a73e,2024-12-16,450,Cash,6-month
+4b901ae1-e,e3f28235,2023-05-05,450,Credit Card,6-month
+f6d4856a-7,01203ea6,2024-06-06,800,Credit Card,Monthly
+8f6e6bb6-a,78d2742d,2023-10-14,120,Cash,Vip
+e6dac1e6-6,7fbb188b,2023-02-14,450,Bank Transfer,6-month
+b70edc42-5,c0c5a4ba,2022-10-06,80,Credit Card,Monthly
+22f3ad95-b,8db769d5,2024-03-15,120,Credit Card,Vip
+2d9128bb-7,c8e8d207,2025-03-01,450,Cash,6-month
+8a856d5b-2,e5857dd9,2024-09-10,60,Cash,Student
+5fd0e4c9-b,ea3aa03e,2025-11-17,450,Bank Transfer,6-month
+12a686b2-4,a668442a,2025-02-07,60,Credit Card,Student
+6ee5b05a-6,58b37d03,2024-01-10,80,Cash,Monthly
+d4be4961-6,0019f444,2024-02-14,60,Bank Transfer,Student
+28dc5f45-2,6ab0a970,2023-03-24,60,Credit Card,Student
+8869ab17-b,0da8e0df,2024-04-27,120,Cash,Vip
+5ec407e6-6,dc8f8d45,2024-10-18,120,Bank Transfer,Vip
+72b259ea-4,a6325746,2025-06-17,450,Cash,6-month
+c5397a05-3,ad34061c,2024-08-26,60,Credit Card,Student
+5b7f2468-a,f25208b7,2025-03-03,80,Bank Transfer,Monthly
+1da90f4b-c,84f71918,2023-08-09,60,Cash,Student
+bbc7efe0-f,02e72e64,2023-12-29,800,Bank Transfer,Annual
+2cda0e6a-3,040e226a,2025-03-12,120,Cash,Vip
+db54184f-e,0046a040,2022-07-25,120,Cash,Vip
+0f1841b7-e,00d48244,2024-12-25,800,Cash,Annual
+0665955c-b,c024129b,2024-06-01,800,Credit Card,Annual
+49c7d7ba-3,cec159e8,2024-08-31,450,Cash,6-month
+8cdd0803-a,cb210247,2024-09-06,60,Bank Transfer,Student
+2484e668-c,82a61dd8,2024-07-16,800,Credit Card,Annual
+113fa039-e,e88de345,2024-03-02,800,Bank Transfer,Annual
+0bb1e5e9-f,902a851f,2024-01-27,60,Bank Transfer,Student
+72ded24e-8,5cac683a,2023-09-30,120,Bank Transfer,Vip
+98f47f35-7,24e7975b,2023-04-02,450,Credit Card,6-month
+d7c2d42c-0,47aea087,2023-10-14,800,Credit Card,Annual
+fa8b23e1-2,99d0286d,2023-05-13,80,Cash,Monthly
+38df6ac9-f,7b41442d,2022-10-25,80,Cash,Monthly
+1089afab-3,027ce6d0,2025-01-29,60,Credit Card,Student
+4e95f5e2-7,619ee721,2025-01-18,450,Credit Card,6-month
+1830e0ac-3,a491f812,2024-02-18,800,Bank Transfer,Annual
+c86357c8-7,b213e981,2024-09-10,450,Cash,6-month
+d9a82697-8,eac4934a,2023-04-10,800,Cash,Annual
+ffb17fca-c,9443fb35,2025-04-09,80,Cash,Monthly
+93962401-6,abb474be,2024-03-29,800,Credit Card,Annual
+4beac30b-e,d23fe9b1,2024-08-13,800,Bank Transfer,Annual
+15cfe058-9,ad7e1a34,2024-04-09,60,Cash,Student
+3655fb60-0,b6a904ae,2022-05-02,80,Cash,Monthly
+307a6958-a,6eb0aee3,2023-12-05,60,Bank Transfer,Student
+0e4097d4-2,f4af1d26,2023-10-21,450,Cash,6-month
+44d3c68b-b,ca8d0527,2023-01-20,120,Bank Transfer,Vip
+20a87549-3,afc9f8fb,2025-07-19,450,Credit Card,6-month
+fe2c87b5-c,cf559a93,2024-06-15,120,Bank Transfer,Vip
+346e4282-f,6e1f1074,2023-11-09,450,Bank Transfer,6-month
+0994810a-9,f7a04965,2022-10-31,450,Bank Transfer,6-month
+95b008db-0,6ae21bb6,2023-03-19,60,Credit Card,Student
+d5016608-c,bec9f841,2023-05-30,60,Cash,Student
+8ab4eda8-d,18b73fa5,2025-01-06,120,Credit Card,Vip
+0e065c35-0,3b0a7079,2024-12-18,800,Cash,Annual
+4b7abf5a-f,2dbb02bc,2022-09-25,80,Credit Card,Monthly
+39186f9a-8,290de067,2023-03-08,800,Cash,Annual
+c0d3c684-8,c3ed93ee,2025-07-16,60,Bank Transfer,Student
+f245bae9-f,a57f35db,2024-04-24,800,Credit Card,Annual
+8bcda10b-a,ca8d0527,2022-09-23,120,Bank Transfer,Vip
+1e7fe4b3-c,a47c1af9,2023-04-27,800,Credit Card,Annual
+ecb8d533-c,ba578f8e,2023-06-06,120,Bank Transfer,Vip
+4eb12f44-4,895640fb,2022-05-18,120,Credit Card,Vip
+67641a53-0,cbd69211,2022-09-21,60,Credit Card,Student
+658d8d61-b,13136a95,2024-06-26,60,Bank Transfer,Student
+2351f205-d,9c704859,2024-05-24,800,Credit Card,Annual
+5817156e-2,f1b4b7f7,2023-12-17,80,Bank Transfer,Monthly
+11669e40-7,4ab1597a,2022-09-03,60,Credit Card,Student
+d7269fd9-c,a86285c1,2025-07-28,80,Credit Card,Monthly
+9e1a930a-c,c8a38ae9,2023-08-02,60,Credit Card,Student
+bcc2acc8-8,10347cf4,2024-02-23,80,Cash,Monthly
+3429ba87-3,65f267d8,2023-05-21,450,Cash,6-month
+1ebdb39d-0,81a60181,2024-06-11,800,Credit Card,Annual
+926fdbab-d,da7559af,2022-04-10,120,Cash,Vip
+41abe1d6-6,1743c239,2023-01-09,800,Bank Transfer,Annual
+aa5f154e-6,3239c726,2022-09-10,450,Bank Transfer,6-month
+6054d15e-4,2ae031db,2024-12-01,80,Cash,Monthly
+48bd7f0b-4,c2e37060,2023-11-12,120,Credit Card,Vip
+aea1fe6d-e,54c61e24,2024-09-05,450,Cash,6-month
+915ecffa-d,c2e37060,2024-05-23,120,Bank Transfer,Vip
+9f07c357-b,63af0f42,2023-09-22,800,Bank Transfer,Annual
+89aa11d3-3,dc0e8c24,2023-10-29,120,Cash,Vip
+4c9f6382-9,c5b8c88d,2024-03-17,450,Bank Transfer,6-month
+58c5cb8d-4,c3ed93ee,2024-09-09,60,Cash,Student
+6772930f-6,c0c5a4ba,2022-04-04,80,Credit Card,Monthly
+5182733c-f,cf8a93dc,2023-10-02,800,Credit Card,Annual
+f3ec77e3-5,4f90ba5b,2024-09-17,800,Cash,Annual
+e28f0f34-2,016c397f,2023-03-12,60,Bank Transfer,Student
+b5fae594-0,536a7bac,2024-08-21,800,Credit Card,Annual
+f6a57392-6,62a1136f,2024-02-19,800,Bank Transfer,Annual
+fb735833-8,52c779fb,2024-01-08,120,Credit Card,Vip
+fd46bbed-7,9e24ee06,2023-05-03,800,Cash,Annual
+91817870-2,a491f812,2024-05-19,800,Credit Card,Annual
+5911fe8e-2,a0311b92,2023-01-08,120,Bank Transfer,Vip
+094fd6fe-b,27ba1d95,2023-11-12,80,Cash,Monthly
+5a344d48-5,a85b8fef,2025-07-28,120,Credit Card,Vip
+fded621d-8,b213e981,2024-12-30,450,Cash,6-month
+0db573b8-1,0046a040,2023-01-02,120,Credit Card,Vip
+2423231d-6,652706a1,2023-03-23,450,Cash,6-month
+15468c3c-c,7e460922,2022-06-01,450,Credit Card,6-month
+9b4a75a4-0,bbee92d9,2024-06-22,800,Credit Card,Annual
+243ea361-8,0277325f,2023-08-18,800,Bank Transfer,Annual
+6e9e7fee-3,92a7724e,2025-05-05,450,Bank Transfer,6-month
+d5d61e18-9,e7484cd2,2024-04-20,120,Cash,Vip
+da77228b-8,483c65ac,2025-04-14,800,Credit Card,Annual
+7a913b9d-d,d6c62ea8,2024-08-13,120,Bank Transfer,Vip
+4a8781dc-a,80cd8a09,2022-12-17,60,Credit Card,Student
+9aeaef89-4,42e86069,2023-05-31,450,Bank Transfer,6-month
+e9ba4836-0,361cdc62,2024-06-14,120,Bank Transfer,Vip
+81dae1fc-d,a491f812,2024-06-16,800,Credit Card,Annual
+25b48f66-a,58b37d03,2023-12-01,80,Bank Transfer,Monthly
+1c634f5b-5,027ce6d0,2024-07-24,60,Bank Transfer,Student
+58d9e37d-0,8704268b,2023-04-11,800,Bank Transfer,Annual
+fa06eb40-8,8bc8fb49,2024-02-29,60,Cash,Student
+81179aca-9,0cef28ca,2023-07-12,450,Credit Card,6-month
+87c43e67-2,c93c201d,2024-05-28,450,Cash,6-month
+fd7ac546-4,a80153c3,2023-08-19,120,Credit Card,Vip
+93b9e880-3,ca8d0527,2023-04-28,120,Bank Transfer,Vip
+f56e1837-f,0eac2342,2024-05-05,120,Cash,Vip
+7f7dea3a-6,ae4bc23a,2024-12-11,120,Cash,Vip
+1734d562-5,dfa29acd,2022-07-13,800,Credit Card,Annual
+027fabdb-7,8d3abcec,2022-09-02,450,Credit Card,6-month
+613ba450-f,233dea15,2023-08-05,450,Credit Card,6-month
+12502456-1,ecc78c1c,2023-06-10,80,Cash,Monthly
+55d83a1e-5,bec9f841,2023-04-18,60,Credit Card,Student
+29e2217d-5,78d2742d,2024-01-26,120,Credit Card,Vip
+144e0410-7,63dbe325,2023-04-04,80,Credit Card,Monthly
+5b308998-7,c0c5a4ba,2022-06-13,80,Credit Card,Monthly
+591db63a-b,6462cc06,2024-11-17,80,Bank Transfer,Monthly
+d13c606a-d,6ab0a970,2023-02-22,60,Credit Card,Student
+9316ec48-c,13136a95,2024-09-22,60,Credit Card,Student
+d98cae6a-f,9ae4ae19,2025-04-01,60,Credit Card,Student
+19dd412e-b,c67276c1,2023-09-27,60,Bank Transfer,Student
+1841a7f0-d,a491f812,2024-10-22,800,Cash,Annual
+ea423d4b-f,a491f812,2024-08-28,800,Credit Card,Annual
+72bd761c-8,bbee92d9,2024-01-24,800,Cash,Annual
+288c7a7d-7,cc753b41,2024-07-05,450,Credit Card,6-month
+9b5ea8f7-3,c4b36280,2023-01-16,450,Cash,6-month
+5822ec30-8,bad4e8af,2024-11-15,800,Cash,Annual
+db5ca24d-b,a668442a,2025-07-08,60,Cash,Student
+99f1e06c-2,7fdaba4f,2025-01-14,80,Cash,Monthly
+4167ceb5-f,468bec1e,2024-05-19,450,Cash,6-month
+cb7f2dc8-b,34d3f2b6,2024-11-22,60,Cash,Student
+b003ec77-c,35a12afe,2023-06-30,80,Cash,Monthly
+87c5e1b9-8,c10e4645,2024-04-15,800,Cash,Annual
+cee8b5df-c,227e3777,2024-10-25,60,Cash,Student
+383aa910-b,0277325f,2023-03-23,800,Cash,Annual
+d26f5092-e,6ce2f172,2023-10-22,60,Cash,Student
+161f6742-5,d55b2810,2024-06-17,120,Cash,Vip
+5c8a3c9d-d,e7aa925b,2024-12-10,80,Cash,Monthly
+6975be64-1,563ea2cc,2022-04-19,60,Bank Transfer,Student
+fd57a6ca-c,acd69259,2022-05-22,800,Bank Transfer,Annual
+26fc7c43-6,c6016f31,2024-09-30,450,Bank Transfer,6-month
+2fc4bd4e-7,cf2c6a84,2024-04-04,800,Credit Card,Annual
+46718874-8,227e3777,2024-07-17,60,Credit Card,Student
+d4d04c5d-3,84efc9ca,2023-07-17,120,Bank Transfer,Vip
+af5ed4fa-d,cfccea51,2025-03-05,60,Credit Card,Student
+4001f6dd-c,3f6ed9e5,2023-04-05,450,Cash,6-month
+31339717-a,bf5d11ab,2023-07-03,80,Credit Card,Monthly
+5d28839e-5,31b81ada,2022-12-15,120,Credit Card,Vip
+0b8dd453-6,9ae4ae19,2025-07-27,60,Cash,Student
+26665480-4,9ae4ae19,2025-01-28,60,Cash,Student
+b782c1da-b,dfeb819a,2022-05-07,80,Cash,Monthly
+6fd3c76c-8,7e460922,2022-06-18,450,Bank Transfer,6-month
+95bb05b2-2,06e9bee5,2024-06-02,800,Credit Card,Annual
+b1203724-1,5943beae,2022-07-05,80,Credit Card,Monthly
+d0fb4edd-1,f81e4935,2023-08-25,80,Credit Card,Monthly
+79064790-3,77fef229,2023-06-10,800,Bank Transfer,Annual
+44af367d-4,c9c7f0a3,2022-07-28,80,Cash,Monthly
+1f278707-c,e6b5e2f1,2024-02-23,80,Bank Transfer,Monthly
+d49a8a98-7,1da3845b,2025-08-30,60,Cash,Student
+47a72cb8-2,ad34061c,2024-09-01,60,Cash,Student
+6bbb67fc-1,59f9e4e8,2025-01-29,60,Cash,Student
+000c6054-5,d0424e3c,2023-04-23,450,Cash,6-month
+c65198e8-4,f8540cbd,2023-04-16,120,Cash,Vip
+1725401e-9,dc8f8d45,2024-08-22,120,Bank Transfer,Vip
+b020bfdd-0,9def56c5,2022-12-21,80,Credit Card,Monthly
+436bb1ca-6,da123716,2025-05-08,450,Bank Transfer,6-month
+f0c10051-c,bbee92d9,2024-02-23,800,Bank Transfer,Annual
+518ff6ff-6,7fbb188b,2022-10-23,450,Cash,6-month
+3014be8c-8,24d83fab,2023-09-09,120,Credit Card,Vip
+6d4fc8dd-b,58b37d03,2023-11-03,80,Cash,Monthly
+8c5536fd-4,1a80005e,2024-05-23,120,Bank Transfer,Vip
+4c4c9f6f-f,2a4259bc,2025-08-06,800,Bank Transfer,Annual
+09f10455-7,5cbc5242,2024-10-21,450,Credit Card,6-month
+1fc85f75-3,4f617d4c,2024-05-20,800,Credit Card,Annual
+ba10bdad-1,f761da01,2023-02-13,60,Cash,Student
+08cb2dd0-6,c024129b,2024-05-05,800,Cash,Annual
+e41786ff-f,7a540feb,2024-09-14,60,Credit Card,Student
+71bd136e-5,af7642b1,2022-10-31,60,Bank Transfer,Student
+129dd028-e,3e88e16d,2022-11-15,800,Bank Transfer,Annual
+4b3a545e-a,53c7a186,2023-04-07,120,Cash,Vip
+bc394864-e,34f8c6fb,2024-07-20,600,Bank Transfer,Student
+19b2bd7e-9,18b73fa5,2024-11-30,120,Bank Transfer,Vip
+bf300a37-a,7e8191e6,2022-07-13,60,Cash,Student
+c8abc5eb-e,a7372399,2022-11-16,450,Credit Card,6-month
+81e05590-7,3885fd09,2023-07-10,800,Credit Card,Annual
+81b03e89-d,1da3845b,2024-11-05,60,Cash,Student
+05d89d14-f,b643137a,2022-10-29,80,Credit Card,Monthly
+aca18a08-2,ee285884,2023-01-20,800,Bank Transfer,Annual
+c9e8182a-9,604ceba6,2023-08-03,60,Bank Transfer,Student
+4b072205-8,c67276c1,2023-08-02,60,Credit Card,Student
+5a541bf4-b,a8e3f614,2024-03-28,120,Bank Transfer,Vip
+2456cf91-1,00d48244,2025-05-19,800,Credit Card,Annual
+705b768f-c,c2728202,2023-02-27,60,Bank Transfer,Student
+c6dd5b29-8,5943beae,2022-08-18,80,Bank Transfer,Monthly
+1f5f3669-5,846a8271,2023-06-20,800,Cash,Annual
+14251b96-3,dfc00e1b,2024-09-30,450,Cash,6-month
+164080ac-c,f5993578,2025-08-22,120,Bank Transfer,Vip
+504b87aa-c,846a8271,2023-08-27,800,Bank Transfer,Annual
+6ff6f580-b,35d8673d,2023-06-29,120,Bank Transfer,Vip
+3a57a8b4-d,a47c1af9,2022-10-18,800,Bank Transfer,Annual
+2834e739-1,0e28dded,2023-12-16,800,Bank Transfer,Annual
+9bffb925-2,550191d7,2023-05-07,800,Cash,Annual
+643c865d-3,b643137a,2022-08-04,80,Credit Card,Monthly
+d548188b-4,233dea15,2023-02-12,450,Cash,6-month
+a7e4cf83-4,ef4186c0,2025-01-06,120,Credit Card,Vip
+e74c27ec-c,34f8c6fb,2024-07-31,60,Cash,Student
+3fee6812-7,52b44512,2023-10-28,120,Cash,Vip
+78abfbef-a,d952b146,2023-05-30,450,Cash,6-month
+023f98b8-5,0c196761,2023-10-31,120,Bank Transfer,Vip
+a9cb56b1-4,1d46356a,2023-04-21,80,Bank Transfer,Monthly
+fb081ab6-5,a8e3f614,2024-06-02,120,Credit Card,Vip
+4b0cc085-e,b4351e11,2022-07-09,120,Bank Transfer,Vip
+d617bca9-f,00ea28ba,2024-07-28,60,Cash,Student
+0c262562-0,f29942cc,2024-10-18,120,Cash,Vip
+f57892fe-9,78201ac3,2024-07-13,800,Credit Card,Annual
+1487e338-b,afc9f8fb,2025-03-17,450,Credit Card,6-month
+16dfe720-5,e2286b77,2024-04-14,80,Cash,Monthly
+753a8cdc-1,35a12afe,2023-05-18,80,Credit Card,Monthly
+60749a45-2,dc5a1e62,2023-03-30,60,Bank Transfer,Student
+25b2d051-8,3239c726,2023-05-30,450,Credit Card,6-month
+a0bc2d32-4,b3db0c26,2023-08-03,60,Credit Card,Student
+b3abecca-0,c6016f31,2025-05-19,450,Cash,6-month
+87cf672f-4,75be0817,2024-05-13,60,Cash,Student
+5e72ee89-9,b112238a,2025-02-02,800,Credit Card,Annual
+d2dac28d-7,82e067ea,2024-05-10,60,Cash,Student
+e725dd91-6,b112238a,2025-03-20,800,Bank Transfer,Annual
+24d35f66-0,cfa2875c,2022-03-09,60,Credit Card,Student
+e1c49b78-b,739ecac9,2025-02-09,80,Credit Card,Monthly
+d0087452-b,73dc753d,2023-10-05,120,Cash,Vip
+bda13bbb-c,77f83c9f,2023-02-11,450,Credit Card,6-month
+3a9d69c5-9,d8110098,2024-11-18,120,Bank Transfer,Vip
+f9e5c3de-4,c10e4645,2024-10-12,800,Cash,Annual
+62b0a37e-b,8d3abcec,2022-09-12,450,Cash,6-month
+b7ecca97-b,c573c64e,2023-01-02,800,Cash,Annual
+e22e5d43-9,c8a9ef4b,2023-03-15,120,Bank Transfer,Vip
+e1027da6-4,3f5456da,2024-01-25,800,Bank Transfer,Annual
+ca0e48bd-e,b3db0c26,2023-06-26,60,Bank Transfer,Student
+77dfb287-f,ae70def6,2024-10-29,80,Cash,Monthly
+58a35f8c-3,468bec1e,2024-02-15,450,Credit Card,6-month
+1c0ad713-a,abb474be,2024-06-25,800,Bank Transfer,Annual
+678ad8ac-2,e0581cf1,2023-09-12,120,Bank Transfer,Vip
+8a7578b9-4,c2e37060,2023-06-03,120,Bank Transfer,Vip
+daac1b2e-c,7388cf62,2023-05-01,120,Bank Transfer,Vip
+806cb8cd-3,b3db0c26,2023-12-09,60,Credit Card,Student
+bca747e5-8,725fc4a1,2024-12-01,450,Bank Transfer,6-month
+2bdf6453-2,9def56c5,2023-02-05,80,Credit Card,Monthly
+c3408a19-c,2ddd5bbc,2023-06-30,60,Credit Card,Student
+9aa38203-1,ddcf8038,2023-06-04,120,Bank Transfer,Vip
+1853c086-f,f25208b7,2025-02-03,80,Bank Transfer,Monthly
+51adb025-b,a80153c3,2023-11-04,120,Bank Transfer,Vip
+2d4534d0-5,717c21f6,2025-07-25,60,Cash,Student
+2e821e84-2,59dce2f9,2025-08-30,60,Bank Transfer,Student
+a21da0ac-5,84efc9ca,2022-12-21,120,Bank Transfer,Vip
+8e06f70e-d,948d208a,2025-02-17,120,Cash,Vip
+d0f7d1e5-f,4d682358,2024-02-25,120,Bank Transfer,Vip
+b99fb113-2,c9e7a57c,2025-01-26,800,Bank Transfer,Annual
+ac444732-c,aa13dddb,2022-10-17,60,Bank Transfer,Student
+42e2bc68-0,bcb8809a,2023-02-23,60,Cash,Student
+563d76a8-e,725fc4a1,2024-09-09,450,Cash,6-month
+bb6fc222-1,739ecac9,2024-11-24,80,Credit Card,Monthly
+829a5153-9,e8e4a45a,2024-10-22,80,Credit Card,Monthly
+630bfe16-5,f4c3ae94,2022-11-08,450,Bank Transfer,6-month
+f1214d4c-f,27ba1d95,2023-11-15,80,Credit Card,Monthly
+b34bffdd-1,1674a73e,2025-02-28,450,Bank Transfer,6-month
+40f8644e-9,ed5948eb,2024-06-18,120,Credit Card,Vip
+f87fcac2-6,2b0f85bc,2024-10-11,60,Bank Transfer,Student
+73f4df9c-e,7bacc62e,2023-09-07,80,Bank Transfer,Monthly
+77f6acee-5,a86285c1,2025-04-17,80,Bank Transfer,Monthly
+cfbc2cfd-9,550191d7,2023-05-27,800,Bank Transfer,Annual
+1bf49ed6-1,9e24ee06,2022-11-02,800,Cash,Annual
+133e16aa-1,1a80005e,2024-04-02,120,Cash,Vip
+2663b59b-4,8443e232,2023-05-02,60,Credit Card,Student
+1811bda1-c,65f267d8,2023-09-25,450,Bank Transfer,6-month
+78b7db11-4,dd6dd3ff,2024-11-06,80,Cash,Monthly
+d41ab388-5,e18ba1c3,2024-03-04,600,Bank Transfer,Student
+a9163e13-8,14f3f8bd,2023-06-17,450,Cash,6-month
+9ce8cb50-e,ebfad458,2023-04-08,60,Credit Card,Student
+58df9164-6,1867210e,2022-08-04,60,Credit Card,Student
+bb3e0df8-7,82ed87b9,2024-11-10,450,Credit Card,6-month
+520e1530-a,06e9bee5,2024-09-08,800,Bank Transfer,Annual
+563db3c2-b,b155c1a6,2023-12-29,60,Bank Transfer,Student
+2a35eea2-3,0e79b033,2022-09-06,80,Credit Card,Monthly
+48bc78fe-c,0749c34c,2025-06-11,450,Bank Transfer,6-month
+537364e7-9,e6b5e2f1,2024-05-23,80,Cash,Monthly
+39a7783d-6,84f71918,2023-02-19,60,Bank Transfer,Student
+7a085f25-4,cbd69211,2022-06-13,60,Cash,Student
+786b582f-1,cb17c182,2022-11-01,120,Credit Card,Vip
+3a483a58-c,e2a957cb,2023-10-17,120,Bank Transfer,Vip
+ec9b29b5-c,54551151,2023-10-24,80,Bank Transfer,Monthly
+3892b111-d,01ace804,2025-02-16,800,Credit Card,Annual
+56755436-8,a5e3ba8d,2024-02-11,120,Bank Transfer,Vip
+633b4e0c-3,a8e3f614,2024-03-06,120,Credit Card,Vip
+e7fd7a96-1,7ad84e53,2025-01-22,450,Bank Transfer,6-month
+f456da6e-2,f708018e,2024-04-04,120,Credit Card,Vip
+aa837964-6,8db769d5,2023-09-22,120,Cash,Vip
+ef62beb0-c,8adb8940,2024-03-07,450,Cash,6-month
+0a05c0d8-b,80cd8a09,2022-11-08,60,Cash,Student
+4836fcb2-f,99d5b97d,2025-10-11,800,Cash,Annual
+e95acc42-d,040e226a,2024-12-15,120,Credit Card,Vip
+009a0311-2,d8110098,2024-08-03,120,Credit Card,Vip
+b5f454cc-4,cf2c6a84,2024-04-27,800,Bank Transfer,Annual
+4002dfb3-6,8bc8fb49,2023-05-10,60,Credit Card,Student
+4276b930-e,9feb9904,2023-12-18,80,Bank Transfer,Monthly
+0679ba4d-8,1d909838,2024-10-13,80,Cash,Monthly
+516676f3-6,35d8673d,2022-07-24,120,Cash,Vip
+ac3776af-a,2ddd5bbc,2023-10-07,60,Cash,Student
+935f76a3-0,60d7e896,2022-09-30,450,Cash,6-month
+38ee93c6-9,b213e981,2024-10-20,450,Credit Card,6-month
+d5db400e-a,79715a19,2024-01-22,120,Bank Transfer,Vip
+b1463160-2,a70de20b,2025-08-10,80,Bank Transfer,Monthly
+49597dc6-9,725fc4a1,2024-04-13,450,Cash,6-month
+4d745d55-6,3b0a7079,2024-11-03,800,Credit Card,Annual
+e6105a12-d,b042aa37,2023-06-04,450,Bank Transfer,6-month
+50fc8a8e-6,c8a9ef4b,2022-09-05,120,Cash,Vip
+fd6c802f-2,1a39849a,2024-05-28,80,Cash,Monthly
+6e894af5-2,ad34061c,2024-11-26,60,Bank Transfer,Student
+bffef4fd-e,f4af1d26,2024-02-23,450,Credit Card,6-month
+25b3638e-a,8d3abcec,2023-03-02,450,Cash,6-month
+a4ad4ac6-8,988fbf6e,2022-07-20,800,Cash,Annual
+7f017231-1,f81e4935,2023-10-08,80,Cash,Monthly
+82dea3ac-0,d0ecbb09,2023-01-23,450,Cash,6-month
+e3dff9a9-c,2fae1dca,2024-08-13,800,Cash,Annual
+b913bd1b-f,81a60181,2024-05-09,800,Cash,Annual
+46aab483-3,20490908,2023-04-09,60,Bank Transfer,Student
+58cafa40-8,c573c64e,2023-03-17,800,Credit Card,Annual
+523050e7-6,7f5ce621,2023-07-01,60,Cash,Student
+6ffaf440-f,2f0e0c45,2024-08-22,450,Credit Card,6-month
+61c95273-3,0019f444,2023-08-12,60,Cash,Student
+555e93d7-1,bbee92d9,2024-04-20,800,Credit Card,Annual
+3664c557-6,54c61e24,2025-03-08,450,Credit Card,6-month
+a6f617c0-c,54551151,2023-07-04,80,Credit Card,Monthly
+5f1dd046-b,4f617d4c,2025-03-08,800,Credit Card,Annual
+e1dc085b-1,14d07ebc,2024-06-06,80,Cash,Monthly
+33dfc699-1,e97eb0ae,2022-02-05,450,Bank Transfer,6-month
+d246fe55-7,f80923b7,2022-10-06,120,Bank Transfer,Vip
+1b15f71a-a,6ce2f172,2023-08-22,60,Credit Card,Student
+d6898e90-9,c2728202,2022-07-05,60,Cash,Student
+7cbeb7b3-5,7d00b5d4,2024-06-03,80,Bank Transfer,Monthly
+1d92e33e-7,846a8271,2024-06-07,800,Credit Card,Annual
+b4f5c488-8,f8df9053,2022-12-27,80,Bank Transfer,Monthly
+c68e9530-d,e9f4c6f9,2023-09-27,120,Credit Card,Vip
+1369161a-0,1b2eff9b,2024-01-01,80,Cash,Monthly
+61b0f7dc-a,24cbb1a8,2022-05-21,60,Bank Transfer,Student
+d6679cde-1,1c3cb995,2024-12-10,80,Credit Card,Monthly
+e55eed0b-2,03a7c7e0,2024-08-15,120,Credit Card,Vip
+f05bc1c9-6,03a7c7e0,2024-10-23,120,Credit Card,Vip
+0ea010f7-8,49b4d657,2023-05-13,450,Cash,6-month
+10d8162f-8,9e7cf81c,2023-04-15,60,Cash,Student
+6b31c41c-d,dd6dd3ff,2024-07-18,80,Bank Transfer,Monthly
+5a50dcd5-e,75be0817,2024-06-16,60,Cash,Student
+33b3da16-3,290de067,2023-11-21,800,Cash,Annual
+e373c5f4-3,1b465efd,2022-12-19,450,Credit Card,6-month
+f2926df5-6,a1451547,2023-11-30,120,Bank Transfer,Vip
+f8e97598-d,aee28b2f,2024-09-26,450,Credit Card,6-month
+0a5a79d6-1,20490908,2023-10-16,60,Cash,Student
+66303f53-7,8e2396fa,2023-06-22,120,Credit Card,Vip
+d641aada-7,b3db0c26,2023-10-02,60,Credit Card,Student
+f4c49bae-7,92a7724e,2024-09-28,450,Bank Transfer,6-month
+3c037617-4,b56f0ecb,2024-10-30,80,Bank Transfer,Monthly
+f4e2785a-c,587cd75f,2022-10-08,450,Bank Transfer,6-month
+6b682fd5-7,cf8a93dc,2023-07-09,800,Credit Card,Annual
+2bdf3ec6-b,7d00b5d4,2024-08-05,80,Cash,Monthly
+fc91d48d-2,d36fbad2,2024-05-18,60,Cash,Student
+dd77370b-d,a86285c1,2025-07-14,80,Bank Transfer,Monthly
+e1614307-3,43eb9d11,2023-02-13,120,Cash,Vip
+3cb48eef-f,e2a957cb,2023-08-16,120,Credit Card,Vip
+f37177e8-6,846a8271,2023-12-05,800,Credit Card,Annual
+0064fe24-a,d23fe9b1,2025-03-12,800,Cash,Annual
+06c0cb61-2,ecc78c1c,2023-01-23,80,Cash,Monthly
+6c8a219c-1,00d48244,2025-07-02,800,Bank Transfer,Annual
+3953e378-8,52c779fb,2024-04-25,120,Bank Transfer,Vip
+8d223ad2-6,8adb8940,2024-06-14,450,Credit Card,6-month
+0c6b31dc-7,42bc5995,2024-09-16,80,Bank Transfer,Monthly
+26d44e5a-c,84d817c2,2022-12-19,120,Credit Card,Vip
+2ff56e64-1,c2728202,2022-08-29,60,Credit Card,Student
+d945e431-6,1e6a4c61,2023-12-25,60,Credit Card,Student
+fb8b021f-8,62a1136f,2024-01-31,800,Credit Card,Annual
+9ff1d86a-2,25689ce5,2023-12-14,450,Cash,6-month
+babf3b40-2,b0d43c93,2025-03-14,80,Credit Card,Monthly
+2116c168-b,361cdc62,2024-04-13,120,Bank Transfer,Vip
+a6da4939-4,f7201646,2023-04-08,80,Bank Transfer,Monthly
+1d4edc13-f,b4351e11,2022-02-10,120,Credit Card,Vip
+2e6fffc0-b,64b0e6f6,2022-11-03,60,Credit Card,Student
+d8430fa6-5,c55ad0c5,2022-10-30,60,Bank Transfer,Student
+f9e0aef4-1,20584233,2025-06-03,120,Credit Card,Vip
+40ac092f-5,19676de4,2023-01-13,60,Credit Card,Student
+3a584767-c,cf10c67d,2022-12-26,80,Cash,Monthly
+692c15dd-7,7ad84e53,2024-05-22,450,Bank Transfer,6-month
+9bd971c7-6,5a36eb86,2022-08-23,60,Bank Transfer,Student
+e3cdbd40-c,05c5eab5,2023-05-20,450,Bank Transfer,6-month
+e8c216ae-6,ed5948eb,2023-07-08,120,Cash,Vip
+aaa23129-8,84f71918,2023-03-10,60,Bank Transfer,Student
+56bf6241-2,92664aa5,2024-09-19,120,Cash,Vip
+9df34df1-5,2b0f85bc,2025-03-10,60,Bank Transfer,Student
+da702563-b,aa1e4428,2023-03-12,80,Cash,Monthly
+b5e9031f-7,d6c62ea8,2024-05-01,120,Credit Card,Vip
+c24d799a-6,b112238a,2025-01-21,800,Bank Transfer,Annual
+5067e024-a,d3da436b,2024-05-12,120,Credit Card,Vip
+5d882d93-b,78d2742d,2024-10-02,120,Credit Card,Vip
+3366ae0e-0,59dce2f9,2025-08-13,60,Bank Transfer,Student
+4364eb87-c,361cdc62,2024-03-07,120,Bank Transfer,Vip
+4283676b-d,82ed87b9,2025-01-22,450,Bank Transfer,6-month
+a4254846-3,3c7cae7d,2023-01-22,450,Cash,6-month
+feaf8552-a,e88de345,2024-03-02,800,Credit Card,Annual
+9b0b90fe-f,82e067ea,2025-03-27,60,Bank Transfer,Student
+bf722a73-3,09f0639a,2023-01-25,60,Credit Card,Student
+2bdb62d9-2,73dc753d,2024-02-23,120,Cash,Vip
+d562b9a7-d,0da8e0df,2024-02-03,120,Cash,Vip
+839dadbc-5,f761da01,2023-05-24,60,Bank Transfer,Student
+68587852-3,b6a904ae,2022-03-20,80,Credit Card,Monthly
+90ed55eb-a,842f1b49,2022-06-07,450,Cash,6-month
+b1fba0b3-9,a9a734d5,2024-02-10,60,Bank Transfer,Student
+90104c2b-0,05c5eab5,2023-03-10,450,Credit Card,6-month
+c62b5b46-8,725fc4a1,2024-10-08,450,Bank Transfer,6-month
+a73ceb26-1,c573c64e,2023-06-24,800,Cash,Annual
+d5f14edc-a,587cd75f,2022-08-15,450,Cash,6-month
+1d50c3aa-e,9a8dd66b,2025-01-17,120,Bank Transfer,Vip
+77045289-9,5c6b9981,2024-12-30,800,Bank Transfer,Annual
+fbfd892f-a,8e2396fa,2023-11-15,120,Cash,Vip

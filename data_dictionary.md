@@ -34,3 +34,29 @@ This document describes the attributes of the PulseFit clean datasets after ETL 
 | `amount` | Amount (TND) | Decimal | Outliers corrected (10x errors fixed) |
 | `payment_method`| Method | String | [Cash, Credit Card, Bank Transfer] |
 | `membership_type`| Plan paid for | String | Standardized case |
+
+## 4. Trainers Dataset (`trainers_raw.csv`)
+| Column Name | Description | Data Type | Notes |
+| :--- | :--- | :--- | :--- |
+| `trainer_id` | Unique ID | String | Primary Key |
+| `full_name` | Trainer Name | String | - |
+| `specialization`| Expertise | String | [Yoga, HIIT, Pilates, etc.] |
+| `branch` | Base Branch | String | - |
+
+## 5. Classes Dataset (`classes_raw.csv`)
+| Column Name | Description | Data Type | Notes |
+| :--- | :--- | :--- | :--- |
+| `class_id` | Unique ID | String | Primary Key |
+| `class_name` | Class Title | String | - |
+| `trainer_id` | Instructor | String | Links to Trainers |
+| `day_of_week` | Schedule Day | String | - |
+| `max_capacity` | Max spots | Integer | - |
+
+## 6. Bookings Dataset (`bookings_raw.csv`)
+| Column Name | Description | Data Type | Notes |
+| :--- | :--- | :--- | :--- |
+| `booking_id` | Unique ID | String | - |
+| `member_id` | Member ID | String | Links to Members |
+| `class_id` | Class ID | String | Links to Classes |
+| `status` | Booking State | String | [Confirmed, Attended, No-show] |
+| `booking_date` | Date | Date | - |
