@@ -32,8 +32,3 @@ This document defines the core Business Intelligence measures for the PulseFit e
 | :--- | :--- | :--- |
 | **Trainer Utilization** | `Number of Classes Taught / Available Working Slots` | Identifies staff efficiency and potential burnout. |
 | **Branch Index** | `Weighted average of Revenue and Visits per Branch` | Compares performance across Tunisia branches. |
-
----
-
-> [!TIP]
-> **Implementation Note**: These measures are designed for **DAX (Power BI)** or **SQL-based** calculation. By using the `DimDate` table as a shared axis, all these measures can be compared Year-Over-Year (YOY) accurately.
